@@ -24,14 +24,15 @@
 18. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-25-34-84%20head.png" title="" alt="84 head.png" width="50"> [Dash](https://drive.google.com/drive/folders/1wfTM3V0LHOdU4CqaU-Qe3gmNDq4qxrLp?usp=sharing) (**5.5.1**): Thư viện guide của tất cả ngôn ngữ
 19. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.9**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
 20. ![Drop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.2**): Lấy màu mã hex, dành cho dân thiết kế
-    
-    
 21. ![EverWeb.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-09-EverWeb.png) [Everweb](https://drive.google.com/drive/folders/1gxJLPllnrw4Wpkg3eXTWb1AXNryyzQc6?usp=sharing) (**3.4.1**): Thiết kế web trực quan, mạnh mẽ
-22. ![Gifox.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) 
-23. ![GitHub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png) 
-24. 
-25. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) 
-26. 
+22. ![evkey.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png) [Evkey](https://evkeyvn.com/) (**auto**): Gõ tiếng việt tốt nhất (`free`)
+    
+    
+23. ![Gifox.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) 
+24. ![GitHub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png) 
+25. 
+26. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) 
+27. 
     
     
     
