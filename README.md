@@ -22,13 +22,16 @@
 16.  ![Cloudmounter.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-22-27-Cloudmounter.png) [Cloud Mounter](https://drive.google.com/drive/folders/1qQV0L-qtZxCt9Js-ldUeBTJSs47xKN1u?usp=sharing) (**3.7**): Quản lí dữ liệu đám mây, và truy cập giao thức FTP... 
 17. ![CodeRunner.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-27-41-CodeRunner.png) [CodeRunner](https://drive.google.com/drive/folders/12Vt635p0zhAh23K7wOS1gcLRGAdijbno?usp=sharing) (**4.0.2**): Chạy code test nhanh gọn lẹ mọi ngôn ngữ
 18. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-25-34-84%20head.png" title="" alt="84 head.png" width="50"> [Dash](https://drive.google.com/drive/folders/1wfTM3V0LHOdU4CqaU-Qe3gmNDq4qxrLp?usp=sharing) (**5.5.1**): Thư viện guide của tất cả ngôn ngữ
-19. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) 
-20. ![EverWeb.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-09-EverWeb.png) 
-21. ![Gifox.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) 
-22. ![GitHub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png) 
-23. 
-24. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) 
-25. 
+19. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.9**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
+20. ![Drop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.2**): Lấy màu mã hex, dành cho dân thiết kế
+    
+    
+21. ![EverWeb.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-09-EverWeb.png) [Everweb](https://drive.google.com/drive/folders/1gxJLPllnrw4Wpkg3eXTWb1AXNryyzQc6?usp=sharing) (**3.4.1**): Thiết kế web trực quan, mạnh mẽ
+22. ![Gifox.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) 
+23. ![GitHub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png) 
+24. 
+25. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) 
+26. 
     
     
     
