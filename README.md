@@ -26,13 +26,12 @@
 20. ![Drop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.2**): Lấy màu mã hex, dành cho dân thiết kế
 21. ![EverWeb.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-09-EverWeb.png) [Everweb](https://drive.google.com/drive/folders/1gxJLPllnrw4Wpkg3eXTWb1AXNryyzQc6?usp=sharing) (**3.4.1**): Thiết kế web trực quan, mạnh mẽ
 22. ![evkey.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png) [Evkey](https://evkeyvn.com/) (**auto**): Gõ tiếng việt tốt nhất (`free`)
-    
-    
-23. ![Gifox.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) 
-24. ![GitHub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png) 
-25. 
-26. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) 
-27. 
+23. ![Folx.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-43-34-Folx.png) [Folx Pro](https://drive.google.com/drive/folders/1j1atHpqK7DB86UUKGJu1-VkDvL5BxoSw?usp=sharing) (**5.23.13963**): Bắt link download video và download Torrent
+24. ![Gifox.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) [Gifox](https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing) (**2.2.2**): Hỗ trợ quay màn hình xuất ra **GIF**
+25. ![GitHub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png) 
+26. 
+27. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) 
+28. 
     
     
     
