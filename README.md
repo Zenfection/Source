@@ -34,8 +34,8 @@
 28. ![hyperdock.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-53-44-hyperdock.png) [HyperDock](https://drive.google.com/drive/folders/1fTEvJgvBWP_S1qJD171exlnNYLJoDmaz?usp=sharing) (**1.8.0.5**): Hỗ trợ thumbnail cửa sổ nhỏ mỗi khi rê chuột vào icon app
 29. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) [IconJar](https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing) (**2.6.3**): Quản lí mọi icon
 30. ![Icons_8.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-35-Icons_8.png) [Icons8](https://drive.google.com/drive/folders/1JdB5oP0VtnTETmb56ok5cPnPjCncRhWK?usp=sharing) (**5.7.4**): Kho icon đầy đủ và mạnh mẽ
-31. ![Intel Power Gadget.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png)  [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**): Quản lí điện năng CPU Intel
-32. ![iTerm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png) [Iterm2](https://iterm2.com/): (**auto**): Chức năng như Terminal, dễ tuỳ biến
+31. ![Intel Power Gadget.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png)  [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**): Quản lí điện năng CPU Intel (`free`)
+32. ![iTerm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png) [Iterm2](https://iterm2.com/): (**auto**): Chức năng như Terminal, dễ tuỳ biến (`free`)
 33. ![Keka.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-25-Keka.png) 
 34. ![LiteIcon.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-31-LiteIcon.png) 
 35. ![Little Snitch.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png) 
