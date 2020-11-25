@@ -33,9 +33,9 @@
 27. [HoRNDIS](https://drive.google.com/drive/folders/1FUnIrrc_F7sJei3JorKor9JcrVyZrqGh?usp=sharing) (**9.2**): Giúp Mac OS có thể sử dụng điện thoại android sử dụng internet trực tiếp
 28. ![hyperdock.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-53-44-hyperdock.png) [HyperDock](https://drive.google.com/drive/folders/1fTEvJgvBWP_S1qJD171exlnNYLJoDmaz?usp=sharing) (**1.8.0.5**): Hỗ trợ thumbnail cửa sổ nhỏ mỗi khi rê chuột vào icon app
 29. ![iconjar.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) [IconJar](https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing) (**2.6.3**): Quản lí mọi icon
-30. ![Icons_8.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-35-Icons_8.png)
-31. ![Intel Power Gadget.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png)  
-32. ![iTerm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png)
+30. ![Icons_8.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-35-Icons_8.png) [Icons8](https://drive.google.com/drive/folders/1JdB5oP0VtnTETmb56ok5cPnPjCncRhWK?usp=sharing) (**5.7.4**): Kho icon đầy đủ và mạnh mẽ
+31. ![Intel Power Gadget.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png)  [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**): Quản lí điện năng CPU Intel
+32. ![iTerm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png) [Iterm2](https://iterm2.com/): (**auto**): Chức năng như Terminal, dễ tuỳ biến
 33. ![Keka.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-25-Keka.png) 
 34. ![LiteIcon.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-31-LiteIcon.png) 
 35. ![Little Snitch.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png) 
@@ -47,13 +47,12 @@
 41. ![Movist.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png)
 42. ![Navicat-Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-40-Navicat-Dark.png)
 43. ![Permute_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-46-Permute_Dark.png)
-44. 
-45. ![Postman_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-57-Postman_Alt.png)  
-46. ![Rocket.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png)
-47. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) 
-48. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-07-Speedtest.png)
-49. ![Sublime Text 3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png)
-50. ![TeamViewer_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png)
-51. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png)
-52. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png)
-53. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png)
+44. ![Postman_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-57-Postman_Alt.png)  
+45. ![Rocket.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png)
+46. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) 
+47. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-07-Speedtest.png)
+48. ![Sublime Text 3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png)
+49. ![TeamViewer_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png)
+50. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png)
+51. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png)
+52. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png)
