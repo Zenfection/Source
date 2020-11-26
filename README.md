@@ -69,6 +69,7 @@
 
 ## Nếu nhu cầu của các bạn còn thiếu thì hãy vào trang sau đây tham khảo nha
 
-- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-33-17-logo2020.png" title="" alt="logo2020.png" width="100">](https://maclife.vn/mac-application) 
-  
-  
+- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-33-17-logo2020.png" title="" alt="logo2020.png" width="100">](https://maclife.vn/mac-application) : Vì Maclife dùng server Fshare nên bạn muốn rẻ hãy mua point thay vì đăng ký Fshare nha!!!
+- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-35-07-nmac.png" title="" alt="nmac.png" width="100">](https://nmac.to/) : Các bạn nên chọn server tải là **1fichier** và **racaty** để đạt tốc độ tối đa nha (*1fichier nhanh nhất*)
+
+- [<img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-36-12-logo.png" alt="logo.png" width="100">](https://www.torrentmac.net/) : Các bạn download App **Fold Pro** bên trên để get torrent về nha
