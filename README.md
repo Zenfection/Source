@@ -62,7 +62,7 @@
 
 2. ![Adobe Acrobat DCpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-00-Adobe%20Acrobat%20DC.png) [Adobe Acrobat Pro - Google Drive](https://drive.google.com/drive/folders/1K9MGzQsucyd9U0_mpbHY6VCMpADbH02W?usp=sharing) (**20.013.20064**): Làm việc về file **PDF**
 
-3. ![PDF Protector.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-06-PDF%20Protector.png)
+3. ![PDF Protector.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-06-PDF%20Protector.png) [PDF Protector](https://drive.google.com/drive/folders/1zMXgwyZyh605s6oiEJ5WxXNr7ejUjBK1?usp=sharing) (**1.5**) : Bẻ khoá và tạo khoá file **PDF** (*nó dò pass thôi*)
 
 4. ![cleverpdfpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-58-55-cleverpdf.png) [CleverPDF](https://drive.google.com/drive/folders/18Um44Sw6wnIHVy5RTA9Qr3QnfAWMvNYN?usp=sharing) (**3.0.4**): Công cụ chuyển đổi PDF thành Word,Image,Docx...
 
@@ -120,19 +120,34 @@
 ## Designer
 
 1. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="arttextpng" width="50"> [Art Text](https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing) (**4.0.3**): Thiết kế font chữ
+
 2. ![swift publisherpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png) [Swift Publisher](https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing) (**5.5.6**) : Mẫu template về poster tốt nhất
+
 3. ![sketchpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png) [Sketch](https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing) (**70.1**) : Thiết kế UI/UX trực quan
+
 4. ![logoistpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-19-logoist.png) [Logoist](https://drive.google.com/drive/folders/1OjCDAFbtHlYVwmmhdighkW_XDZT7PNlp?usp=sharing) (**4.1**) : Thiết kế **icon** dễ dàng trực quan
+
 5. ![Icons8png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-35-Icons_8.png) [Icons8](https://drive.google.com/drive/folders/1JdB5oP0VtnTETmb56ok5cPnPjCncRhWK?usp=sharing) (**5.7.4**) : Kho icon đầy đủ và mạnh mẽ
+
 6. ![iconjarpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) [IconJar](https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing) (**2.6.3**) : Quản lí mọi icon
+
 7. ![Droppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.2**): Lấy màu mã hex, dành cho dân thiết kế
+
 8. ![Aurora.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-20-51-Aurora.png) [Aurora HDR](https://drive.google.com/drive/folders/1mEZX3VLHzLwYV3Co06ubUQ1gUAwIg0k6?usp=sharing) (**1.0.1**): Tạo ảnh HDR chỉ trong 1 nốt nhạc
-9. ![Bundle for iWork -GN Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-13-09-Bundle%20for%20iWork%20-GN%20Templates.png) [Bundle for iWork -GN Templates](https://drive.google.com/drive/folders/1e2EXHfvNXRALyxvw48OETVhhEpDqwCp8?usp=sharing) 
-10. ![Templates for Keynote - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-15-15-Templates%20for%20Keynote%20-%20DesiGN.png) 
-11. ![DesiGN for Numbers - Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png)
-12. ![Templates for Pages - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png) 
-13. ![Rocketpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png) [Rocket](https://drive.google.com/drive/folders/1Cg6dgFGVnlDe3TixBmWE8_hphcQ0ZVSW?usp=sharing) (**1.7.4**) : Kho Emoji, icon, Symbox...
-14. ![smallimagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image](https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing) (**2.5**) : Tuỳ chỉnh kích thước các hình ảnh
+
+9. ![Bundle for iWork -GN Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-13-09-Bundle%20for%20iWork%20-GN%20Templates.png) [Bundle for iWork -GN Templates](https://drive.google.com/drive/folders/1e2EXHfvNXRALyxvw48OETVhhEpDqwCp8?usp=sharing) (**6.1**) : Bộ Template chung cho **Office** trên Mac
+
+10. ![Templates for Keynote - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-15-15-Templates%20for%20Keynote%20-%20DesiGN.png) [Templates for Keynote DesiGN](https://drive.google.com/drive/folders/1C0SfKvWkKP2YAsZYyUPgl62SxaisDhDj?usp=sharing) (**6.0.9**) : Bộ Template cho trình chiếu **Keynote**
+
+11. ![DesiGN for Numbers - Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png) [DesiGN for Numbers](https://drive.google.com/drive/folders/1R_SGyynifh4KFdhhycv3DNXHpkmQLSH8?usp=sharing) (**5.0.4**) : Template cho trang tính **Number**
+
+12. ![Templates for Pages - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png)  [Templates for Pages DesiGN](https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing) (**6.0.4**) : Template cho **Pages** trên Mac
+
+13. ![Resume.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-30-13-Resume.png) [Resume Templates Design](https://drive.google.com/drive/folders/1vg6c1-tMEHj_OtDYN9s--glZEZxIuRoS?usp=sharing) (**2.0.4**) : Template cho **CV Resume** trên Mac
+
+14. ![Rocketpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png) [Rocket](https://drive.google.com/drive/folders/1Cg6dgFGVnlDe3TixBmWE8_hphcQ0ZVSW?usp=sharing) (**1.7.4**) : Kho Emoji, icon, Symbox...
+
+15. ![smallimagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image](https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing) (**2.5**) : Tuỳ chỉnh kích thước các hình ảnh
 
 ## Bonus
 
@@ -152,9 +167,13 @@
 4. ![Clover Configuration.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-54-44-Clover%20Configuration.png) [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/) (**auto**) : Tuỳ chỉnh trực quan file `config` của Clover
 5. ![opencore.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-02-52-opencore.png) [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases) (**auto**) : Bộ cài **Opencore** cho hackintosh
 6. ![Opencore Configuration.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-55-05-Opencore%20Configuration.png) [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) (**auto**) : Tuỳ chỉnh trực quan file `config` của Opencore
-7. ![OC_GenX.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-55-11-OC_GenX.png) [OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X/releases) (**auto**) : Tạo file config nhanh gọn lẹ Opencore
-8. ![PlistEditPro.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-18-PlistEditPro.png) 
-9. ![MaciASL.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-22-MaciASL.png)
+7. ![OC_GenX.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-55-11-OC_GenX.png) [OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X/releases) (**auto**) : Tạo file config nhanh gọn lẹ **Opencore**
+8. ![PlistEditPro.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-18-PlistEditPro.png) [Plistedit Pro](https://drive.google.com/drive/folders/17xapJjMzhvwhW8nQwGilVbbjA4xsR69F?usp=sharing) (**1.9.2**) : Chỉnh sửa file **config** theo kiểu `Tree`
+9. ![MaciASL.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-22-MaciASL.png) [MaciASL](https://github.com/acidanthera/MaciASL/releases)  (**auto**): Chỉnh sửa và làm việc với file APCI 
+
+---
+
+## Drop những ứng dụng và lý do:
 
 ## Nếu nhu cầu của các bạn còn thiếu thì hãy vào trang sau đây tham khảo nha
 
