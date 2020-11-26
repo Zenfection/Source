@@ -9,34 +9,33 @@
 3. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-42-App_Cleaner_%26_Uninstaller.png" alt="App_Cleaner_&_Uninstaller.png" width="50"> [App Cleaner &amp; Unistaller](https://drive.google.com/drive/folders/1gkulydy-bE58WCSgAz09GmAlD9o1N-M-?usp=sharing) (**7.1**): Xoá phần mềm mạnh mẽ 
 4. ![Bartender.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-08-Bartender.png) [Bartender 3](https://drive.google.com/drive/folders/1qvy1Loo6_Gh2CyD1Zms9N0rMPf8QpeOa?usp=sharing) (**3.1.2.5**) : Quản lí  **menubar**
 5. ![BetterZip.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png)  [BetterZip](https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing) (**5.03**): Công cụ giải nén mạnh mẽ và trực quan
-6. Bundle for iWork -GN Templates (Comming soon)
-7. ![CleanMyMac_X.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-39-CleanMyMac_X.png)[CleanMyMac](https://drive.google.com/drive/folders/1rNoEj4TCpnG4JkD1h971uMIm_CgE2OKL?usp=sharing) (**4.7.1**): Công cụ dọn dẹp MacOS đa năng
-8. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.9**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
-9. ![evkey.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png) [Evkey](https://evkeyvn.com/) (**auto**): Gõ tiếng việt tốt nhất (`free`)
-10. ![Gifox.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) [Gifox](https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing) (**2.2.2**) : Hỗ trợ quay màn hình xuất ra **GIF**
+6. ![Kekapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-25-Keka.png) [Keka](https://drive.google.com/drive/folders/1hbfQNxNpUUZaXTvR95gBI9aqXpaHSHxM?usp=sharing) (**1.2.0**) : Giải nén các thể loại file zip,taz,taz.gz...
+7. Bundle for iWork -GN Templates (Comming soon)
+8. ![CleanMyMac_X.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-39-CleanMyMac_X.png)[CleanMyMac](https://drive.google.com/drive/folders/1rNoEj4TCpnG4JkD1h971uMIm_CgE2OKL?usp=sharing) (**4.7.1**): Công cụ dọn dẹp MacOS đa năng
+9. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.9**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
+10. ![evkey.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png) [Evkey](https://evkeyvn.com/) (**auto**): Gõ tiếng việt tốt nhất (`free`)
 11. ![Grid.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-46-48-Grid.png) [Grid](https://drive.google.com/drive/folders/11uQ7btUqfUTjVg_UN4pL46DbXle_LtuM?usp=sharing) (**6.1.5**) : Sử dụng Instragram trên Mac 
 12. ![hyperdock.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-53-44-hyperdock.png) [HyperDock](https://drive.google.com/drive/folders/1fTEvJgvBWP_S1qJD171exlnNYLJoDmaz?usp=sharing) (**1.8.0.5**) : Hỗ trợ thumbnail cửa sổ nhỏ mỗi khi rê chuột vào icon app
 13. Image-Ascii (Comming soon)
 14. ![Intel Power Gadget.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png)  [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**) : Quản lí điện năng CPU Intel (`free`)
 15. iText (Comming soon)
 16. iThoughtsX (Comming soon)
-17. ![Keka.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-25-Keka.png) [Keka](https://drive.google.com/drive/folders/1hbfQNxNpUUZaXTvR95gBI9aqXpaHSHxM?usp=sharing) (**1.2.0**) : Giải nén các thể loại file zip,taz,taz.gz... 
-18. ![kiwi.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-13-kiwi.png) [Kiwi for Gmail](https://drive.google.com/drive/folders/1TvN3kD16XOUEnbsFo77iJQ4kqM4Rw3Ol?usp=sharing) (**2.0.39**) : Quản lí Gmail dễ dàng nhanh chóng
-19. ![Mate_Translate_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-12-Mate_Translate_Alt.png) [Mate Translate](https://drive.google.com/drive/folders/1iGnqpEYbW03TH0rT4cn_mnqBLHRakWx1?usp=sharing) (**7.1**) : Dịch mọi ngôn ngữ tốt nhất
-20. ![Mos.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-31-Mos.png)[Mos](https://github.com/Caldis/Mos/releases) (**auto**) : làm mượt thao tác cuộn chuột
-21. ![Movist.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png) [Movist Pro](https://drive.google.com/drive/folders/1bQGtPKZ99XNPqg4iVg5l_I3q9hkyiYsT?usp=sharing) (**2.6.1**) : Video player tốt nhất và đẹp nhất
-22. ![Permute_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-46-Permute_Dark.png) [Permute](https://drive.google.com/drive/folders/1msmoOK76oUH6LWQKCNFCnmbOv_FmNiHt?usp=sharing) (**3.5.10**) : Chuyển đổi mọi định dạng nhanh chóng, đi chung với **Downie**
-23. ![Rocket.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png) [Rocket] Comming Soon (**1.7.4**)
-24. ![smallimage.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image] Comming Soon (**2.5**) : Thu nhỏ kích thước ảnh
-25. ![soundsource.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png) [SoundSource](https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing) (**5.1.4**) : Quản lí và boost âm thanh hay hơn
-26. ![spacedrop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard
-27. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) [Sensei](https://drive.google.com/drive/folders/140vl2PDH5kk9HIZaj6j-G4zplp56JH8u?usp=sharing) (**1.3.2**) : Tối ưu hoá và theo dõi tình trạng máy tính
+17. ![kiwi.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-13-kiwi.png) [Kiwi for Gmail](https://drive.google.com/drive/folders/1TvN3kD16XOUEnbsFo77iJQ4kqM4Rw3Ol?usp=sharing) (**2.0.39**) : Quản lí Gmail dễ dàng nhanh chóng
+18. ![Mate_Translate_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-12-Mate_Translate_Alt.png) [Mate Translate](https://drive.google.com/drive/folders/1iGnqpEYbW03TH0rT4cn_mnqBLHRakWx1?usp=sharing) (**7.1**) : Dịch mọi ngôn ngữ tốt nhất
+19. ![Mos.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-31-Mos.png)[Mos](https://github.com/Caldis/Mos/releases) (**auto**) : làm mượt thao tác cuộn chuột
+20. ![Movist.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png) [Movist Pro](https://drive.google.com/drive/folders/1bQGtPKZ99XNPqg4iVg5l_I3q9hkyiYsT?usp=sharing) (**2.6.1**) : Video player tốt nhất và đẹp nhất
+21. ![Permute_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-46-Permute_Dark.png) [Permute](https://drive.google.com/drive/folders/1msmoOK76oUH6LWQKCNFCnmbOv_FmNiHt?usp=sharing) (**3.5.10**) : Chuyển đổi mọi định dạng nhanh chóng, đi chung với **Downie**
+22. ![Rocket.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png) [Rocket] Comming Soon (**1.7.4**)
+23. ![smallimage.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image] Comming Soon (**2.5**) : Thu nhỏ kích thước ảnh
+24. ![soundsource.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png) [SoundSource](https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing) (**5.1.4**) : Quản lí và boost âm thanh hay hơn
+25. ![spacedrop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard
+26. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) [Sensei](https://drive.google.com/drive/folders/140vl2PDH5kk9HIZaj6j-G4zplp56JH8u?usp=sharing) (**1.3.2**) : Tối ưu hoá và theo dõi tình trạng máy tính
     
     
-28. ![TeamViewer_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png) [Teamviewer](https://www.teamviewer.com/vi/) (**auto**): Điều khiển thiết bị từ xa (`free`)
-29. ![Finder.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-19-22-Finder.png) [Total Finder](https://drive.google.com/drive/folders/1S-jGEUCtzzvHqgm8nexYMipDFNi22a9m?usp=sharing) (**1.13.3**) : Thêm sức mạnh cho Finder quản lí tốt hơn 
-30. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png) [Yandex Browser](https://browser.yandex.com/) (**auto**) : Trình duyệt web tốt nhất theo mình (`free`)
-31. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png) [Zoom Meeting](https://zoom.us/) (**auto**) : Hội họp online (`free`)
+27. ![TeamViewer_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png) [Teamviewer](https://www.teamviewer.com/vi/) (**auto**): Điều khiển thiết bị từ xa (`free`)
+28. ![Finder.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-19-22-Finder.png) [Total Finder](https://drive.google.com/drive/folders/1S-jGEUCtzzvHqgm8nexYMipDFNi22a9m?usp=sharing) (**1.13.3**) : Thêm sức mạnh cho Finder quản lí tốt hơn 
+29. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png) [Yandex Browser](https://browser.yandex.com/) (**auto**) : Trình duyệt web tốt nhất theo mình (`free`)
+30. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png) [Zoom Meeting](https://zoom.us/) (**auto**) : Hội họp online (`free`)
 
 ## Advanced User
 
@@ -53,6 +52,7 @@
 11. ![Camtasiapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png) [Camtasia](https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing) (**2020.0.10**): Công cụ quay màn hình và xuất bản video
 12. ![BetterTouchToolpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png) [BetterTouchTool](https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing) (**3.402**): Công cụ tốt nhất tuỳ biến keyboard,mouse,trackpad
 13. ![movavipng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-06-28-movavi.png) [Movavi Video Convert 21 Premium](https://drive.google.com/drive/folders/1hpzO0LgvmqTpwXc-E45YaRXtlP2MFo7r?usp=sharing) (**21.0.0**) : Chuyển đổi các video theo nhiều định dạng
+14. ![Gifoxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) [Gifox](https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing) (**2.2.2**) : Hỗ trợ quay màn hình xuất ra **GIF**
 
 ## Developer
 
