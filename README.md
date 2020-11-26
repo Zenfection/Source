@@ -14,49 +14,47 @@
 
 5. ![Kekapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-25-Keka.png) [Keka](https://drive.google.com/drive/folders/1hbfQNxNpUUZaXTvR95gBI9aqXpaHSHxM?usp=sharing) (**1.2.0**) : Giải nén các thể loại file zip,taz,taz.gz...
 
-6. Bundle for iWork -GN Templates (Comming soon)
+6. ![CleanMyMac_X.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-39-CleanMyMac_X.png)[CleanMyMac](https://drive.google.com/drive/folders/1rNoEj4TCpnG4JkD1h971uMIm_CgE2OKL?usp=sharing) (**4.7.1**): Công cụ dọn dẹp MacOS đa năng
 
-7. ![CleanMyMac_X.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-39-CleanMyMac_X.png)[CleanMyMac](https://drive.google.com/drive/folders/1rNoEj4TCpnG4JkD1h971uMIm_CgE2OKL?usp=sharing) (**4.7.1**): Công cụ dọn dẹp MacOS đa năng
+7. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.9**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
 
-8. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.9**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
+8. ![evkey.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png) [Evkey](https://evkeyvn.com/) (**auto**): Gõ tiếng việt tốt nhất (`free`)
 
-9. ![evkey.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png) [Evkey](https://evkeyvn.com/) (**auto**): Gõ tiếng việt tốt nhất (`free`)
+9. ![Grid.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-46-48-Grid.png) [Grid](https://drive.google.com/drive/folders/11uQ7btUqfUTjVg_UN4pL46DbXle_LtuM?usp=sharing) (**6.1.5**) : Sử dụng Instragram trên Mac 
 
-10. ![Grid.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-46-48-Grid.png) [Grid](https://drive.google.com/drive/folders/11uQ7btUqfUTjVg_UN4pL46DbXle_LtuM?usp=sharing) (**6.1.5**) : Sử dụng Instragram trên Mac 
+10. ![hyperdock.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-53-44-hyperdock.png) [HyperDock](https://drive.google.com/drive/folders/1fTEvJgvBWP_S1qJD171exlnNYLJoDmaz?usp=sharing) (**1.8.0.5**) : Hỗ trợ thumbnail cửa sổ nhỏ mỗi khi rê chuột vào icon app
 
-11. ![hyperdock.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-53-44-hyperdock.png) [HyperDock](https://drive.google.com/drive/folders/1fTEvJgvBWP_S1qJD171exlnNYLJoDmaz?usp=sharing) (**1.8.0.5**) : Hỗ trợ thumbnail cửa sổ nhỏ mỗi khi rê chuột vào icon app
+11. ![itext.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-48-itext.png) [iText](https://maclife.vn/huong-dan-cai-va-su-dung-itext-de-tra-tu-dien-tren-mac.html) (**auto**) : Quét OCR và dịch thuật (*Guide từ Maclife*)
 
-12. Image-Ascii (Comming soon)
+12. ![kiwi.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-13-kiwi.png) [Kiwi for Gmail](https://drive.google.com/drive/folders/1TvN3kD16XOUEnbsFo77iJQ4kqM4Rw3Ol?usp=sharing) (**2.0.39**) : Quản lí Gmail dễ dàng nhanh chóng
 
-13. iText (Comming soon)
+13. ![Mate_Translate_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-12-Mate_Translate_Alt.png) [Mate Translate](https://drive.google.com/drive/folders/1iGnqpEYbW03TH0rT4cn_mnqBLHRakWx1?usp=sharing) (**7.1**) : Dịch mọi ngôn ngữ tốt nhất
 
-14. ![kiwi.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-13-kiwi.png) [Kiwi for Gmail](https://drive.google.com/drive/folders/1TvN3kD16XOUEnbsFo77iJQ4kqM4Rw3Ol?usp=sharing) (**2.0.39**) : Quản lí Gmail dễ dàng nhanh chóng
+14. ![Mos.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-31-Mos.png)[Mos](https://github.com/Caldis/Mos/releases) (**auto**) : làm mượt thao tác cuộn chuột
 
-15. ![Mate_Translate_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-12-Mate_Translate_Alt.png) [Mate Translate](https://drive.google.com/drive/folders/1iGnqpEYbW03TH0rT4cn_mnqBLHRakWx1?usp=sharing) (**7.1**) : Dịch mọi ngôn ngữ tốt nhất
+15. ![Movist.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png) [Movist Pro](https://drive.google.com/drive/folders/1bQGtPKZ99XNPqg4iVg5l_I3q9hkyiYsT?usp=sharing) (**2.6.1**) : Video player tốt nhất và đẹp nhất
 
-16. ![Mos.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-31-Mos.png)[Mos](https://github.com/Caldis/Mos/releases) (**auto**) : làm mượt thao tác cuộn chuột
+16. ![Permute_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-46-Permute_Dark.png) [Permute](https://drive.google.com/drive/folders/1msmoOK76oUH6LWQKCNFCnmbOv_FmNiHt?usp=sharing) (**3.5.10**) : Chuyển đổi mọi định dạng nhanh chóng, đi chung với **Downie**
 
-17. ![Movist.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png) [Movist Pro](https://drive.google.com/drive/folders/1bQGtPKZ99XNPqg4iVg5l_I3q9hkyiYsT?usp=sharing) (**2.6.1**) : Video player tốt nhất và đẹp nhất
+17. ![Speedtestpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-07-Speedtest.png)[‎Speedtest by Ookla](https://apps.apple.com/vn/app/speedtest-by-ookla/id1153157709?l=vi&mt=12) (**auto**) :  Test tốc độ mạng
 
-18. ![Permute_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-46-Permute_Dark.png) [Permute](https://drive.google.com/drive/folders/1msmoOK76oUH6LWQKCNFCnmbOv_FmNiHt?usp=sharing) (**3.5.10**) : Chuyển đổi mọi định dạng nhanh chóng, đi chung với **Downie**
+18. ![FacebookMessengerAltpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-24-30-Facebook_Messenger_Alt.png) [‎Messenger](https://apps.apple.com/vn/app/messenger/id1480068668?l=vi&mt=12) : Ứng dụng chat mà ai cũng biết
 
-19. ![Rocket.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png) [Rocket] Comming Soon (**1.7.4**)
+19. ![soundsource.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png) [SoundSource](https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing) (**5.1.4**) : Quản lí và boost âm thanh hay hơn
 
-20. ![smallimage.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image] Comming Soon (**2.5**) : Thu nhỏ kích thước ảnh
+20. ![spacedrop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard
 
-21. ![soundsource.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png) [SoundSource](https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing) (**5.1.4**) : Quản lí và boost âm thanh hay hơn
+21. ![WPS Officepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png) [WPS Office](https://apps.apple.com/vn/app/wps-office-pdf-docs-table/id1468073139?l=vi&mt=12) : Thay thế bộ **Office của Microsoft**
 
-22. ![spacedrop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard
+22. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) [Sensei](https://drive.google.com/drive/folders/140vl2PDH5kk9HIZaj6j-G4zplp56JH8u?usp=sharing) (**1.3.2**) : Tối ưu hoá và theo dõi tình trạng máy tính
 
-23. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) [Sensei](https://drive.google.com/drive/folders/140vl2PDH5kk9HIZaj6j-G4zplp56JH8u?usp=sharing) (**1.3.2**) : Tối ưu hoá và theo dõi tình trạng máy tính
+23. ![TeamViewer_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png) [Teamviewer](https://www.teamviewer.com/vi/) (**auto**): Điều khiển thiết bị từ xa (`free`)
 
-24. ![TeamViewer_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png) [Teamviewer](https://www.teamviewer.com/vi/) (**auto**): Điều khiển thiết bị từ xa (`free`)
+24. ![Finder.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-19-22-Finder.png) [Total Finder](https://drive.google.com/drive/folders/1S-jGEUCtzzvHqgm8nexYMipDFNi22a9m?usp=sharing) (**1.13.3**) : Thêm sức mạnh cho Finder quản lí tốt hơn 
 
-25. ![Finder.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-19-22-Finder.png) [Total Finder](https://drive.google.com/drive/folders/1S-jGEUCtzzvHqgm8nexYMipDFNi22a9m?usp=sharing) (**1.13.3**) : Thêm sức mạnh cho Finder quản lí tốt hơn 
+25. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png) [Yandex Browser](https://browser.yandex.com/) (**auto**) : Trình duyệt web tốt nhất theo mình (`free`)
 
-26. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png) [Yandex Browser](https://browser.yandex.com/) (**auto**) : Trình duyệt web tốt nhất theo mình (`free`)
-
-27. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png) [Zoom Meeting](https://zoom.us/) (**auto**) : Hội họp online (`free`)
+26. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png) [Zoom Meeting](https://zoom.us/) (**auto**) : Hội họp online (`free`)
 
 ## Advanced User
 
@@ -77,6 +75,10 @@
 15. ![Intel Power Gadgetpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png) [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**) : Quản lí điện năng CPU Intel (`free`)
 16. ![ithoughtXpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png) [Ithoughts](https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing) (**5.24**) : Tạo sơ đồ tư duy dễ dàng và trực quan
 17. ![BetterZippng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png) [BetterZip](https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing) (**5.03**): Công cụ giải nén mạnh mẽ và nhiều công cụ hữu ích
+18. ![Numberpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-23-Number.png)[‎Numbers](https://apps.apple.com/vn/app/numbers/id409203825?l=vi&mt=12) : Trang tính Thay thế **Excel của Microsoft**
+19. ![Keynotepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-29-Keynote.png) [‎Keynote](https://apps.apple.com/vn/app/keynote/id409183694?l=vi&mt=12) : Bảng trình chiếu Thay thế **PowerPoint của Microsoft**
+20. ![Pagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-07-17-Page.png) [‎Pages](https://apps.apple.com/vn/app/pages/id409201541?l=vi&mt=12) : Văn bản thay thế **Word của Microsoft**
+21. ![Lingvanex translatorpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-26-17-Lingvanex%20translator.png) [‎Lingvanex Translator](https://apps.apple.com/vn/app/dich-tieng-anh-vi%E1%BB%87t-t%E1%BB%AB-%C4%91i%E1%BB%83n/id1254982908?l=vi&mt=12) : Dịch thuật văn bản mọi ngôn ngữ
 
 ## Developer
 
@@ -90,6 +92,8 @@
 8. ![CodeRunnerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-27-41-CodeRunner.png) [CodeRunner](https://drive.google.com/drive/folders/12Vt635p0zhAh23K7wOS1gcLRGAdijbno?usp=sharing) (**4.0.2**): Chạy code test nhanh gọn lẹ mọi ngôn ngữ
 9. ![Applicationpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-49-42-Application.png) [Araxis Merge Pro](https://drive.google.com/drive/folders/19X5VpDYF_8fAEXjoaz2gYdP30UMUjj54?usp=sharing) (**2020.5479**): So sánh nội dung 2 file
 10. ![PostmanAltpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-57-Postman_Alt.png) [Postman](https://www.postman.com/) (**auto**) : Test API tốt nhất hiện nay (`free`)
+11. ![Xcodepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-17-02-Xcode.png) [Xcode](https://apps.apple.com/vn/app/xcode/id497799835?l=vi&mt=12) : IDE code độc quyền trên MacOS
+12. ![imageascci.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-38-imageascci.png) [Image Ascii](https://drive.google.com/drive/folders/1weORyfPPsbyflhNY5F7L3UP9XN6HtbhP?usp=sharing) : Convert ảnh qua các bảng mã Ascii, Hex....
 
 ## Designer
 
@@ -101,17 +105,9 @@
 6. ![iconjarpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) [IconJar](https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing) (**2.6.3**) : Quản lí mọi icon
 7. ![Droppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.2**): Lấy màu mã hex, dành cho dân thiết kế
 8. ![Aurora.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-20-51-Aurora.png) [Aurora HDR](https://drive.google.com/drive/folders/1mEZX3VLHzLwYV3Co06ubUQ1gUAwIg0k6?usp=sharing) (**1.0.1**): Tạo ảnh HDR chỉ trong 1 nốt nhạc
-
-## Appstore
-
-1. ![Speedtestpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-07-Speedtest.png)[‎Speedtest by Ookla](https://apps.apple.com/vn/app/speedtest-by-ookla/id1153157709?l=vi&mt=12) : Test tốc độ mạng
-2. ![WPS Officepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png) [WPS Office](https://apps.apple.com/vn/app/wps-office-pdf-docs-table/id1468073139?l=vi&mt=12) : Thay thế bộ **Office của Microsoft**
-3. ![Number.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-23-Number.png)[‎Numbers](https://apps.apple.com/vn/app/numbers/id409203825?l=vi&mt=12) : Trang tính Thay thế **Excel của Microsoft**
-4. ![Keynote.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-29-Keynote.png) [‎Keynote](https://apps.apple.com/vn/app/keynote/id409183694?l=vi&mt=12) : Bảng trình chiếu Thay thế **PowerPoint của Microsoft**
-5. ![Page.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-07-17-Page.png) [‎Pages](https://apps.apple.com/vn/app/pages/id409201541?l=vi&mt=12) : Văn bản thay thế **Word của Microsoft**
-6. ![Facebook_Messenger_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-24-30-Facebook_Messenger_Alt.png) [‎Messenger](https://apps.apple.com/vn/app/messenger/id1480068668?l=vi&mt=12) : Ứng dụng chat mà ai cũng biết
-7. ![Lingvanex translator.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-26-17-Lingvanex%20translator.png) [‎Lingvanex Translator](https://apps.apple.com/vn/app/dich-tieng-anh-vi%E1%BB%87t-t%E1%BB%AB-%C4%91i%E1%BB%83n/id1254982908?l=vi&mt=12) : Dịch thuật văn bản mọi ngôn ngữ
-8. ![Xcodepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-17-02-Xcode.png) [Xcode](https://apps.apple.com/vn/app/xcode/id497799835?l=vi&mt=12) : IDE code độc quyền trên MacOS
+9. Bundle for iWork -GN Templates (Comming soon)
+10. ![Rocketpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png) [Rocket] Comming Soon (**1.7.4**)
+11. ![smallimagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image] Comming Soon (**2.5**) : Thu nhỏ kích thước ảnh
 
 ## Bonus
 
