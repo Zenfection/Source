@@ -66,3 +66,9 @@
 60. ![Xcode.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-17-02-Xcode.png) [Xcode](https://apps.apple.com/vn/app/xcode/id497799835?l=vi&mt=12) (**atuo**): IDE code độc quyền trên MacOS (`free`)
 61. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png) [Yandex Browser](https://browser.yandex.com/) (**auto**): Trình duyệt web tốt nhất theo mình (`free`)
 62. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png) [Zoom Meeting](https://zoom.us/) (**auto**): Hội họp online (`free`)
+
+## Nếu nhu cầu của các bạn còn thiếu thì hãy vào trang sau đây tham khảo nha
+
+- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-33-17-logo2020.png" title="" alt="logo2020.png" width="70">](https://maclife.vn/mac-application) 
+  
+  
