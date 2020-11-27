@@ -4,19 +4,19 @@
 
 ## Basic User
 
-1. Vanced Manager / Youtube Vanced
-2. Messenger
-3. Ingragram Mod
-4. Adguard
-5. Office
-6. Google Dịch
-7. Zoom
-8. Gboard
-9. Rar
-10. Alarmy
-11. CocCoc Browser
-12. ZingMp3
-13. NhacCuaTui
+1. [YouTube Vanced](https://vancedapp.com/) (**auto**) Coi Youtube như Premium không quảng cáo, phát nền...
+2. [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) (**auto**) : Ứng dụng nhắn tin mà ai cũng biết
+3. [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn...
+4. Adguard Pro
+5. WPS Office (**12.9.4**)
+6. [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ
+7. [Zoom](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) (**auto**) : Họp nhóm online
+8. [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) (**auto**) : Bàn phím cơ bản Google nhanh gọn
+9. Rar Premium
+10. Alarmy Premium
+11. [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt 
+12. ZingMp3 VIp
+13. NhacCuaTui Vip
 14. Speedtest
 
 ## Advanced User
@@ -49,18 +49,18 @@
 
 ## Learning English
 
-1. Busuu
-2. Elsa Speak
-3. ABA English
+1. Busuu Premium (****) : Học ngoại ngữ với giáo trình hay nhất `Premium`
+2. Elsa Speak (****) : Học và luyện tập cách phát âm tiếng Anh `Premium`
+3. ABA English (****) : Học tiếng anh qua xem video, đọc báo và tài liệu `Premium`
 
 ## Desinger
 
-1. Spark Post
-2. Poster Maker
-3. Logo Maker
-4. Meme Generator
-5. Canva
-6. Label Maker
-7. Logo Designer
-8. Resume Builder
-9. Certificate Maker
+1. Adobe Spark Post (****) : Kho template của Adobe `Premium`
+2. Poster Maker (****) : Kho Template thiết kế  Poster `Premium`
+3. Logo Maker (****) : Kho Template thiết kế Logo `Premium`
+4. Meme Generator (****) : Tạo meme cho bản thân từ kho meme đồ sộ `Premium`
+5. Canva (****) : Kho Cộng động thiết kế lớn nhất thế giới `Premium`
+6. Label Maker (****) : Kho Template thiết kế nhãn `Premium`
+7. Logo Designer (****) : Thiết kế Logo dễ dàng trực quan `Premium`
+8. Resume Builder (****) : Template thiết kế CV, hồ sơ việc làm `Premium`
+9. Certificate Maker (****) : Kho Template thiết kế Chứng Chỉ `Premium`
