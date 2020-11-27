@@ -6,9 +6,9 @@
 
 1. [YouTube Vanced](https://vancedapp.com/) (**auto**) Coi Youtube như Premium không quảng cáo, phát nền...
 2. [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) (**auto**) : Ứng dụng nhắn tin mà ai cũng biết
-3. [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn...
+3. [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn... (`Mod`)
 4. Adguard Pro
-5. WPS Office (**12.9.4**)
+5. WPS Office (**12.9.4**) :
 6. [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ
 7. [Zoom](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) (**auto**) : Họp nhóm online
 8. [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) (**auto**) : Bàn phím cơ bản Google nhanh gọn
@@ -22,14 +22,14 @@
 ## Advanced User
 
 1. TrueCaller
-2. Termux
-3. Zenly
+2. Termux (**auto**)
+3. Zenly (**auto**)
 4. UFO VPN
 5. ES File Exployer
 6. Từ điển TFlat
 7. Today Weather
 8. Grammarly
-9. Github
+9. Github (**auto**)
 10. Adobe Scan
 11. Video Panda
 12. Photomath
