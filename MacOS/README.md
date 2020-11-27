@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-33-36-Big_Sur.png" title="" alt="Big_Sur.png" width="50">Mac OS
 
-1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-30-50-AirBuddy.png) [AirBuddy](https://drive.google.com/drive/folders/1zz3Qm8d8KnrQS7c1I1Rs82O_h7n2RBiV?usp=sharing) (**1.5.3**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
+1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-50-13-AirBuddy.png) (**2.1**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
 
 2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**4.2.2**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
 
@@ -16,7 +16,7 @@
 
 6. ![CleanMyMac_X.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-39-CleanMyMac_X.png)[CleanMyMac](https://drive.google.com/drive/folders/1rNoEj4TCpnG4JkD1h971uMIm_CgE2OKL?usp=sharing) (**4.7.1**): Công cụ dọn dẹp MacOS đa năng
 
-7. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.9**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
+7. ![Downie.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png) [Downie](https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing) (**4.1.10**): Tải mọi video trên trình duyệt, tương tự **IDM trên Window**
 
 8. ![evkey.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png) [Evkey](https://evkeyvn.com/) (**auto**): Gõ tiếng việt tốt nhất (`free`)
 
@@ -32,7 +32,7 @@
 
 14. ![Mos.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-31-Mos.png)[Mos](https://github.com/Caldis/Mos/releases) (**auto**) : làm mượt thao tác cuộn chuột
 
-15. ![Movist.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png) [Movist Pro](https://drive.google.com/drive/folders/1bQGtPKZ99XNPqg4iVg5l_I3q9hkyiYsT?usp=sharing) (**2.6.1**) : Video player tốt nhất và đẹp nhất
+15. ![Movist.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png) [Movist Pro](https://drive.google.com/drive/folders/1bQGtPKZ99XNPqg4iVg5l_I3q9hkyiYsT?usp=sharing) (**2.6.2**) : Video player tốt nhất và đẹp nhất
 
 16. ![Permute_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-46-Permute_Dark.png) [Permute](https://drive.google.com/drive/folders/1msmoOK76oUH6LWQKCNFCnmbOv_FmNiHt?usp=sharing) (**3.5.10**) : Chuyển đổi mọi định dạng nhanh chóng, đi chung với **Downie**
 
