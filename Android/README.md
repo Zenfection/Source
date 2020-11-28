@@ -90,6 +90,8 @@
 
 3. ![aba english.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-35-aba%20english.png) [ABA English](https://app.box.com/s/yikl9vehjb6wyl6j4mtl587dau02g5hg) (**5.5.5**) : Học tiếng anh qua xem video, đọc báo và tài liệu (**`Premium`**)
 
+4. ![lycris tranning.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-44-29-lycris%20tranning.png) [Lyrics Traning](https://app.box.com/s/ujjll0ut9kg4byzh880usf19c6if6qhc) (**1.6.7**) : Học tiếng anh qua âm nhạc tốt nhất (**`Premium`**)
+
 ## Desinger
 
 1. ![spark post.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-33-07-spark%20post.png) [Adobe Spark Post](https://app.box.com/s/nuesm4do4t6j5ie59ws4y3f1mrfyobg2) (**4.6.0**) : Kho template của Adobe (**`Premium`**)
