@@ -22,7 +22,7 @@
 
 9. ![winrar_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-25-15-winrar_logo.png) [Rar](https://app.box.com/s/a3rjcud4vrbgt5h4qgx3sqpqkmdp7vlr) (**6.0.0**) : Giải nén mọi thể loại file nhanh gọn lẹ (**`Premium`**)
 
-10. ![alarmy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-26-00-alarmy.png) [Alarmy](https://app.box.com/s/7eg9m6cc43qaa1lktoqy8twkegwxccfy) (**3.35.52**) : Đồng hồ báo thức tốt nhất với mọi thể loại chuông báo khác nhau (**`Premium`**)
+10. ![alarmy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-26-00-alarmy.png) [Alarmy](https://app.box.com/s/7eg9m6cc43qaa1lktoqy8twkegwxccfy) (**3.35.52**) : Đồng hồ báo thức tốt nhất trong Android (**`Premium`**)
 
 11. ![coc_coc.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png) [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt (**`free`**)
 
