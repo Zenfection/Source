@@ -4,40 +4,41 @@
 
 ## Basic User
 
-1. Vanced Manager / Youtube Vanced
-2. Messenger
-3. Ingragram Mod
-4. Adguard
-5. Office
-6. Google Dịch
-7. Zoom
-8. Gboard
-9. Rar
-10. Alarmy
-11. CocCoc Browser
-12. ZingMp3
-13. NhacCuaTui
+1. [YouTube Vanced](https://vancedapp.com/) (**auto**) Coi Youtube như Premium không quảng cáo, phát nền...
+2. [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) (**auto**) : Ứng dụng nhắn tin mà ai cũng biết
+3. [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn... (`Mod`)
+4. Adguard Pro (**3.5.66**) : 
+5. WPS Office (**12.9.4**) :
+6. [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ
+7. [Zoom](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) (**auto**) : Họp nhóm online
+8. [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) (**auto**) : Bàn phím cơ bản Google nhanh gọn
+9. Rar Premium
+10. Alarmy Premium
+11. [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt 
+12. ZingMp3 (**20.11.01**)
+13. NhacCuaTui Vip
 14. Speedtest
+15. VnExpress (**auto**)
 
 ## Advanced User
 
 1. TrueCaller
-2. Termux
-3. Zenly
-4. UFO VPN
-5. ES File Exployer
-6. Từ điển TFlat
-7. Today Weather
-8. Grammarly
-9. Github
-10. Adobe Scan
-11. Video Panda
+2. Termux (**auto**)
+3. Zenly (**auto**)
+4. UFO VPN (**2.4.2**) : 
+5. ES File Exployer (**4.2.3.7.1**) : 
+6. Từ điển TFlat (**7.6.7**) : 
+7. Today Weather (**1.5.0-201120**)
+8. Grammarly (**auto**) : 
+9. Github (**auto**)
+10. Adobe Scan (**auto**)
+11. Video Panda (****)
 12. Photomath
 13. Fing
-14. HappyMod
-15. iStudiez Pro
-16. Airmore
-17. Apk extractor 
+14. HappyMod (**auto**) : 
+15. iStudiez Pro (**auto**) : 
+16. Airmore (**auto**) : 
+17. Apk extractor (****)
 18. Apk editor
 
 ## Learning Code
@@ -49,18 +50,18 @@
 
 ## Learning English
 
-1. Busuu
-2. Elsa Speak
-3. ABA English
+1. Busuu Premium (**19.11.2.485**) : Học ngoại ngữ với giáo trình hay nhất `Premium`
+2. Elsa Speak (****) : Học và luyện tập cách phát âm tiếng Anh `Premium`
+3. ABA English (****) : Học tiếng anh qua xem video, đọc báo và tài liệu `Premium`
 
 ## Desinger
 
-1. Spark Post
-2. Poster Maker
-3. Logo Maker
-4. Meme Generator
-5. Canva
-6. Label Maker
-7. Logo Designer
-8. Resume Builder
-9. Certificate Maker
+1. Adobe Spark Post (**4.6.0**) : Kho template của Adobe `Premium`
+2. Poster Maker (**3.7**) : Kho Template thiết kế  Poster `Premium`
+3. Logo Maker (****) : Kho Template thiết kế Logo `Premium`
+4. Meme Generator (**4.5937**) : Tạo meme cho bản thân từ kho meme đồ sộ `Premium`
+5. Canva (**2.87.0**) : Kho Cộng động thiết kế lớn nhất thế giới `Premium`
+6. Label Maker (**4.8**) : Kho Template thiết kế nhãn `Premium`
+7. Logo Designer (**1.22**) : Thiết kế Logo dễ dàng trực quan `Premium`
+8. Resume Builder (**1.2**) : Template thiết kế CV, hồ sơ việc làm `Premium`
+9. Certificate Maker (**4.9.4**) : Kho Template thiết kế Chứng Chỉ `Premium`
