@@ -113,5 +113,13 @@
 10. ![visiting card.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png) [Visiting Card Maker](https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url) (**23.0**) : Kho Template tạo card visit (**`Premium`**)
 
 11. ![picsart.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-47-32-picsart.png) [PisArt](https://app.box.com/s/6krums79lszgazbr4gucubjyl1zl08te) (**16.0.1**) : Chỉnh ảnh tốt nhất hiện nay (**`Premium`**)
-    
-    
+
+## Nếu các bạn cảm thấy còn thiếu đừng lo, hãy tới những nguồn sau đây để tìm:
+
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-25-04-no-sologan-darkmode.png" title="" alt="no-sologan-darkmode.png" width="130"> :  Nguồn này nổi tiếng nhất Việt Nam về các app Cracked
+
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-26-06-logo_transparent1.png" title="" alt="logo_transparent1.png" width="130"> : Nguồn này khá ít app mới nhưng được cái là chất lượng
+
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-26-31-LogoMakr_3W1Z7Q.png" title="" alt="LogoMakr_3W1Z7Q.png" width="130">: Nguồn này đầy đủ mọi app
+
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-27-13-1-1-300x300.png" title="" alt="1-1-300x300.png" width="60"> : Nguồn này có rất nhiều app về 18+,icon pack, theme....
