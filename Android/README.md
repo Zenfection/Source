@@ -4,7 +4,7 @@
 
 ## Basic User
 
-1. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" title="" alt="youtubevaced.png" width="50">[YouTube Vanced](https://vancedapp.com/) (**auto**) Coi Youtube như Premium không quảng cáo, phát nền... (**`Mod`**)
+1. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" title="" alt="youtubevaced.png" width="50">[YouTube Vanced](https://vancedapp.com/) (**update by Vanced Manager**) Coi Youtube như Premium không quảng cáo, phát nền... (**`Mod`**)
 
 2. ![Facebook_Messenger_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-14-40-Facebook_Messenger_Alt.png)[Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) (**auto**) : Ứng dụng nhắn tin mà ai cũng biết (**`free`**)
 
@@ -12,7 +12,7 @@
 
 4. ![AdGuard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png) [Adguard Pro](https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe) (**3.5.66**) :
 
-5. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) WPS Office (**12.9.4**) :
+5. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) WPS Office (**13.0.0**) :
 
 6. ![Google_Translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-21-32-Google_Translate.png) [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ (**`free`**)
 
@@ -37,23 +37,40 @@
 ## Advanced User
 
 1. TrueCaller
+
 2. Termux (**auto**)
+
 3. Zenly (**auto**)
+
 4. UFO VPN (**2.4.2**) : 
+
 5. ES File Exployer (**4.2.3.7.1**) : 
+
 6. Từ điển TFlat (**7.6.7**) : 
+
 7. Today Weather (**1.5.0-201120**)
+
 8. Grammarly (**auto**) : 
-9. Github (**auto**)
+
+9. ![github.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-12-19-github.png) Github (**auto**)
+
 10. Adobe Scan (**auto**)
+
 11. Video Panda (****)
-12. Photomath
-13. Fing
-14. HappyMod (**auto**) : 
-15. iStudiez Pro (**auto**) : 
-16. Airmore (**auto**) : 
+
+12. ![photomath.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-10-26-photomath.png) [Photomath](https://app.box.com/s/mazjx13csagl9zmd0bizufdazyly9yz6) 
+
+13. ![fing.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-39-fing.png) [Fing](https://app.box.com/s/t0wam7zuhb2rvqhuhlqbw564m1cbfi8w) (**10.0.1**) : Cộng cụ tuyệt vời về quản lý mạng wifi
+
+14. ![happymod.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-35-happymod.png) [HappyMod](https://www.happymod.com/) (**auto**) : Kho ứng dụng Mod của **HappyMod**
+
+15. ![istudiez.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-11-istudiez.png) [iStudiez Pro](https://play.google.com/store/apps/details?id=com.istudiezteam.istudiezpro) (**auto**) : Thời gian biểu cho mọi học tập 
+
+16. ![airmore.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-06-airmore.png) [Airmore](https://play.google.com/store/apps/details?id=com.airmore) (**auto**) : Kết nối Android và máy tính qua network nhanh
+
 17. Apk extractor (****)
-18. Apk editor
+
+18. Apk editor (****)
 
 ## Learning Code
 
@@ -71,11 +88,12 @@
 ## Desinger
 
 1. Adobe Spark Post (**4.6.0**) : Kho template của Adobe `Premium`
-2. Poster Maker (**3.7**) : Kho Template thiết kế  Poster `Premium`
+2. [Poster Maker](https://app.box.com/s/n87xmhjyf7dws7vk6q9ny24vmmi4exl6) (**3.7**) : Kho Template thiết kế  Poster `Premium`
 3. Logo Maker (****) : Kho Template thiết kế Logo `Premium`
-4. Meme Generator (**4.5937**) : Tạo meme cho bản thân từ kho meme đồ sộ `Premium`
-5. Canva (**2.87.0**) : Kho Cộng động thiết kế lớn nhất thế giới `Premium`
-6. Label Maker (**4.8**) : Kho Template thiết kế nhãn `Premium`
-7. Logo Designer (**1.22**) : Thiết kế Logo dễ dàng trực quan `Premium`
-8. Resume Builder (**1.2**) : Template thiết kế CV, hồ sơ việc làm `Premium`
-9. Certificate Maker (**4.9.4**) : Kho Template thiết kế Chứng Chỉ `Premium`
+4. [Meme Generator](https://app.box.com/s/nsvy75ryn73bguopwk4ibfrtlyppyfl1) (**4.5937**) : Tạo meme cho bản thân từ kho meme đồ sộ `Premium`
+5. [Canva](https://app.box.com/s/wbq307fydmacm62h3tcspiuqcc5ypb7z) (**2.87.0**) : Kho Cộng động thiết kế lớn nhất thế giới `Premium`
+6. [Label Maker](https://app.box.com/s/dhs9t7zm9df90a1tfryic539293sa4oj) (**4.8**) : Kho Template thiết kế nhãn `Premium`
+7. [Logo Designer](https://app.box.com/s/aff664r0w0zrxsblu5buraa4xssy2a92) (**1.22**) : Thiết kế Logo dễ dàng trực quan `Premium`
+8. [Resume Builder](https://app.box.com/s/wg3r5bzx1rux9uxo9p7q7posyb3ibc5h) (**1.2**) : Template thiết kế CV, hồ sơ việc làm `Premium`
+9. [Certificate Maker](https://app.box.com/s/oq9nyh6uo8qtpgyg5wdv0elk7n9djxlv) (**4.9.4**) : Kho Template thiết kế Chứng Chỉ `Premium`
+10. Visiting Card Maker
