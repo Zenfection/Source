@@ -26,13 +26,15 @@
 
 11. ![coc_coc.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png) [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt (**`free`**)
 
-12. ![nhacuatui.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png) [NhacCuaTui](https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg) ()
+12. ![nhacuatui.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png) [NhacCuaTui](https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg) (**6.3.4**) : Nghe nhạc FLAC Việt nam rất tốt (**`VIP`**)
 
-13. ![zingmp3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png) [ZingMp3](https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael) (**20.11.01**) : 
+13. ![zingmp3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png) [ZingMp3](https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael) (**20.11.01**) : Phần mềm nghe nhạc quá nổi tiếng ở Việt Nam (**`VIP`**)
 
-14. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) [Speedtest](https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l)
+14. ![Spotify_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-36-57-Spotify_Dark.png) [Spotify](https://app.box.com/s/o2acn7u6ubmnnd1d0gp8nyk4d1wne6cq) (**8.5.63.941**) : Nghe nhạc siêu hay và AI chọn nhạc tốt nhất (**`Premium`**)
 
-15. ![vnexpress.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-35-13-vnexpress.png) [VnExpress](https://play.google.com/store/apps/details?id=fr.playsoft.vnexpress) (**auto**) : Ứng dụng coi tin nhắn miễn phí và nhanh nhất (**`free`**)
+15. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) [Speedtest](https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l) (**4.5.22**) : Test tốc độ mạng tốt nhất (**`Premium`**)
+
+16. ![vnexpress.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-35-13-vnexpress.png) [VnExpress](https://play.google.com/store/apps/details?id=fr.playsoft.vnexpress) (**auto**) : Ứng dụng coi tin nhắn miễn phí và nhanh nhất (**`free`**)
 
 ## Advanced User
 
@@ -68,9 +70,7 @@
 
 16. ![airmore.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-06-airmore.png) [Airmore](https://play.google.com/store/apps/details?id=com.airmore) (**auto**) : Kết nối Android và máy tính qua network nhanh (**`free`**)
 
-17. ![apk extractor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-52-01-apk%20extractor.png) [Apk extractor](https://app.box.com/s/61ks4frbuh462aelew47q1n1xzl7qjkr) (****)
-
-18. ![apk editor pro.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-51-58-apk%20editor%20pro.png) Apk editor (****)
+17. ![apk extractor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-52-01-apk%20extractor.png) [Apk extractor](https://app.box.com/s/61ks4frbuh462aelew47q1n1xzl7qjkr) (**14.5.0**) : Build file apk từ app đang xài (**`Premium`**)
 
 ## Learning Code
 
@@ -78,9 +78,9 @@
 
 2. ![programing hub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png) [Programing Hub](https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23) (**5.1.34**) : Học IT với nhiều mảng nhất trên Android (**`Premium`**)
 
-3. ![enki.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png) [Enki](https://app.box.com/s/ky93ltv5t5rffyu9bclu1pbphsifxz1e) (**1.14.5**) : Học IT mã nguồn mở tốt nhất
+3. ![enki.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png) [Enki](https://app.box.com/s/ky93ltv5t5rffyu9bclu1pbphsifxz1e) (**1.14.5**) : Học IT mã nguồn mở tốt nhất (**`Premium`**)
 
-4. ![algorithrm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-26-algorithrm.png) [Algorithrm](https://app.box.com/s/4h62rtkzprpg0jolf7mdx4w3atdxjli5) (**1.2.8**) : Mô hình để học cấu trúc dữ liệu và giải thuật
+4. ![algorithrm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-26-algorithrm.png) [Algorithrm](https://app.box.com/s/4h62rtkzprpg0jolf7mdx4w3atdxjli5) (**1.2.8**) : Mô hình để học cấu trúc dữ liệu và giải thuật (**`Mod`**)
 
 ## Learning English
 
@@ -110,4 +110,4 @@
 
 9. ![certificate marker.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-23-certificate%20marker.png) [Certificate Maker](https://app.box.com/s/oq9nyh6uo8qtpgyg5wdv0elk7n9djxlv) (**4.9.4**) : Kho Template thiết kế Chứng Chỉ (**`Premium`**)
 
-10. ![visiting card.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png) [Visiting Card Maker](https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url)
+10. ![visiting card.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png) [Visiting Card Maker](https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url) (**23.0**) : Kho Template tạo card visit (**`Premium`**)
