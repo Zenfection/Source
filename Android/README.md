@@ -36,23 +36,23 @@
 
 ## Advanced User
 
-1. TrueCaller
+1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) TrueCaller (**15.35.5**) : 
 
-2. Termux (**auto**)
+2. ![termux.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-41-termux.png) [Termux](https://play.google.com/store/apps/details?id=com.termux) (**auto**) : Tương tự Terminal trên Linux và MacOS (**`free`**)
 
-3. Zenly (**auto**)
+3. ![zenly.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-30-zenly.png) [Zenly](https://play.google.com/store/apps/details?id=app.zenly.locator) (**auto**) : Theo dõi người thân thông qua map (**`free`**)
 
-4. UFO VPN (**2.4.2**) : 
+4. ![UFO VPN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-20-55-UFO%20VPN.png) UFO VPN (**2.4.2**) : 
 
-5. ES File Exployer (**4.2.3.7.1**) : 
+5. ![es file exployer.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-54-es%20file%20exployer.png) ES File Exployer (**4.2.3.7.1**) : 
 
-6. Từ điển TFlat (**7.6.7**) : 
+6. ![TFlat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-18-34-TFlat.png) Từ điển TFlat (**7.6.7**) : 
 
-7. Today Weather (**1.5.0-201120**)
+7. ![today weather.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-22-today%20weather.png) Today Weather (**1.5.0-201120**)
 
-8. Grammarly (**auto**) : 
+8. ![Grammarly.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-16-56-Grammarly.png) [Grammarly](https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard) (**auto**) : Kiểm tra ngữ pháp tiếng anh tự động hoàn hảo (**`free`**)
 
-9. ![github.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-12-19-github.png) Github (**auto**)
+9. ![github.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-12-19-github.png) [Github](https://play.google.com/store/apps/details?id=com.github.android) (**auto**) : Quản lí Github phiên bản Android (**`free`**)
 
 10. Adobe Scan (**auto**)
 
@@ -62,11 +62,11 @@
 
 13. ![fing.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-39-fing.png) [Fing](https://app.box.com/s/t0wam7zuhb2rvqhuhlqbw564m1cbfi8w) (**10.0.1**) : Cộng cụ tuyệt vời về quản lý mạng wifi
 
-14. ![happymod.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-35-happymod.png) [HappyMod](https://www.happymod.com/) (**auto**) : Kho ứng dụng Mod của **HappyMod**
+14. ![happymod.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-35-happymod.png) [HappyMod](https://www.happymod.com/) (**auto**) : Kho ứng dụng Mod của **HappyMod** (**`free`**)
 
-15. ![istudiez.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-11-istudiez.png) [iStudiez Pro](https://play.google.com/store/apps/details?id=com.istudiezteam.istudiezpro) (**auto**) : Thời gian biểu cho mọi học tập 
+15. ![istudiez.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-11-istudiez.png) [iStudiez Pro](https://play.google.com/store/apps/details?id=com.istudiezteam.istudiezpro) (**auto**) : Thời gian biểu cho mọi học tập (**`free`**)
 
-16. ![airmore.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-06-airmore.png) [Airmore](https://play.google.com/store/apps/details?id=com.airmore) (**auto**) : Kết nối Android và máy tính qua network nhanh
+16. ![airmore.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-06-airmore.png) [Airmore](https://play.google.com/store/apps/details?id=com.airmore) (**auto**) : Kết nối Android và máy tính qua network nhanh (**`free`**)
 
 17. Apk extractor (****)
 
