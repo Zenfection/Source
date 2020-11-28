@@ -10,9 +10,9 @@
 
 3. ![instander.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-17-48-instander.png) [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn... (**`Mod`**)
 
-4. ![AdGuard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png) [Adguard Pro](https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe) (**3.5.66**) :
+4. ![AdGuard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png) [Adguard Pro](https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe) (**3.5.66**) : Chặn quảng cáo mọi app trên Android (**`Premium`**)
 
-5. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) [WPS Office](https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d) (**13.0.0**) :
+5. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) [WPS Office](https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d) (**13.0.0**) : Bộ Office tốt nhất cho Android (**`Premium`**)
 
 6. ![Google_Translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-21-32-Google_Translate.png) [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ (**`free`**)
 
@@ -26,7 +26,7 @@
 
 11. ![coc_coc.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png) [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt (**`free`**)
 
-12. ![nhacuatui.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png) [NhacCuaTui](https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg) 
+12. ![nhacuatui.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png) [NhacCuaTui](https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg) ()
 
 13. ![zingmp3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png) [ZingMp3](https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael) (**20.11.01**) : 
 
@@ -36,19 +36,19 @@
 
 ## Advanced User
 
-1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) [TrueCaller](https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u) (**15.35.5**) : 
+1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) [TrueCaller](https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u) (**15.35.5**) : Gọi, nhắn tin, chặn spam tự động... (**`Premium`**)
 
 2. ![termux.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-41-termux.png) [Termux](https://play.google.com/store/apps/details?id=com.termux) (**auto**) : Tương tự Terminal trên Linux và MacOS (**`free`**)
 
 3. ![zenly.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-30-zenly.png) [Zenly](https://play.google.com/store/apps/details?id=app.zenly.locator) (**auto**) : Theo dõi người thân thông qua map (**`free`**)
 
-4. ![UFO VPN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-20-55-UFO%20VPN.png) [UFO VPN](https://app.box.com/s/ykkog4tosfvu4wh5mffiy4tlzfl77d4s) (**2.4.2**) : 
+4. ![UFO VPN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-20-55-UFO%20VPN.png) [UFO VPN](https://app.box.com/s/ykkog4tosfvu4wh5mffiy4tlzfl77d4s) (**2.4.3**) : VPN khá là nhanh nhất trên Android (**`Premium`**)
 
-5. ![es file exployer.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-54-es%20file%20exployer.png) [ES File Exployer](https://app.box.com/s/htut3pgwuvp4lunuimqm8pmysrfz4br4) (**4.2.3.8.1**) : 
+5. ![es file exployer.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-54-es%20file%20exployer.png) [ES File Exployer](https://app.box.com/s/htut3pgwuvp4lunuimqm8pmysrfz4br4) (**4.2.3.8.1**) : Quản lí file mạnh mẽ, nhiều tính năng khác (**`Premium`**)
 
-6. ![TFlat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-18-34-TFlat.png) [Từ điển TFlat](https://app.box.com/s/5i1u6j6ubp0hjiwv9vymgeurlfuyt849) (**7.6.7**) : 
+6. ![TFlat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-18-34-TFlat.png) [Từ điển TFlat](https://app.box.com/s/5i1u6j6ubp0hjiwv9vymgeurlfuyt849) (**7.6.7**) : Từ điển **Anh-Việt** tốt nhất (**`Premium`**)
 
-7. ![today weather.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-22-today%20weather.png) [Today Weather](https://app.box.com/s/sqbkoq27aoq0b59f6o5hsv824jivl2fx) (**1.5.0-201120**)
+7. ![today weather.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-22-today%20weather.png) [Today Weather](https://app.box.com/s/sqbkoq27aoq0b59f6o5hsv824jivl2fx) (**1.5.0-201120**) : Dự báo thời tiết tốt nhất với nhiều server (**`Premium`**) 
 
 8. ![Grammarly.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-16-56-Grammarly.png) [Grammarly](https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard) (**auto**) : Kiểm tra ngữ pháp tiếng anh tự động hoàn hảo (**`free`**)
 
@@ -56,11 +56,11 @@
 
 10. ![adobe scan.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-09-adobe%20scan.png) Adobe Scan (**auto**)
 
-11. ![video panda compressor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-13-video%20panda%20compressor.png) [Video Panda Compressor](https://app.box.com/s/hec1ouic18wi0jssavfhblo9mispa9pr) (****)
+11. ![video panda compressor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-13-video%20panda%20compressor.png) [Video Panda Compressor](https://app.box.com/s/hec1ouic18wi0jssavfhblo9mispa9pr) (**1.1.9**) : Nén Video theo nhu cầu tốt nhất (**`Premium`**)
 
-12. ![photomath.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-10-26-photomath.png) [Photomath](https://app.box.com/s/mazjx13csagl9zmd0bizufdazyly9yz6) 
+12. ![photomath.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-10-26-photomath.png) [Photomath](https://app.box.com/s/mazjx13csagl9zmd0bizufdazyly9yz6) (**7.2.1**) : Giải toán tự động tột nhất (**`Premium`**)
 
-13. ![fing.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-39-fing.png) [Fing](https://app.box.com/s/t0wam7zuhb2rvqhuhlqbw564m1cbfi8w) (**10.0.1**) : Cộng cụ tuyệt vời về quản lý mạng wifi
+13. ![fing.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-39-fing.png) [Fing](https://app.box.com/s/t0wam7zuhb2rvqhuhlqbw564m1cbfi8w) (**10.0.1**) : Cộng cụ tuyệt vời về quản lý mạng wifi (**`Premium`**)
 
 14. ![happymod.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-35-happymod.png) [HappyMod](https://www.happymod.com/) (**auto**) : Kho ứng dụng Mod của **HappyMod** (**`free`**)
 
@@ -74,11 +74,11 @@
 
 ## Learning Code
 
-1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl)
+1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl) (**3.10**) : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất (**`Premium`**)
 
-2. ![programing hub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png) [Programing Hub](https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23)
+2. ![programing hub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png) [Programing Hub](https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23) (**5.1.34**) : Học IT với nhiều mảng nhất trên Android (**`Premium`**)
 
-3. ![enki.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png) [Enki](https://app.box.com/s/ky93ltv5t5rffyu9bclu1pbphsifxz1e)
+3. ![enki.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png) [Enki](https://app.box.com/s/ky93ltv5t5rffyu9bclu1pbphsifxz1e) (**1.14.5**) : Học IT mã nguồn mở tốt nhất
 
 4. ![algorithrm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-26-algorithrm.png) [Algorithrm](https://app.box.com/s/4h62rtkzprpg0jolf7mdx4w3atdxjli5) (**1.2.8**) : Mô hình để học cấu trúc dữ liệu và giải thuật
 
