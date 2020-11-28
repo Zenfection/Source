@@ -4,27 +4,27 @@
 
 ## Basic User
 
-1. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" title="" alt="youtubevaced.png" width="50">[YouTube Vanced](https://vancedapp.com/) (**auto**) Coi Youtube như Premium không quảng cáo, phát nền...
+1. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" title="" alt="youtubevaced.png" width="50">[YouTube Vanced](https://vancedapp.com/) (**auto**) Coi Youtube như Premium không quảng cáo, phát nền... (**`Mod`**)
 
-2. ![Facebook_Messenger_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-14-40-Facebook_Messenger_Alt.png)[Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) (**auto**) : Ứng dụng nhắn tin mà ai cũng biết
+2. ![Facebook_Messenger_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-14-40-Facebook_Messenger_Alt.png)[Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca) (**auto**) : Ứng dụng nhắn tin mà ai cũng biết (**`free`**)
 
-3. ![instander.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-17-48-instander.png) [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn... (`Mod`)
+3. ![instander.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-17-48-instander.png) [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn... (**`Mod`**)
 
 4. ![AdGuard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png) [Adguard Pro](https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe) (**3.5.66**) :
 
 5. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) WPS Office (**12.9.4**) :
 
-6. ![Google_Translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-21-32-Google_Translate.png) [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ
+6. ![Google_Translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-21-32-Google_Translate.png) [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ (**`free`**)
 
-7. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-14-33-Zoom.png)[Zoom](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) (**auto**) : Họp nhóm online
+7. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-14-33-Zoom.png)[Zoom](https://play.google.com/store/apps/details?id=us.zoom.videomeetings) (**auto**) : Họp nhóm online (**`free`**)
 
-8. ![gboard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-23-20-gboard.png) [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) (**auto**) : Bàn phím cơ bản Google nhanh gọn
+8. ![gboard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-23-20-gboard.png) [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) (**auto**) : Bàn phím cơ bản Google nhanh gọn (**`free`**)
 
-9. ![winrar_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-25-15-winrar_logo.png) [Rar](https://app.box.com/s/a3rjcud4vrbgt5h4qgx3sqpqkmdp7vlr) (**6.0.0**) : Giải nén mọi thể loại file nhanh gọn lẹ `Premium`
+9. ![winrar_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-25-15-winrar_logo.png) [Rar](https://app.box.com/s/a3rjcud4vrbgt5h4qgx3sqpqkmdp7vlr) (**6.0.0**) : Giải nén mọi thể loại file nhanh gọn lẹ (**`Premium`**)
 
-10. ![alarmy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-26-00-alarmy.png) [Alarmy](https://app.box.com/s/7eg9m6cc43qaa1lktoqy8twkegwxccfy) (**3.35.52**) : Đồng hồ báo thức tốt nhất với mọi thể loại chuông báo khác nhau (`Premium`)
+10. ![alarmy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-26-00-alarmy.png) [Alarmy](https://app.box.com/s/7eg9m6cc43qaa1lktoqy8twkegwxccfy) (**3.35.52**) : Đồng hồ báo thức tốt nhất với mọi thể loại chuông báo khác nhau (**`Premium`**)
 
-11. ![coc_coc.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png) [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt 
+11. ![coc_coc.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png) [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt (**`free`**)
 
 12. ![nhacuatui.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png) NhacCuaTui 
 
@@ -32,7 +32,7 @@
 
 14. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) Speedtest
 
-15. ![vnexpress.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-35-13-vnexpress.png) [VnExpress](https://play.google.com/store/apps/details?id=fr.playsoft.vnexpress) (**auto**) : Ứng dụng coi tin nhắn miễn phí và nhanh nhất `free`
+15. ![vnexpress.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-35-13-vnexpress.png) [VnExpress](https://play.google.com/store/apps/details?id=fr.playsoft.vnexpress) (**auto**) : Ứng dụng coi tin nhắn miễn phí và nhanh nhất (**`free`**)
 
 ## Advanced User
 
