@@ -111,3 +111,7 @@
 9. ![certificate marker.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-23-certificate%20marker.png) [Certificate Maker](https://app.box.com/s/oq9nyh6uo8qtpgyg5wdv0elk7n9djxlv) (**4.9.4**) : Kho Template thiết kế Chứng Chỉ (**`Premium`**)
 
 10. ![visiting card.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png) [Visiting Card Maker](https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url) (**23.0**) : Kho Template tạo card visit (**`Premium`**)
+
+11. ![picsart.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-47-32-picsart.png) [PisArt](https://app.box.com/s/6krums79lszgazbr4gucubjyl1zl08te) (**16.0.1**) : Chỉnh ảnh tốt nhất hiện nay (**`Premium`**)
+    
+    
