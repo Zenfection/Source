@@ -54,9 +54,9 @@
 
 9. ![github.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-12-19-github.png) [Github](https://play.google.com/store/apps/details?id=com.github.android) (**auto**) : Quản lí Github phiên bản Android (**`free`**)
 
-10. Adobe Scan (**auto**)
+10. ![adobe scan.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-09-adobe%20scan.png) Adobe Scan (**auto**)
 
-11. Video Panda (****)
+11. ![video panda compressor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-13-video%20panda%20compressor.png) Video Panda (****)
 
 12. ![photomath.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-10-26-photomath.png) [Photomath](https://app.box.com/s/mazjx13csagl9zmd0bizufdazyly9yz6) 
 
@@ -74,16 +74,21 @@
 
 ## Learning Code
 
-1. Mimo
-2. Programing Hub
-3. Enki
-4. Algorithrm
+1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png)Mimo
+
+2. ![programing hub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png) Programing Hub
+
+3. ![enki.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png) Enki
+
+4. ![algorithrm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-26-algorithrm.png) Algorithrm
 
 ## Learning English
 
-1. Busuu Premium (**19.11.2.485**) : Học ngoại ngữ với giáo trình hay nhất `Premium`
-2. Elsa Speak (****) : Học và luyện tập cách phát âm tiếng Anh `Premium`
-3. ABA English (****) : Học tiếng anh qua xem video, đọc báo và tài liệu `Premium`
+1. ![bussu.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-26-bussu.png) Busuu Premium (**19.11.2.485**) : Học ngoại ngữ với giáo trình hay nhất `Premium`
+
+2. ![elsa english.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-32-elsa%20english.png) Elsa Speak (****) : Học và luyện tập cách phát âm tiếng Anh `Premium`
+
+3. ![aba english.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-35-aba%20english.png) ABA English (****) : Học tiếng anh qua xem video, đọc báo và tài liệu `Premium`
 
 ## Desinger
 
