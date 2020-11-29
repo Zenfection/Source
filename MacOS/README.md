@@ -6,7 +6,7 @@
 
 1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-50-13-AirBuddy.png) (**2.1**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
 
-2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**4.2.2**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
+2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**4.3**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
 
 3. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-42-App_Cleaner_%26_Uninstaller.png" alt="App_Cleaner_&_Uninstaller.png" width="50"> [App Cleaner &amp; Unistaller](https://drive.google.com/drive/folders/1gkulydy-bE58WCSgAz09GmAlD9o1N-M-?usp=sharing) (**7.1**): Xoá phần mềm mạnh mẽ 
 
@@ -46,7 +46,7 @@
 
 21. ![WPS Officepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png) [WPS Office](https://apps.apple.com/vn/app/wps-office-pdf-docs-table/id1468073139?l=vi&mt=12) : Thay thế bộ **Office của Microsoft**
 
-22. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) [Sensei](https://drive.google.com/drive/folders/140vl2PDH5kk9HIZaj6j-G4zplp56JH8u?usp=sharing) (**1.3.2**) : Tối ưu hoá và theo dõi tình trạng máy tính
+22. ![Sensei.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png) [Sensei](https://drive.google.com/drive/folders/140vl2PDH5kk9HIZaj6j-G4zplp56JH8u?usp=sharing) (**1.3.3**) : Tối ưu hoá và theo dõi tình trạng máy tính
 
 23. ![TeamViewer_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png) [Teamviewer](https://www.teamviewer.com/vi/) (**auto**): Điều khiển thiết bị từ xa (`free`)
 
@@ -80,7 +80,7 @@
 
 11. ![Mactrackerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-13-Mactracker.png) [Mactrakcer](https://drive.google.com/drive/folders/157TkWOePlDFpycebCsDo7YTjYIhu1lI6?usp=sharing) (**2.9.2**) : Tra cứu mọi thiết bị của Apple
 
-12. ![Camtasiapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png) [Camtasia](https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing) (**2020.0.10**): Công cụ quay màn hình và xuất bản video
+12. ![Camtasiapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png) [Camtasia](https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing) (**2020.0.11**): Công cụ quay màn hình và xuất bản video
 
 13. ![BetterTouchToolpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png) [BetterTouchTool](https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing) (**3.402**): Công cụ tốt nhất tuỳ biến keyboard,mouse,trackpad
 
@@ -114,8 +114,14 @@
 8. ![CodeRunnerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-27-41-CodeRunner.png) [CodeRunner](https://drive.google.com/drive/folders/12Vt635p0zhAh23K7wOS1gcLRGAdijbno?usp=sharing) (**4.0.3**): Chạy code test nhanh gọn lẹ mọi ngôn ngữ
 9. ![Applicationpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-49-42-Application.png) [Araxis Merge Pro](https://drive.google.com/drive/folders/19X5VpDYF_8fAEXjoaz2gYdP30UMUjj54?usp=sharing) (**2020.5479**): So sánh nội dung 2 file
 10. ![PostmanAltpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-57-Postman_Alt.png) [Postman](https://www.postman.com/) (**auto**) : Test API tốt nhất hiện nay (`free`)
-11. ![Xcodepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-17-02-Xcode.png) [Xcode](https://apps.apple.com/vn/app/xcode/id497799835?l=vi&mt=12) : IDE code độc quyền trên MacOS
-12. ![imageascci.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-38-imageascci.png) [Image Ascii](https://drive.google.com/drive/folders/1weORyfPPsbyflhNY5F7L3UP9XN6HtbhP?usp=sharing) : Convert ảnh qua các bảng mã Ascii, Hex....
+11. ![Xcodepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-17-02-Xcode.png) [Xcode](https://apps.apple.com/vn/app/xcode/id497799835?l=vi&mt=12) (**auto**) : IDE code độc quyền trên MacOS
+12. ![imageascci.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-38-imageascci.png) [Image Ascii](https://drive.google.com/drive/folders/1weORyfPPsbyflhNY5F7L3UP9XN6HtbhP?usp=sharing) (**2.3**) : Convert ảnh qua các bảng mã Ascii, Hex....
+13. ![scrutiny.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-15-58-scrutiny.png) [Scrutiny](https://drive.google.com/drive/folders/1qmarOJZ27zbgrb-Dx3dE6qai6UfVng-0?usp=sharing) (**9.13.3**) : Kiểm tra và công cụ tối ưu 1 trang web tốt nhất
+14. ![Screens_4.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-16-58-Screens_4.png) [Screens](https://drive.google.com/drive/folders/1CNa-qRVD7-KV3Tzp7OLPrM3B4EEVlnps?usp=sharing) (**4.7.2**) : Công cụ điều khiển màn hình máy tính từ xa độc quyền MacOS
+    
+    
+    
+    
 
 ## Designer
 
@@ -150,8 +156,6 @@
 15. ![smallimagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image](https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing) (**2.5**) : Tuỳ chỉnh kích thước các hình ảnh
 
 16. ![blocs.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png) [Blocs](https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing) (**4.0.0**) : Thiết kế web theo từng block và trực quan
-    
-    
 
 ## Bonus
 
