@@ -6,9 +6,9 @@
 
 1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-50-13-AirBuddy.png) (**2.1**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
 
-2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**4.3**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
+2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**1195**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
 
-3. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-42-App_Cleaner_%26_Uninstaller.png" alt="App_Cleaner_&_Uninstaller.png" width="50"> [App Cleaner &amp; Unistaller](https://drive.google.com/drive/folders/1gkulydy-bE58WCSgAz09GmAlD9o1N-M-?usp=sharing) (**7.1**): Xoá phần mềm mạnh mẽ 
+3. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-42-App_Cleaner_%26_Uninstaller.png" alt="App_Cleaner_&_Uninstaller.png" width="50"> [App Cleaner &amp; Unistaller](https://drive.google.com/drive/folders/1gkulydy-bE58WCSgAz09GmAlD9o1N-M-?usp=sharing) (**7.2**): Xoá phần mềm mạnh mẽ 
 
 4. ![Bartender.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-08-Bartender.png) [Bartender 3](https://drive.google.com/drive/folders/1qvy1Loo6_Gh2CyD1Zms9N0rMPf8QpeOa?usp=sharing) (**3.1.2.5**) : Quản lí  **menubar**
 
@@ -58,11 +58,11 @@
 
 ## Advanced User
 
-1. ![A Better Finder Renamerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-34-05-A%20Better%20Finder%20Renamer.png) [A Better Finder Renamer](https://drive.google.com/drive/folders/1chKH_0EgaW9DcXn4CFPbkEk7XEL7AUUD?usp=sharing) (**11.24**) : đổi tên hàng loạt
+1. ![A Better Finder Renamerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-34-05-A%20Better%20Finder%20Renamer.png) [A Better Finder Renamer](https://drive.google.com/drive/folders/1chKH_0EgaW9DcXn4CFPbkEk7XEL7AUUD?usp=sharing) (**11.25**) : đổi tên hàng loạt
 
 2. ![Adobe Acrobat DCpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-00-Adobe%20Acrobat%20DC.png) [Adobe Acrobat Pro - Google Drive](https://drive.google.com/drive/folders/1K9MGzQsucyd9U0_mpbHY6VCMpADbH02W?usp=sharing) (**20.013.20064**): Làm việc về file **PDF**
 
-3. ![PDF Protector.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-06-PDF%20Protector.png) [PDF Protector](https://drive.google.com/drive/folders/1zMXgwyZyh605s6oiEJ5WxXNr7ejUjBK1?usp=sharing) (**1.5**) : Bẻ khoá và tạo khoá file **PDF** (*nó dò pass thôi*)
+3. ![PDF Protector.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-06-PDF%20Protector.png) [PDF Protector](https://drive.google.com/drive/folders/1zMXgwyZyh605s6oiEJ5WxXNr7ejUjBK1?usp=sharing) (**1.5.1**) : Bẻ khoá và tạo khoá file **PDF** (*nó dò pass thôi*)
 
 4. ![cleverpdfpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-58-55-cleverpdf.png) [CleverPDF](https://drive.google.com/drive/folders/18Um44Sw6wnIHVy5RTA9Qr3QnfAWMvNYN?usp=sharing) (**3.0.4**): Công cụ chuyển đổi PDF thành Word,Image,Docx...
 
@@ -118,14 +118,10 @@
 12. ![imageascci.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-38-imageascci.png) [Image Ascii](https://drive.google.com/drive/folders/1weORyfPPsbyflhNY5F7L3UP9XN6HtbhP?usp=sharing) (**2.3**) : Convert ảnh qua các bảng mã Ascii, Hex....
 13. ![scrutiny.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-15-58-scrutiny.png) [Scrutiny](https://drive.google.com/drive/folders/1qmarOJZ27zbgrb-Dx3dE6qai6UfVng-0?usp=sharing) (**9.13.3**) : Kiểm tra và công cụ tối ưu 1 trang web tốt nhất
 14. ![Screens_4.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-16-58-Screens_4.png) [Screens](https://drive.google.com/drive/folders/1CNa-qRVD7-KV3Tzp7OLPrM3B4EEVlnps?usp=sharing) (**4.7.2**) : Công cụ điều khiển màn hình máy tính từ xa độc quyền MacOS
-    
-    
-    
-    
 
 ## Designer
 
-1. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="arttextpng" width="50"> [Art Text](https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing) (**4.0.3**): Thiết kế font chữ
+1. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="arttextpng" width="50"> [Art Text](https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing) (**4.0.4**): Thiết kế font chữ
 
 2. ![swift publisherpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png) [Swift Publisher](https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing) (**5.5.6**) : Mẫu template về poster tốt nhất
 
@@ -137,7 +133,7 @@
 
 6. ![iconjarpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) [IconJar](https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing) (**2.7.0**) : Quản lí mọi icon
 
-7. ![Droppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.2**): Lấy màu mã hex, dành cho dân thiết kế
+7. ![Droppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.3**): Lấy màu mã hex, dành cho dân thiết kế
 
 8. ![Aurora.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-20-51-Aurora.png) [Aurora HDR](https://drive.google.com/drive/folders/1mEZX3VLHzLwYV3Co06ubUQ1gUAwIg0k6?usp=sharing) (**1.0.1**): Tạo ảnh HDR chỉ trong 1 nốt nhạc
 
@@ -147,7 +143,7 @@
 
 11. ![DesiGN for Numbers - Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png) [DesiGN for Numbers](https://drive.google.com/drive/folders/1R_SGyynifh4KFdhhycv3DNXHpkmQLSH8?usp=sharing) (**5.0.4**) : Template cho trang tính **Number**
 
-12. ![Templates for Pages - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png)  [Templates for Pages DesiGN](https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing) (**6.0.4**) : Template cho **Pages** trên Mac
+12. ![Templates for Pages - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png)  [Templates for Pages DesiGN](https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing) (**6.0.5**) : Template cho **Pages** trên Mac
 
 13. ![Resume.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-30-13-Resume.png) [Resume Templates Design](https://drive.google.com/drive/folders/1vg6c1-tMEHj_OtDYN9s--glZEZxIuRoS?usp=sharing) (**2.0.4**) : Template cho **CV Resume** trên Mac
 
