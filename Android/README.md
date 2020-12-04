@@ -12,7 +12,7 @@
 
 4. ![AdGuard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png) [Adguard Pro](https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe) (**3.5.66**) : Chặn quảng cáo mọi app trên Android (**`Premium`**)
 
-5. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) [WPS Office](https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d) (**13.0.0**) : Bộ Office tốt nhất cho Android (**`Premium`**)
+5. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) [WPS Office](https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d) (**13.0.1**) : Bộ Office tốt nhất cho Android (**`Premium`**)
 
 6. ![Google_Translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-21-32-Google_Translate.png) [Google Dịch](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) (**auto**) : Dịch thuật cơ bản mọi ngôn ngữ (**`free`**)
 
@@ -30,15 +30,15 @@
 
 13. ![zingmp3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png) [ZingMp3](https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael) (**20.11.01**) : Phần mềm nghe nhạc quá nổi tiếng ở Việt Nam (**`VIP`**)
 
-14. ![Spotify_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-36-57-Spotify_Dark.png) [Spotify](https://app.box.com/s/o2acn7u6ubmnnd1d0gp8nyk4d1wne6cq) (**8.5.63.941**) : Nghe nhạc siêu hay và AI chọn nhạc tốt nhất (**`Premium`**)
+14. ![Spotify_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-36-57-Spotify_Dark.png) [Spotify](https://app.box.com/s/o2acn7u6ubmnnd1d0gp8nyk4d1wne6cq) (**8.5.86.854**) : Nghe nhạc siêu hay và AI chọn nhạc tốt nhất (**`Premium`**)
 
-15. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) [Speedtest](https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l) (**4.5.22**) : Test tốc độ mạng tốt nhất (**`Premium`**)
+15. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) [Speedtest](https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l) (**4.5.23**) : Test tốc độ mạng tốt nhất (**`Premium`**)
 
 16. ![vnexpress.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-35-13-vnexpress.png) [VnExpress](https://play.google.com/store/apps/details?id=fr.playsoft.vnexpress) (**auto**) : Ứng dụng coi tin nhắn miễn phí và nhanh nhất (**`free`**)
 
 ## Advanced User
 
-1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) [TrueCaller](https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u) (**15.35.5**) : Gọi, nhắn tin, chặn spam tự động... (**`Premium`**)
+1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) [TrueCaller](https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u) (**15.36.7**) : Gọi, nhắn tin, chặn spam tự động... (**`Premium`**)
 
 2. ![termux.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-41-termux.png) [Termux](https://play.google.com/store/apps/details?id=com.termux) (**auto**) : Tương tự Terminal trên Linux và MacOS (**`free`**)
 
@@ -58,7 +58,7 @@
 
 10. ![adobe scan.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-09-adobe%20scan.png) Adobe Scan (**auto**)
 
-11. ![video panda compressor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-13-video%20panda%20compressor.png) [Video Panda Compressor](https://app.box.com/s/hec1ouic18wi0jssavfhblo9mispa9pr) (**1.1.9**) : Nén Video theo nhu cầu tốt nhất (**`Premium`**)
+11. ![video panda compressor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-13-video%20panda%20compressor.png) [Video Panda Compressor](https://app.box.com/s/hec1ouic18wi0jssavfhblo9mispa9pr) (**1.2.1**) : Nén Video theo nhu cầu tốt nhất (**`Premium`**)
 
 12. ![photomath.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-10-26-photomath.png) [Photomath](https://app.box.com/s/mazjx13csagl9zmd0bizufdazyly9yz6) (**7.2.1**) : Giải toán tự động tột nhất (**`Premium`**)
 
@@ -74,7 +74,7 @@
 
 ## Learning Code
 
-1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl) (**3.10**) : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất (**`Premium`**)
+1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl) (**3.11**) : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất (**`Premium`**)
 
 2. ![programing hub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png) [Programing Hub](https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23) (**5.1.34**) : Học IT với nhiều mảng nhất trên Android (**`Premium`**)
 
@@ -100,7 +100,7 @@
 
 3. ![logo marker.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-53-logo%20marker.png) [Logo Maker](https://app.box.com/s/kpos7dp54qgjy4mfyq3jgpya1ndcldt0) (**33.5**) : Kho Template thiết kế Logo  (**`Premium`**)
 
-4. ![meme gernerator.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-48-meme%20gernerator.png) [Meme Generator](https://app.box.com/s/nsvy75ryn73bguopwk4ibfrtlyppyfl1) (**4.5937**) : Tạo meme cho bản thân từ kho meme đồ sộ (**`Premium`**)
+4. ![meme gernerator.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-48-meme%20gernerator.png) [Meme Generator](https://app.box.com/s/nsvy75ryn73bguopwk4ibfrtlyppyfl1) (**4.5945**) : Tạo meme cho bản thân từ kho meme đồ sộ (**`Premium`**)
 
 5. ![canva.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-41-canva.png) [Canva](https://app.box.com/s/wbq307fydmacm62h3tcspiuqcc5ypb7z) (**2.87.0**) : Kho Cộng động thiết kế lớn nhất thế giới (**`Premium`**)
 
