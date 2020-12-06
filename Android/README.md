@@ -72,6 +72,10 @@
 
 17. ![apk extractor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-52-01-apk%20extractor.png) [Apk extractor](https://app.box.com/s/61ks4frbuh462aelew47q1n1xzl7qjkr) (**14.5.0**) : Build file apk từ app đang xài (**`Premium`**)
 
+18. ![QR.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-04-56-QR.png) [QR Generator](https://app.box.com/s/01gh3ungoeszu466a0bshbox6rrjsm7v) (**1.01.42.1201**) : Tạo các mã QR tiện dụng và mạnh mẽ (**`Premium`**)
+    
+    
+
 ## Learning Code
 
 1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl) (**3.11**) : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất (**`Premium`**)
