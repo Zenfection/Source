@@ -62,49 +62,43 @@
 
 1. ![A Better Finder Renamerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-34-05-A%20Better%20Finder%20Renamer.png) [A Better Finder Renamer](https://drive.google.com/drive/folders/1chKH_0EgaW9DcXn4CFPbkEk7XEL7AUUD?usp=sharing) (**11.25**) : đổi tên hàng loạt
 
-2. ![Adobe Acrobat DCpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-00-Adobe%20Acrobat%20DC.png) [Adobe Acrobat Pro - Google Drive](https://drive.google.com/drive/folders/1K9MGzQsucyd9U0_mpbHY6VCMpADbH02W?usp=sharing) (**20.013.20064**): Làm việc về file **PDF**
+2. ![PDF Protector.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-06-PDF%20Protector.png) [PDF Protector](https://drive.google.com/drive/folders/1zMXgwyZyh605s6oiEJ5WxXNr7ejUjBK1?usp=sharing) (**1.5.1**) : Bẻ khoá và tạo khoá file **PDF** (*nó dò pass thôi*)
 
-3. ![PDF Protector.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-06-PDF%20Protector.png) [PDF Protector](https://drive.google.com/drive/folders/1zMXgwyZyh605s6oiEJ5WxXNr7ejUjBK1?usp=sharing) (**1.5.1**) : Bẻ khoá và tạo khoá file **PDF** (*nó dò pass thôi*)
+3. ![1111png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-19-46-1.1.1.1.png) [Cloudflare WARP](https://1.1.1.1/download) (**auto**) : VPN 1.1.1.1 dành cho Mac (`free`)
 
-4. ![cleverpdfpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-58-55-cleverpdf.png) [CleverPDF](https://drive.google.com/drive/folders/18Um44Sw6wnIHVy5RTA9Qr3QnfAWMvNYN?usp=sharing) (**3.0.4**): Công cụ chuyển đổi PDF thành Word,Image,Docx...
+4. ![Cloudmounterpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-22-27-Cloudmounter.png) [Cloud Mounter](https://drive.google.com/drive/folders/1qQV0L-qtZxCt9Js-ldUeBTJSs47xKN1u?usp=sharing) (**3.7**): Quản lí dữ liệu đám mây, và truy cập giao thức FTP...
 
-5. ![1111png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-19-46-1.1.1.1.png) [Cloudflare WARP](https://1.1.1.1/download) (**auto**) : VPN 1.1.1.1 dành cho Mac (`free`)
+5. ![Folxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-43-34-Folx.png) [Folx Pro](https://drive.google.com/drive/folders/1j1atHpqK7DB86UUKGJu1-VkDvL5BxoSw?usp=sharing) (**5.24**) : Bắt link download video và download Torrent
 
-6. ![Cloudmounterpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-22-27-Cloudmounter.png) [Cloud Mounter](https://drive.google.com/drive/folders/1qQV0L-qtZxCt9Js-ldUeBTJSs47xKN1u?usp=sharing) (**3.7**): Quản lí dữ liệu đám mây, và truy cập giao thức FTP...
+6. ![iTermpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png) [Iterm2](https://iterm2.com/): (**auto**) : Chức năng như Terminal, dễ tuỳ biến (`free`)
 
-7. ![Folxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-43-34-Folx.png) [Folx Pro](https://drive.google.com/drive/folders/1j1atHpqK7DB86UUKGJu1-VkDvL5BxoSw?usp=sharing) (**5.24**) : Bắt link download video và download Torrent
+7. ![LiteIconpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-31-LiteIcon.png) [Liteicon](https://freemacsoft.net/liteicon/) (**4.1.0**) : Thay đổi tuỳ chỉnh icon trong Mac (`free`)
 
-8. ![iTermpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png) [Iterm2](https://iterm2.com/): (**auto**) : Chức năng như Terminal, dễ tuỳ biến (`free`)
+8. ![Little Snitchpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png) [Little Snitch](https://drive.google.com/drive/folders/1VMvBet9LPBcUxW7x24BzNZDzzvuiVBg6?usp=sharing) (**4.5.2**) : Tra cứu và chặn các cổng kết nối internet
 
-9. ![LiteIconpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-31-LiteIcon.png) [Liteicon](https://freemacsoft.net/liteicon/) (**4.1.0**) : Thay đổi tuỳ chỉnh icon trong Mac (`free`)
+9. ![Mactrackerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-13-Mactracker.png) [Mactrakcer](https://drive.google.com/drive/folders/157TkWOePlDFpycebCsDo7YTjYIhu1lI6?usp=sharing) (**2.9.2**) : Tra cứu mọi thiết bị của Apple
 
-10. ![Little Snitchpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png) [Little Snitch](https://drive.google.com/drive/folders/1VMvBet9LPBcUxW7x24BzNZDzzvuiVBg6?usp=sharing) (**4.5.2**) : Tra cứu và chặn các cổng kết nối internet
+10. ![Camtasiapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png) [Camtasia](https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing) (**2020.0.11**): Công cụ quay màn hình và xuất bản video
 
-11. 
+11. ![BetterTouchToolpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png) [BetterTouchTool](https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing) (**3.402**): Công cụ tốt nhất tuỳ biến keyboard,mouse,trackpad
 
-12. ![Mactrackerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-13-Mactracker.png) [Mactrakcer](https://drive.google.com/drive/folders/157TkWOePlDFpycebCsDo7YTjYIhu1lI6?usp=sharing) (**2.9.2**) : Tra cứu mọi thiết bị của Apple
+12. ![movavipng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-06-28-movavi.png) [Movavi Video Convert 21 Premium](https://drive.google.com/drive/folders/1hpzO0LgvmqTpwXc-E45YaRXtlP2MFo7r?usp=sharing) (**21.0.0**) : Chuyển đổi các video theo nhiều định dạng
 
-13. ![Camtasiapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png) [Camtasia](https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing) (**2020.0.11**): Công cụ quay màn hình và xuất bản video
+13. ![Gifoxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) [Gifox](https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing) (**2.2.2**) : Hỗ trợ quay màn hình xuất ra **GIF**
 
-14. ![BetterTouchToolpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png) [BetterTouchTool](https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing) (**3.402**): Công cụ tốt nhất tuỳ biến keyboard,mouse,trackpad
+14. ![Intel Power Gadgetpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png) [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**) : Quản lí điện năng CPU Intel (`free`)
 
-15. ![movavipng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-06-28-movavi.png) [Movavi Video Convert 21 Premium](https://drive.google.com/drive/folders/1hpzO0LgvmqTpwXc-E45YaRXtlP2MFo7r?usp=sharing) (**21.0.0**) : Chuyển đổi các video theo nhiều định dạng
+15. ![ithoughtXpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png) [Ithoughts](https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing) (**5.24**) : Tạo sơ đồ tư duy dễ dàng và trực quan
 
-16. ![Gifoxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) [Gifox](https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing) (**2.2.2**) : Hỗ trợ quay màn hình xuất ra **GIF**
+16. ![BetterZippng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png) [BetterZip](https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing) (**5.03**): Công cụ giải nén mạnh mẽ và nhiều công cụ hữu ích
 
-17. ![Intel Power Gadgetpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png) [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**) : Quản lí điện năng CPU Intel (`free`)
+17. ![Numberpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-23-Number.png)[‎Numbers](https://apps.apple.com/vn/app/numbers/id409203825?l=vi&mt=12) : Trang tính Thay thế **Excel của Microsoft**
 
-18. ![ithoughtXpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png) [Ithoughts](https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing) (**5.24**) : Tạo sơ đồ tư duy dễ dàng và trực quan
+18. ![Keynotepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-29-Keynote.png) [‎Keynote](https://apps.apple.com/vn/app/keynote/id409183694?l=vi&mt=12) : Bảng trình chiếu Thay thế **PowerPoint của Microsoft**
 
-19. ![BetterZippng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png) [BetterZip](https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing) (**5.03**): Công cụ giải nén mạnh mẽ và nhiều công cụ hữu ích
+19. ![Pagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-07-17-Page.png) [‎Pages](https://apps.apple.com/vn/app/pages/id409201541?l=vi&mt=12) : Văn bản thay thế **Word của Microsoft**
 
-20. ![Numberpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-23-Number.png)[‎Numbers](https://apps.apple.com/vn/app/numbers/id409203825?l=vi&mt=12) : Trang tính Thay thế **Excel của Microsoft**
-
-21. ![Keynotepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-29-Keynote.png) [‎Keynote](https://apps.apple.com/vn/app/keynote/id409183694?l=vi&mt=12) : Bảng trình chiếu Thay thế **PowerPoint của Microsoft**
-
-22. ![Pagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-07-17-Page.png) [‎Pages](https://apps.apple.com/vn/app/pages/id409201541?l=vi&mt=12) : Văn bản thay thế **Word của Microsoft**
-
-23. ![Lingvanex translatorpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-26-17-Lingvanex%20translator.png) [‎Lingvanex Translator](https://apps.apple.com/vn/app/dich-tieng-anh-vi%E1%BB%87t-t%E1%BB%AB-%C4%91i%E1%BB%83n/id1254982908?l=vi&mt=12) : Dịch thuật văn bản mọi ngôn ngữ
+20. ![Lingvanex translatorpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-26-17-Lingvanex%20translator.png) [‎Lingvanex Translator](https://apps.apple.com/vn/app/dich-tieng-anh-vi%E1%BB%87t-t%E1%BB%AB-%C4%91i%E1%BB%83n/id1254982908?l=vi&mt=12) : Dịch thuật văn bản mọi ngôn ngữ
 
 ## Developer
 
@@ -186,6 +180,8 @@
 ## Drop những ứng dụng và lý do:
 
 1.  ![spacedroppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard (Thay thế bằng Yoink tốt và tiện hơn)
+2. ![cleverpdfpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-58-55-cleverpdf.png) [CleverPDF](https://drive.google.com/drive/folders/18Um44Sw6wnIHVy5RTA9Qr3QnfAWMvNYN?usp=sharing) (**3.0.4**): Công cụ chuyển đổi PDF thành Word,Image,Docx (Thay thế bằng PDF Reader Pro)
+3. ![Adobe Acrobat DCpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-00-Adobe%20Acrobat%20DC.png) [Adobe Acrobat Pro - Google Drive](https://drive.google.com/drive/folders/1K9MGzQsucyd9U0_mpbHY6VCMpADbH02W?usp=sharing) (**20.013.20064**): Làm việc về file **PDF** (Thay thế bằng PDF Reader Pro)
 
 ---
 
