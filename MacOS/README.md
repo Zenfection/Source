@@ -4,9 +4,9 @@
 
 # <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-33-36-Big_Sur.png" title="" alt="Big_Sur.png" width="50">Mac OS
 
-1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-50-13-AirBuddy.png) AirBuddy (**2.1**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
+1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-50-13-AirBuddy.png) [AirBuddy](https://drive.google.com/drive/folders/1zz3Qm8d8KnrQS7c1I1Rs82O_h7n2RBiV?usp=sharing) (**2.1**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
 
-2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**1195**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
+2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**1197**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
 
 3. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-42-App_Cleaner_%26_Uninstaller.png" alt="App_Cleaner_&_Uninstaller.png" width="50"> [App Cleaner &amp; Unistaller](https://drive.google.com/drive/folders/1gkulydy-bE58WCSgAz09GmAlD9o1N-M-?usp=sharing) (**7.2**): Xoá phần mềm mạnh mẽ 
 
@@ -42,7 +42,7 @@
 
 19. ![soundsource.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png) [SoundSource](https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing) (**5.1.4**) : Quản lí và boost âm thanh hay hơn
 
-20. ![spacedrop.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard
+20. ![Yoink.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-12-45-Yoink.png) [Yoink](https://drive.google.com/drive/folders/1gs8cl-vv_wzSrCJ5ezmwFjBIEz0QtR16?usp=sharing) (**3.5.11**) : Kéo thả file mạnh mẽ và tiện dụng
 
 21. ![WPS Officepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png) [WPS Office](https://apps.apple.com/vn/app/wps-office-pdf-docs-table/id1468073139?l=vi&mt=12) : Thay thế bộ **Office của Microsoft**
 
@@ -54,7 +54,9 @@
 
 25. ![Yandex_Browser.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-21-Yandex_Browser.png) [Yandex Browser](https://browser.yandex.com/) (**auto**) : Trình duyệt web tốt nhất theo mình (`free`)
 
-26. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png) [Zoom Meeting](https://zoom.us/) (**auto**) : Hội họp online (`free`)
+26. ![Zoom.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-24-Zoom.png) [Zoom Meeting](https://zoom.us/) (**auto**) : Hội họp online (`free`) 
+
+27. ![pdf reader.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-17-10-pdf%20reader.png) [PDF Reader Pro](https://drive.google.com/drive/folders/1HEHLSEWWN6Z_nZFJkrdevYIODB-diSXu?usp=sharing) (**2.7.2**) : Xem và Xử lý file PDF đa năng và mạnh nhất nhất
 
 ## Advanced User
 
@@ -70,7 +72,7 @@
 
 6. ![Cloudmounterpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-22-27-Cloudmounter.png) [Cloud Mounter](https://drive.google.com/drive/folders/1qQV0L-qtZxCt9Js-ldUeBTJSs47xKN1u?usp=sharing) (**3.7**): Quản lí dữ liệu đám mây, và truy cập giao thức FTP...
 
-7. ![Folxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-43-34-Folx.png) [Folx Pro](https://drive.google.com/drive/folders/1j1atHpqK7DB86UUKGJu1-VkDvL5BxoSw?usp=sharing) (**5.23.13963**) : Bắt link download video và download Torrent
+7. ![Folxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-43-34-Folx.png) [Folx Pro](https://drive.google.com/drive/folders/1j1atHpqK7DB86UUKGJu1-VkDvL5BxoSw?usp=sharing) (**5.24**) : Bắt link download video và download Torrent
 
 8. ![iTermpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png) [Iterm2](https://iterm2.com/): (**auto**) : Chức năng như Terminal, dễ tuỳ biến (`free`)
 
@@ -78,33 +80,35 @@
 
 10. ![Little Snitchpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png) [Little Snitch](https://drive.google.com/drive/folders/1VMvBet9LPBcUxW7x24BzNZDzzvuiVBg6?usp=sharing) (**4.5.2**) : Tra cứu và chặn các cổng kết nối internet
 
-11. ![Mactrackerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-13-Mactracker.png) [Mactrakcer](https://drive.google.com/drive/folders/157TkWOePlDFpycebCsDo7YTjYIhu1lI6?usp=sharing) (**2.9.2**) : Tra cứu mọi thiết bị của Apple
+11. 
 
-12. ![Camtasiapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png) [Camtasia](https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing) (**2020.0.11**): Công cụ quay màn hình và xuất bản video
+12. ![Mactrackerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-13-Mactracker.png) [Mactrakcer](https://drive.google.com/drive/folders/157TkWOePlDFpycebCsDo7YTjYIhu1lI6?usp=sharing) (**2.9.2**) : Tra cứu mọi thiết bị của Apple
 
-13. ![BetterTouchToolpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png) [BetterTouchTool](https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing) (**3.402**): Công cụ tốt nhất tuỳ biến keyboard,mouse,trackpad
+13. ![Camtasiapng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png) [Camtasia](https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing) (**2020.0.11**): Công cụ quay màn hình và xuất bản video
 
-14. ![movavipng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-06-28-movavi.png) [Movavi Video Convert 21 Premium](https://drive.google.com/drive/folders/1hpzO0LgvmqTpwXc-E45YaRXtlP2MFo7r?usp=sharing) (**21.0.0**) : Chuyển đổi các video theo nhiều định dạng
+14. ![BetterTouchToolpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png) [BetterTouchTool](https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing) (**3.402**): Công cụ tốt nhất tuỳ biến keyboard,mouse,trackpad
 
-15. ![Gifoxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) [Gifox](https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing) (**2.2.2**) : Hỗ trợ quay màn hình xuất ra **GIF**
+15. ![movavipng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-06-28-movavi.png) [Movavi Video Convert 21 Premium](https://drive.google.com/drive/folders/1hpzO0LgvmqTpwXc-E45YaRXtlP2MFo7r?usp=sharing) (**21.0.0**) : Chuyển đổi các video theo nhiều định dạng
 
-16. ![Intel Power Gadgetpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png) [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**) : Quản lí điện năng CPU Intel (`free`)
+16. ![Gifoxpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png) [Gifox](https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing) (**2.2.2**) : Hỗ trợ quay màn hình xuất ra **GIF**
 
-17. ![ithoughtXpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png) [Ithoughts](https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing) (**5.24**) : Tạo sơ đồ tư duy dễ dàng và trực quan
+17. ![Intel Power Gadgetpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png) [Intel® Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) (**auto**) : Quản lí điện năng CPU Intel (`free`)
 
-18. ![BetterZippng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png) [BetterZip](https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing) (**5.03**): Công cụ giải nén mạnh mẽ và nhiều công cụ hữu ích
+18. ![ithoughtXpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png) [Ithoughts](https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing) (**5.24**) : Tạo sơ đồ tư duy dễ dàng và trực quan
 
-19. ![Numberpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-23-Number.png)[‎Numbers](https://apps.apple.com/vn/app/numbers/id409203825?l=vi&mt=12) : Trang tính Thay thế **Excel của Microsoft**
+19. ![BetterZippng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png) [BetterZip](https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing) (**5.03**): Công cụ giải nén mạnh mẽ và nhiều công cụ hữu ích
 
-20. ![Keynotepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-29-Keynote.png) [‎Keynote](https://apps.apple.com/vn/app/keynote/id409183694?l=vi&mt=12) : Bảng trình chiếu Thay thế **PowerPoint của Microsoft**
+20. ![Numberpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-23-Number.png)[‎Numbers](https://apps.apple.com/vn/app/numbers/id409203825?l=vi&mt=12) : Trang tính Thay thế **Excel của Microsoft**
 
-21. ![Pagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-07-17-Page.png) [‎Pages](https://apps.apple.com/vn/app/pages/id409201541?l=vi&mt=12) : Văn bản thay thế **Word của Microsoft**
+21. ![Keynotepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-04-29-Keynote.png) [‎Keynote](https://apps.apple.com/vn/app/keynote/id409183694?l=vi&mt=12) : Bảng trình chiếu Thay thế **PowerPoint của Microsoft**
 
-22. ![Lingvanex translatorpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-26-17-Lingvanex%20translator.png) [‎Lingvanex Translator](https://apps.apple.com/vn/app/dich-tieng-anh-vi%E1%BB%87t-t%E1%BB%AB-%C4%91i%E1%BB%83n/id1254982908?l=vi&mt=12) : Dịch thuật văn bản mọi ngôn ngữ
+22. ![Pagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-07-17-Page.png) [‎Pages](https://apps.apple.com/vn/app/pages/id409201541?l=vi&mt=12) : Văn bản thay thế **Word của Microsoft**
+
+23. ![Lingvanex translatorpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-26-17-Lingvanex%20translator.png) [‎Lingvanex Translator](https://apps.apple.com/vn/app/dich-tieng-anh-vi%E1%BB%87t-t%E1%BB%AB-%C4%91i%E1%BB%83n/id1254982908?l=vi&mt=12) : Dịch thuật văn bản mọi ngôn ngữ
 
 ## Developer
 
-1. ![Sublime Text 3png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png) [Sublime Text](https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing) (**4093**) : Code Editor nhanh gọn nhất
+1. ![Sublime Text 3png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png) [Sublime Text](https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing) (**4094**) : Code Editor nhanh gọn nhất
 2. ![NavicatDarkpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-40-Navicat-Dark.png) [Navicat Premium](https://drive.google.com/drive/folders/1Ufy94oPK5EOs23bQLWyyQU8Z8T-s7H0s?usp=sharing) (**15.0.22**) : Quản lí cơ sở dữ liệu Databse trực quan và tốt nhất
 3. ![MicrosoftVisualStudioCodepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-27-Microsoft_Visual_Studio_Code.png) [Visual Studio Code](https://code.visualstudio.com/) (**auto**) : Code Editor tốt nhất hiện nay
 4. ![MAMP Propng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-35-MAMP%20Pro.png) [MAMP PRO](https://drive.google.com/drive/folders/1JUlTIzebQUQPNnzAKcIBONW13h0mMyG6?usp=sharing) (**5.7**) : Quản lí server thay thế mạnh mẽ và tốt hơn cả **Xampp**
@@ -125,7 +129,7 @@
 
 2. ![swift publisherpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png) [Swift Publisher](https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing) (**5.5.6**) : Mẫu template về poster tốt nhất
 
-3. ![sketchpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png) [Sketch](https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing) (**70.1**) : Thiết kế UI/UX trực quan
+3. ![sketchpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png) [Sketch](https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing) (**70.2**) : Thiết kế UI/UX trực quan
 
 4. ![logoistpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-19-logoist.png) [Logoist](https://drive.google.com/drive/folders/1OjCDAFbtHlYVwmmhdighkW_XDZT7PNlp?usp=sharing) (**4.1**) : Thiết kế **icon** dễ dàng trực quan
 
@@ -141,7 +145,7 @@
 
 10. ![Templates for Keynote - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-15-15-Templates%20for%20Keynote%20-%20DesiGN.png) [Templates for Keynote DesiGN](https://drive.google.com/drive/folders/1C0SfKvWkKP2YAsZYyUPgl62SxaisDhDj?usp=sharing) (**6.0.9**) : Bộ Template cho trình chiếu **Keynote**
 
-11. ![DesiGN for Numbers - Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png) [DesiGN for Numbers](https://drive.google.com/drive/folders/1R_SGyynifh4KFdhhycv3DNXHpkmQLSH8?usp=sharing) (**5.0.4**) : Template cho trang tính **Number**
+11. ![DesiGN for Numbers - Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png) [DesiGN for Numbers](https://drive.google.com/drive/folders/1R_SGyynifh4KFdhhycv3DNXHpkmQLSH8?usp=sharing) (**5.0.5**) : Template cho trang tính **Number**
 
 12. ![Templates for Pages - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png)  [Templates for Pages DesiGN](https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing) (**6.0.5**) : Template cho **Pages** trên Mac
 
@@ -152,6 +156,8 @@
 15. ![smallimagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image](https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing) (**2.5**) : Tuỳ chỉnh kích thước các hình ảnh
 
 16. ![blocs.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png) [Blocs](https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing) (**4.0.0**) : Thiết kế web theo từng block và trực quan
+
+17. 
 
 ## Bonus
 
@@ -178,6 +184,10 @@
 ---
 
 ## Drop những ứng dụng và lý do:
+
+1.  ![spacedroppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard (Thay thế bằng Yoink tốt và tiện hơn)
+
+---
 
 ## Nếu nhu cầu của các bạn còn thiếu thì hãy vào trang sau đây tham khảo nha
 
