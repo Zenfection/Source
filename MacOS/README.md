@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-33-36-Big_Sur.png" title="" alt="Big_Sur.png" width="50">Mac OS
 
-1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-50-13-AirBuddy.png) (**2.1**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
+1. ![AirBuddy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-50-13-AirBuddy.png) AirBuddy (**2.1**) : Hỗ trợ animation và hỗ trợ quản lí các thiết bị Airpods 1,2,Pro....
 
 2. ![Alfred.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png) [Alfred](https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing) (**1195**) : Thay thế **Spotlight**, một công cụ tìm kiếm tốt hơn
 
