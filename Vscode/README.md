@@ -1,4 +1,4 @@
-# Cách setup Visual Studio Code cho System language (`C/C++/Java`)
+# Cách setup Visual Studio Code cho System language
 
 Như các bạn đã biết chúng ta có thể code bằng những IDE như [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) [Code::Blocks](http://www.codeblocks.org/) hay thậm chí là trùm cuối [Visual Studio](https://visualstudio.microsoft.com/), nhưng bạn liệu có thử code System language bằng Code Editor chưa, hãy thử nhé
 
