@@ -110,7 +110,7 @@ Có 2 tuỳ chọn, 1 là UI (*có giao diện*), 2 là JSON (*viết mã json*)
 
 Mình khuyên các bạn nên dùng UI xong quay qua dòng Json phát nữa
 
-Các bạn cũng có thể coi clip này để tham khảo [Customizing VsCode | Setting](https://www.youtube.com/watch?v=Bz8522M4MPo)
+Các bạn cũng có thể coi clip này để tham khảo [Customizing VsCode & Setting](https://www.youtube.com/watch?v=Bz8522M4MPo)
 
 Ngoài ra mình sẽ giới thiệu với các bạn về setting của mình
 
@@ -129,5 +129,3 @@ Ngoài ra mình sẽ giới thiệu với các bạn về setting của mình
 ## Chạy chương trình đầu tiên
 
 ## Debuging
-
-
