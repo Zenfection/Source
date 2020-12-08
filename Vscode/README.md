@@ -1,6 +1,6 @@
 # Cách setup Visual Studio Code cho System language
 
-Như các bạn đã biết chúng ta có thể code bằng những IDE như [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) [Code::Blocks](http://www.codeblocks.org/) hay thậm chí là trùm cuối [Visual Studio](https://visualstudio.microsoft.com/), nhưng bạn liệu có thử code System language bằng Code Editor chưa, hãy thử nhé
+Như các bạn đã biết chúng ta có thể code C/C++ bằng những [IDE](https://www.google.com/search?q=IDE) như: Quốc dân trường đại học [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/),  [Code::Blocks](http://www.codeblocks.org/) hay thậm chí là trùm cuối [Visual Studio](https://visualstudio.microsoft.com/) hay dân chơi đa hệ [Qt Creator](https://www.qt.io/download), cũng có thể là [CLion](https://www.jetbrains.com/clion/) của nhà **Jetbrain**  nhưng bạn liệu có thử code System language bằng **Code Editor** chưa, hãy thử nhé
 
 ## 1. Cài đặt là tải Visual Studio Code
 
