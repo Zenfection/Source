@@ -78,7 +78,7 @@ B1 : Mở app **MSYS2**
 
 2. Gõ `pacman -Ss gcc` => code chạy => bấm Y để tiếp tục => đợi code chạy xong
 
-3. Gõ `pacman -Ss gcc` | grep mingw64" => Kiểm tra gói minw64 đã cài đặt chưa
+3. Gõ *`pacman -Ss gcc | grep mingw64`* => Kiểm tra gói minw64 đã cài đặt chưa
 
 4. Gõ `pacman -S mingw-w64-x86_64-toolchain` => Bấm Enter để tiếp tục => đợi code chạy xong 
 
@@ -98,9 +98,7 @@ B2: Kiểm tra trong thư mục C có msy64 chưa, có rồi thì [path vào mô
 
 **Thế này thì thành công nhé!!!**
 
-- **CÁCH 2** : Cài thông qua em tiểu tam là ![dragon_logo1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-44-09-dragon_logo1.png)
-  
-   [tdm-gcc](https://jmeubank.github.io/tdm-gcc/)  khá là dễ nên sẽ không có guide đâu nha
+- **CÁCH 2** : Cài thông qua em tiểu tam là ![dragon_logo1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-44-09-dragon_logo1.png) [tdm-gcc](https://jmeubank.github.io/tdm-gcc/)  khá là dễ nên sẽ không có guide đâu nha
 
 ## Setting cho Vscode
 
