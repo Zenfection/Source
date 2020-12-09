@@ -12,35 +12,35 @@ Link Download : [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Extension chung:
 
-- Better Align : Giúp cho code bạn thẳng hành trông rất đẹp `(tuỳ thích)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-31-50-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) : Giúp cho code bạn thẳng hành trông rất đẹp `(tuỳ thích)`
 
-- Better Comments : Chú thích đa dạng dễ nhìn `(tuỳ thích)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-32-12-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) : Chú thích đa dạng dễ nhìn `(tuỳ thích)`
 
-- Bracket Pair Colorizer 2 : Thêm màu mè cho các dấu ngoặc dễ nhận dạng `(cần thiết)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-33-17-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) : Thêm màu mè cho các dấu ngoặc dễ nhận dạng `(cần thiết)`
 
-- indent-rainbow : để biết cái lệnh nào nằm ở indent nào `(cần thiết)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-33-35-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) : để biết cái lệnh nào nằm ở indent nào `(cần thiết)`
 
-- Output Colorizer : Thêm màu mè cho Output `(tuỳ thích)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-33-57-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) : Thêm màu mè cho Output `(tuỳ thích)`
 
-- Code Runner : Cần thiết nhất trong chạy code **system language** `(cần thiết)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-35-30-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="58"> [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) : Cần thiết nhất trong chạy code **system language** `(cần thiết)`
 
-- Path Intellisense : chèn đường dẫn tự động  `(cần thiết)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-35-47-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) : chèn đường dẫn tự động  `(cần thiết)`
 
-- Polacode-2020 : Chụp code đẹp `(cần thiết)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-36-11-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [Polacode-2020](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019) : Chụp code đẹp `(cần thiết)`
 
-- Prettier - Code formatter : Định dạng code tốt nhất dễ nhìn
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-36-00-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter : Định dạng code tốt nhất dễ nhìn
 
-- Terminal : Bật Terminal ngay vscode dễ dàng `(tuỳ thích)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-36-22-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal) : Bật Terminal ngay vscode dễ dàng `(tuỳ thích)` 
 
-- vscode-icon : Bộ icon cho vscode `(cần thiết)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-36-39-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">  [vscode-icon](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) : Bộ icon cho vscode `(cần thiết)`
 
 ### Dành cho C/C++
 
-C/C++ : Này dành cho C/C++ `(này thôi là đủ rồi)`
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-38-36-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) : Này dành cho C/C++ `(này thôi là đủ rồi)`
 
 ### Dành cho Java
 
-Java Extension Pack : Cả Pack của nó không ít đâu
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-38-48-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50"> [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) : Cả Pack của nó không ít đâu
 
 ## Font chữ :
 
