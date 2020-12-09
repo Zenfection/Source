@@ -4,7 +4,7 @@ Như các bạn đã biết chúng ta có thể code C/C++ bằng những [IDE](
 
 ## 1. Cài đặt là tải Visual Studio Code
 
-Link Download : [Visual Studio Code](https://code.visualstudio.com/)
+<img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-40-03-1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50"> Link Download : **[Visual Studio Code](https://code.visualstudio.com/)**
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/08-23-08-51-Screenshot%202020-12-08%20230840.png" title="" alt="Screenshot 2020-12-08 230840.png" width="853">
 
@@ -48,7 +48,7 @@ Như các bạn đã biết (*có thể chưa biết*) khi viết code chúng ta
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/08-23-26-47-FiraCodeFont.gif" title="" alt="FiraCodeFont.gif" width="241">
 
-Dĩ nhiên các bạn nghĩ ngay đến FiraCode như các **IT-Vlog** giới thiệu với các bạn nhưng không, ở **Window** chúng tôi không làm vậy, vì [Cascadia Code](https://github.com/microsoft/cascadia-code) mới là chân lý trên **Window**, sau khi bản tải file về thì hãy [cài đặt font](https://www.google.com/search?q=c%C3%A1ch+c%C3%A0i+%C4%91%E1%BA%B7t+font) 
+Dĩ nhiên các bạn nghĩ ngay đến [FiraCode](https://github.com/tonsky/FiraCode) như các **IT-Vlog** giới thiệu với các bạn nhưng không, ở **Window** chúng tôi không làm vậy, vì [Cascadia Code](https://github.com/microsoft/cascadia-code) mới là chân lý trên **Window**, sau khi bản tải file về thì hãy [cài đặt font](https://www.google.com/search?q=c%C3%A1ch+c%C3%A0i+%C4%91%E1%BA%B7t+font) 
 
 Nếu những Font này chưa đủ với bạn hãy vào [Dev Fonts](https://devfonts.gafi.dev/) và [Coding Fonts](https://coding-fonts.css-tricks.com/) để tham khảo font mình thích rồi cài đặt nhé, nhớ có hỗ trợ **Lingatures**
 
@@ -66,11 +66,11 @@ Bản thân máy tính không hề có thể đọc code C hay C++, Java của c
 
 ### Vậy đến cách cài đặt Compiler cho C/C++
 
-- **CÁCH 1 :** Cài đặt phiên bản GCC mới nhất (`Hơi khó tý`) : *[MSYS2](https://www.msys2.org/)* 
+-  **CÁCH 1 :** Cài đặt phiên bản GCC mới nhất (`Hơi khó tý`) : <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-43-03-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-12-09%20lu%CC%81c%2009.42.58.png" alt="Ảnh chụp Màn hình 2020-12-09 lúc 09.42.58.png" width="50"> *[MSYS2](https://www.msys2.org/)* 
 
-Guide đơn giản như sau:
+**Guide đơn giản như sau:**
 
-B1 : Mở app MSYS2
+B1 : Mở app **MSYS2**
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-00-16-25-Screenshot%202020-12-09%20001613.png" title="" alt="Screenshot 2020-12-09 001613.png" width="490">
 
@@ -98,7 +98,9 @@ B2: Kiểm tra trong thư mục C có msy64 chưa, có rồi thì [path vào mô
 
 **Thế này thì thành công nhé!!!**
 
-- **CÁCH 2** : Cài thông qua em tiểu tam là [tdm-gcc](https://jmeubank.github.io/tdm-gcc/)  khá là dễ nên sẽ không có guide đâu nha
+- **CÁCH 2** : Cài thông qua em tiểu tam là ![dragon_logo1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-44-09-dragon_logo1.png)
+  
+   [tdm-gcc](https://jmeubank.github.io/tdm-gcc/)  khá là dễ nên sẽ không có guide đâu nha
 
 ## Setting cho Vscode
 
