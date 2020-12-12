@@ -38,7 +38,7 @@
 
 ## Advanced User
 
-1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) [TrueCaller](https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u) (**15.36.7**) : Gọi, nhắn tin, chặn spam tự động... (**`Premium`**)
+1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) [TrueCaller](https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u) (**11.38.7**) : Gọi, nhắn tin, chặn spam tự động... (**`Premium`**)
 
 2. ![termux.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-41-termux.png) [Termux](https://play.google.com/store/apps/details?id=com.termux) (**auto**) : Tương tự Terminal trên Linux và MacOS (**`free`**)
 
