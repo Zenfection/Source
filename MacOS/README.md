@@ -40,7 +40,7 @@
 
 18. ![FacebookMessengerAltpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-24-30-Facebook_Messenger_Alt.png) [‎Messenger](https://apps.apple.com/vn/app/messenger/id1480068668?l=vi&mt=12) : Ứng dụng chat mà ai cũng biết
 
-19. ![soundsource.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png) [SoundSource](https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing) (**5.1.4**) : Quản lí và boost âm thanh hay hơn
+19. ![soundsource.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png) [SoundSource](https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing) (**5.2.0**) : Quản lí và boost âm thanh hay hơn
 
 20. ![Yoink.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-12-45-Yoink.png) [Yoink](https://drive.google.com/drive/folders/1gs8cl-vv_wzSrCJ5ezmwFjBIEz0QtR16?usp=sharing) (**3.5.11**) : Kéo thả file mạnh mẽ và tiện dụng
 
@@ -60,7 +60,7 @@
 
 ## Advanced User
 
-1. ![A Better Finder Renamerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-34-05-A%20Better%20Finder%20Renamer.png) [A Better Finder Renamer](https://drive.google.com/drive/folders/1chKH_0EgaW9DcXn4CFPbkEk7XEL7AUUD?usp=sharing) (**11.25**) : đổi tên hàng loạt
+1. ![A Better Finder Renamerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-34-05-A%20Better%20Finder%20Renamer.png) [A Better Finder Renamer](https://drive.google.com/drive/folders/1chKH_0EgaW9DcXn4CFPbkEk7XEL7AUUD?usp=sharing) (**11.26**) : đổi tên hàng loạt
 
 2. ![PDF Protector.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-06-PDF%20Protector.png) [PDF Protector](https://drive.google.com/drive/folders/1zMXgwyZyh605s6oiEJ5WxXNr7ejUjBK1?usp=sharing) (**1.5.1**) : Bẻ khoá và tạo khoá file **PDF** (*nó dò pass thôi*)
 
