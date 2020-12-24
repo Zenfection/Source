@@ -8,11 +8,11 @@ Như các bạn đã biết chúng ta có thể code C/C++ bằng những [IDE](
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/08-23-08-51-Screenshot%202020-12-08%20230840.png" title="" alt="Screenshot 2020-12-08 230840.png" width="853">
 
-Đây là giao diện chính của Vscode, giờ bắt đầu tiên chính là cài những extension dành cho code, mình sẽ liệt kê một số extension sau đây:
+Đây là giao diện chính của Vscode, giờ bắt đầu chính là cài những extension dành cho code, mình sẽ liệt kê một số extension sau đây:
 
 ### Extension chung:
 
-- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-31-50-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) : Giúp cho code bạn thẳng hành trông rất đẹp `(tuỳ thích)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-31-50-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) : Giúp cho code bạn thẳng hàng theo indent trông rất đẹp `(tuỳ thích)`
 
 - <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-32-12-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) : Chú thích đa dạng dễ nhìn `(tuỳ thích)`
 
@@ -174,7 +174,5 @@ Ngoài ra khi bạn gõ sai thì nó sẽ có một dòng màu đỏ, chỉ cầ
 Và sau đây là run code chỉ với 1 click chuột : 
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-38-33-run_code_vscode.gif" title="" alt="run_code_vscode.gif" width="753">
-
-
 
 ## Debuging
