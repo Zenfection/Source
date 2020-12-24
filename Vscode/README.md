@@ -66,7 +66,7 @@ Bản thân máy tính không hề có thể đọc code C hay C++, Java của c
 
 ### Vậy đến cách cài đặt Compiler cho C/C++
 
--  **CÁCH 1 :** Cài đặt phiên bản GCC mới nhất (`Hơi khó tý`) : <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-43-03-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-12-09%20lu%CC%81c%2009.42.58.png" alt="Ảnh chụp Màn hình 2020-12-09 lúc 09.42.58.png" width="50"> *[MSYS2](https://www.msys2.org/)* 
+- **CÁCH 1 :** Cài đặt phiên bản GCC mới nhất (`Hơi khó tý`) : <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-43-03-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-12-09%20lu%CC%81c%2009.42.58.png" alt="Ảnh chụp Màn hình 2020-12-09 lúc 09.42.58.png" width="50"> *[MSYS2](https://www.msys2.org/)* 
 
 **Guide đơn giản như sau:**
 
@@ -94,7 +94,7 @@ B1 : Mở app **MSYS2**
 
 B2: Kiểm tra trong thư mục C có msy64 chưa, có rồi thì [path vào môi trường window](https://www.codehub.com.vn/Cai-dat-bien-moi-truong-tren-Windows)
 
-![Screenshot 2020-12-08 235722.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/08-23-57-34-Screenshot%202020-12-08%20235722.png)
+![gcc-gif.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/24-23-58-34-gcc-gif.gif)
 
 **Thế này thì thành công nhé!!!**
 
@@ -104,7 +104,7 @@ B2: Kiểm tra trong thư mục C có msy64 chưa, có rồi thì [path vào mô
 
 Vào **Vscode** gõ `CTRL+SHIFT+P` sẽ hiện ra bảng **Command Palette** và gõ cho mình là setting, bạn sẽ thấy 
 
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-00-02-27-Screenshot%202020-12-09%20000215.png" title="" alt="Screenshot 2020-12-09 000215.png" width="507">
+![setting-vscode-gif.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-02-39-setting-vscode-gif.gif)
 
 Có 2 tuỳ chọn, 1 là UI (*có giao diện*), 2 là JSON (*viết mã json*)
 
@@ -127,5 +127,19 @@ Ngoài ra mình sẽ giới thiệu với các bạn về setting của mình
 6. `"editor.cursorSmoothCaretAnimation": true` : Bật animation cho cử chỉ con trỏ (*hơi phê*)
 
 ## Chạy chương trình đầu tiên
+
+Để chạy chương trình đầu tiên, chúng ta nên để file code bên trong 1 folder và hãy  trỏ folder đó vào Vscode, có 3 cách để làm điều đó, ở ví dụ tôi sẽ tạo 1 thư mục `Code C` sau đây
+
+![folder_code_c.PNG](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-06-15-folder_code_c.PNG)
+
+1. Dùng lệnh `code.` trong **cmd** ngay tại thư mục hiện thời
+   
+   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-12-33-1_folder_vscode.gif" title="" alt="1_folder_vscode.gif" width="741">
+
+2. Nắm Folder quăng vào Vscode
+   
+   
+   
+   
 
 ## Debuging
