@@ -74,23 +74,22 @@ B1 : Mở app **MSYS2**
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-00-16-25-Screenshot%202020-12-09%20001613.png" title="" alt="Screenshot 2020-12-09 001613.png" width="490">
 
-1. Gõ `pacman -Syu` => code chạy => bấm Y để tiếp tục => đợi code chạy xong (`cài gói pacman`)
+Hãy gõ lần lược các dùng code sau đây, và cứ nếu "Y" nếu được yêu cầu
 
-2. Gõ `pacman -Ss gcc` => code chạy => bấm Y để tiếp tục => đợi code chạy xong
-
-3. Gõ *`pacman -Ss gcc | grep mingw64`* => Kiểm tra gói minw64 đã cài đặt chưa
-
-4. Gõ `pacman -S mingw-w64-x86_64-toolchain` => Bấm Enter để tiếp tục => đợi code chạy xong 
+```batch
+pacman -Syu
+pacman -Ss gcc
+pacman -Ss gcc | grep mingw6 
+pacman -S mingw-w64-x86_64-toolchain
+```
 
 **Lựa chọn thêm:**
 
-- Nếu muốn dùng thêm Vim thì gõ "pacman -S vim"
+- Nếu muốn dùng thêm Vim thì gõ `pacman -S vim`
 
-- Nếu muốn dùng thêm Nano thì gõ "pacman -S vim"
+- Nếu muốn chuyển compiler từ gcc sang clang gõ `pacman -S mingw-w64-x86_64-clang`
 
-- Nếu muốn chuyển compiler từ gcc sang clang gõ "pacman -S mingw-w64-x86_64-clang"
-
-=> Gõ "exit" để thoát
+=> Gõ `exit` để thoát
 
 B2: Kiểm tra trong thư mục C có msy64 chưa, có rồi thì [path vào môi trường window](https://www.codehub.com.vn/Cai-dat-bien-moi-truong-tren-Windows)
 
@@ -128,7 +127,9 @@ Ngoài ra mình sẽ giới thiệu với các bạn về setting của mình
 
 ## Chạy chương trình đầu tiên
 
-Để chạy chương trình đầu tiên, chúng ta nên để file code bên trong 1 folder và hãy  trỏ folder đó vào Vscode, có 3 cách để làm điều đó, ở ví dụ tôi sẽ tạo 1 thư mục `Code C` sau đây
+### 1. Tạo folder trỏ vào Vscode
+
+Để chạy chương trình đầu tiên, chúng ta nên để file code bên trong 1 folder và hãy  trỏ folder đó vào Vscode, có 2 cách để làm điều đó nhanh nhất, ở ví dụ tôi sẽ tạo 1 thư mục `Code C` sau đây
 
 ![folder_code_c.PNG](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-06-15-folder_code_c.PNG)
 
@@ -136,10 +137,44 @@ Ngoài ra mình sẽ giới thiệu với các bạn về setting của mình
    
    <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-12-33-1_folder_vscode.gif" title="" alt="1_folder_vscode.gif" width="741">
 
-2. Nắm Folder quăng vào Vscode
+2. Nắm **Folder** quăng vào **Vscode**
    
-   
-   
-   
+   <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-15-07-2_vscode_folder.gif" alt="2_vscode_folder.gif" width="654">
+
+**HÃY NHỚ BẠN NÊN CODE TRONG MỘT FOLDER ĐỂ CÓ THỂ DEBUG NHÉ!!!**
+
+### 2. Tạo file cần code
+
+Tiếp theo các bạn có thể tạo file với đuôi tương ứng với code bạn muốn code:
+
+> Code C                ==>  demo.c
+> 
+> Code C++            ==> demo.cpp
+> 
+> Code Python      ==> demo.py
+> 
+> Code Shell bat    ==> demo.bat
+
+Và mình cũng đã tạo 1 file code.c để Code ngôn ngữ C dưới đây, và gõ nhanh form mẫu
+
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-26-42-3_vscode.gif" title="" alt="3_vscode.gif" width="768">
+
+Để hiện nhắc code các bạn có thể dùng tổ hợp phím **`Ctrl + I`** hoặc **`CTRL+Space`**
+
+Code rất nhanh đúng không nào !!!
+
+Ngoài ra khi bạn gõ sai thì nó sẽ có một dòng màu đỏ, chỉ cần bạn rê chuột vào là biết sai chỗ nào nha, rất tiện đúng không nào !!!
+
+### 3. Run code chỉ với một click
+
+Để có thể chạy code ở terminal hỗ trợ **input**, thì ta phải bật terminal trong extension `Code Runner`, hãy làm như sau nhé :
+
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-31-26-code_runner_vscode.gif" title="" alt="code_runner_vscode.gif" width="829">
+
+Và sau đây là run code chỉ với 1 click chuột : 
+
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-38-33-run_code_vscode.gif" title="" alt="run_code_vscode.gif" width="753">
+
+
 
 ## Debuging
