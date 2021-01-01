@@ -8,11 +8,11 @@ Như các bạn đã biết chúng ta có thể code C/C++ bằng những [IDE](
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/08-23-08-51-Screenshot%202020-12-08%20230840.png" title="" alt="Screenshot 2020-12-08 230840.png" width="853">
 
-Đây là giao diện chính của Vscode, giờ bắt đầu tiên chính là cài những extension dành cho code, mình sẽ liệt kê một số extension sau đây:
+Đây là giao diện chính của Vscode, giờ bắt đầu chính là cài những extension dành cho code, mình sẽ liệt kê một số extension sau đây:
 
 ### Extension chung:
 
-- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-31-50-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) : Giúp cho code bạn thẳng hành trông rất đẹp `(tuỳ thích)`
+- <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-31-50-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) : Giúp cho code bạn thẳng hàng theo indent trông rất đẹp `(tuỳ thích)`
 
 - <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-32-12-Microsoft.VisualStudio.Services.Icons.png" title="" alt="Microsoft.VisualStudio.Services.Icons.png" width="50">[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) : Chú thích đa dạng dễ nhìn `(tuỳ thích)`
 
@@ -66,7 +66,7 @@ Bản thân máy tính không hề có thể đọc code C hay C++, Java của c
 
 ### Vậy đến cách cài đặt Compiler cho C/C++
 
--  **CÁCH 1 :** Cài đặt phiên bản GCC mới nhất (`Hơi khó tý`) : <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-43-03-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-12-09%20lu%CC%81c%2009.42.58.png" alt="Ảnh chụp Màn hình 2020-12-09 lúc 09.42.58.png" width="50"> *[MSYS2](https://www.msys2.org/)* 
+- **CÁCH 1 :** Cài đặt phiên bản GCC mới nhất (`Hơi khó tý`) : <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-43-03-A%CC%89nh%20chu%CC%A3p%20Ma%CC%80n%20hi%CC%80nh%202020-12-09%20lu%CC%81c%2009.42.58.png" alt="Ảnh chụp Màn hình 2020-12-09 lúc 09.42.58.png" width="50"> *[MSYS2](https://www.msys2.org/)* 
 
 **Guide đơn giản như sau:**
 
@@ -74,27 +74,26 @@ B1 : Mở app **MSYS2**
 
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-00-16-25-Screenshot%202020-12-09%20001613.png" title="" alt="Screenshot 2020-12-09 001613.png" width="490">
 
-1. Gõ `pacman -Syu` => code chạy => bấm Y để tiếp tục => đợi code chạy xong (`cài gói pacman`)
+Hãy gõ lần lược các dùng code sau đây, và cứ nếu "Y" nếu được yêu cầu
 
-2. Gõ `pacman -Ss gcc` => code chạy => bấm Y để tiếp tục => đợi code chạy xong
-
-3. Gõ *`pacman -Ss gcc | grep mingw64`* => Kiểm tra gói minw64 đã cài đặt chưa
-
-4. Gõ `pacman -S mingw-w64-x86_64-toolchain` => Bấm Enter để tiếp tục => đợi code chạy xong 
+```batch
+pacman -Syu
+pacman -Ss gcc
+pacman -Ss gcc | grep mingw6 
+pacman -S mingw-w64-x86_64-toolchain
+```
 
 **Lựa chọn thêm:**
 
-- Nếu muốn dùng thêm Vim thì gõ "pacman -S vim"
+- Nếu muốn dùng thêm Vim thì gõ `pacman -S vim`
 
-- Nếu muốn dùng thêm Nano thì gõ "pacman -S vim"
+- Nếu muốn chuyển compiler từ gcc sang clang gõ `pacman -S mingw-w64-x86_64-clang`
 
-- Nếu muốn chuyển compiler từ gcc sang clang gõ "pacman -S mingw-w64-x86_64-clang"
-
-=> Gõ "exit" để thoát
+=> Gõ `exit` để thoát
 
 B2: Kiểm tra trong thư mục C có msy64 chưa, có rồi thì [path vào môi trường window](https://www.codehub.com.vn/Cai-dat-bien-moi-truong-tren-Windows)
 
-![Screenshot 2020-12-08 235722.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/08-23-57-34-Screenshot%202020-12-08%20235722.png)
+![gcc-gif.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/24-23-58-34-gcc-gif.gif)
 
 **Thế này thì thành công nhé!!!**
 
@@ -104,7 +103,7 @@ B2: Kiểm tra trong thư mục C có msy64 chưa, có rồi thì [path vào mô
 
 Vào **Vscode** gõ `CTRL+SHIFT+P` sẽ hiện ra bảng **Command Palette** và gõ cho mình là setting, bạn sẽ thấy 
 
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-00-02-27-Screenshot%202020-12-09%20000215.png" title="" alt="Screenshot 2020-12-09 000215.png" width="507">
+![setting-vscode-gif.gif](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-02-39-setting-vscode-gif.gif)
 
 Có 2 tuỳ chọn, 1 là UI (*có giao diện*), 2 là JSON (*viết mã json*)
 
@@ -127,5 +126,53 @@ Ngoài ra mình sẽ giới thiệu với các bạn về setting của mình
 6. `"editor.cursorSmoothCaretAnimation": true` : Bật animation cho cử chỉ con trỏ (*hơi phê*)
 
 ## Chạy chương trình đầu tiên
+
+### 1. Tạo folder trỏ vào Vscode
+
+Để chạy chương trình đầu tiên, chúng ta nên để file code bên trong 1 folder và hãy  trỏ folder đó vào Vscode, có 2 cách để làm điều đó nhanh nhất, ở ví dụ tôi sẽ tạo 1 thư mục `Code C` sau đây
+
+![folder_code_c.PNG](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-06-15-folder_code_c.PNG)
+
+1. Dùng lệnh `code.` trong **cmd** ngay tại thư mục hiện thời
+   
+   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-12-33-1_folder_vscode.gif" title="" alt="1_folder_vscode.gif" width="741">
+
+2. Nắm **Folder** quăng vào **Vscode**
+   
+   <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-15-07-2_vscode_folder.gif" alt="2_vscode_folder.gif" width="654">
+
+**HÃY NHỚ BẠN NÊN CODE TRONG MỘT FOLDER ĐỂ CÓ THỂ DEBUG NHÉ!!!**
+
+### 2. Tạo file cần code
+
+Tiếp theo các bạn có thể tạo file với đuôi tương ứng với code bạn muốn code:
+
+> Code C                ==>  demo.c
+> 
+> Code C++            ==> demo.cpp
+> 
+> Code Python      ==> demo.py
+> 
+> Code Shell bat    ==> demo.bat
+
+Và mình cũng đã tạo 1 file code.c để Code ngôn ngữ C dưới đây, và gõ nhanh form mẫu
+
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-26-42-3_vscode.gif" title="" alt="3_vscode.gif" width="768">
+
+Để hiện nhắc code các bạn có thể dùng tổ hợp phím **`Ctrl + I`** hoặc **`CTRL+Space`**
+
+Code rất nhanh đúng không nào !!!
+
+Ngoài ra khi bạn gõ sai thì nó sẽ có một dòng màu đỏ, chỉ cần bạn rê chuột vào là biết sai chỗ nào nha, rất tiện đúng không nào !!!
+
+### 3. Run code chỉ với một click
+
+Để có thể chạy code ở terminal hỗ trợ **input**, thì ta phải bật terminal trong extension `Code Runner`, hãy làm như sau nhé :
+
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-31-26-code_runner_vscode.gif" title="" alt="code_runner_vscode.gif" width="829">
+
+Và sau đây là run code chỉ với 1 click chuột : 
+
+<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/25-00-38-33-run_code_vscode.gif" title="" alt="run_code_vscode.gif" width="753">
 
 ## Debuging
