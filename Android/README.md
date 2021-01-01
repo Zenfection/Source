@@ -10,7 +10,7 @@
 
 3. ![AdGuard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png) [Adguard Pro](https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe) (**3.6.1**) : Chặn quảng cáo mọi app trên Android (**`Premium`**)
 
-4. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) [WPS Office](https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d) (**13.1**) : Bộ Office tốt nhất cho Android (**`Premium`**)
+4. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) [WPS Office](https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d) (**13.2**) : Bộ Office tốt nhất cho Android (**`Premium`**)
 
 5. ![winrar_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-25-15-winrar_logo.png) [Rar](https://app.box.com/s/a3rjcud4vrbgt5h4qgx3sqpqkmdp7vlr) (**6.0.0**) : Giải nén mọi thể loại file nhanh gọn lẹ (**`Premium`**)
 
@@ -20,11 +20,11 @@
 
 8. ![nhacuatui.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png) [NhacCuaTui](https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg) (**7.0.1**) : Nghe nhạc FLAC Việt nam rất tốt (**`VIP`**)
 
-9. ![zingmp3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png) [ZingMp3](https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael) (**20.12.01**) : Phần mềm nghe nhạc quá nổi tiếng ở Việt Nam (**`VIP`**)
+9. ![zingmp3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png) [ZingMp3](https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael) (**20.12.02**) : Phần mềm nghe nhạc quá nổi tiếng ở Việt Nam (**`VIP`**)
 
 10. ![Spotify_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-36-57-Spotify_Dark.png) [Spotify](https://app.box.com/s/o2acn7u6ubmnnd1d0gp8nyk4d1wne6cq) (**8.5.89.901**) : Nghe nhạc siêu hay và AI chọn nhạc tốt nhất (**`Premium`**)
 
-11. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) [Speedtest](https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l) (**4.5.26**) : Test tốc độ mạng tốt nhất (**`Premium`**)
+11. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) [Speedtest](https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l) (**4.5.27**) : Test tốc độ mạng tốt nhất (**`Premium`**)
 
 ## Advanced User
 
@@ -38,7 +38,7 @@
 
 5. ![es file exployer.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-54-es%20file%20exployer.png) [ES File Exployer](https://app.box.com/s/htut3pgwuvp4lunuimqm8pmysrfz4br4) (**4.2.4.0.1**) : Quản lí file mạnh mẽ, nhiều tính năng khác (**`Premium`**)
 
-6. ![TFlat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-18-34-TFlat.png) [Từ điển TFlat](https://app.box.com/s/5i1u6j6ubp0hjiwv9vymgeurlfuyt849) (**7.7.2**) : Từ điển **Anh-Việt** tốt nhất (**`Premium`**)
+6. ![TFlat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-18-34-TFlat.png) [Từ điển TFlat](https://app.box.com/s/5i1u6j6ubp0hjiwv9vymgeurlfuyt849) (**7.7.3**) : Từ điển **Anh-Việt** tốt nhất (**`Premium`**)
 
 7. ![today weather.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-22-today%20weather.png) [Today Weather](https://app.box.com/s/sqbkoq27aoq0b59f6o5hsv824jivl2fx) (**1.5.0-201120**) : Dự báo thời tiết tốt nhất với nhiều server (**`Premium`**) 
 
@@ -64,7 +64,7 @@
 
 ## Learning Code
 
-1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl) (**3.13.1**) : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất (**`Premium`**)
+1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl) (**3.14**) : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất (**`Premium`**)
 
 2. ![programing hub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png) [Programing Hub](https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23) (**5.1.34**) : Học IT với nhiều mảng nhất trên Android (**`Premium`**)
 
@@ -74,11 +74,11 @@
 
 ## Learning English
 
-1. ![bussu.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-26-bussu.png) [Busuu Premium](https://app.box.com/s/mg3y1ouwakrzlzxere9lz7xcx77nc2vy) (**19.14.4.511**) : Học ngoại ngữ với giáo trình hay nhất (**`Premium`**)
+1. ![bussu.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-26-bussu.png) [Busuu Premium](https://app.box.com/s/mg3y1ouwakrzlzxere9lz7xcx77nc2vy) (**19.14.4.512**) : Học ngoại ngữ với giáo trình hay nhất (**`Premium`**)
 
 2. ![elsa english.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-32-elsa%20english.png) [Elsa Speak](https://app.box.com/s/kx8zfknqkd4cfvx2yze01o91mv7r11hi) (**5.8.1**) : Học và luyện tập cách phát âm tiếng Anh (**`Premium`**)
 
-3. ![aba english.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-35-aba%20english.png) [ABA English](https://app.box.com/s/yikl9vehjb6wyl6j4mtl587dau02g5hg) (**5.5.5**) : Học tiếng anh qua xem video, đọc báo và tài liệu (**`Premium`**)
+3. ![aba english.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-35-aba%20english.png) [ABA English](https://app.box.com/s/yikl9vehjb6wyl6j4mtl587dau02g5hg) (**5.5.7**) : Học tiếng anh qua xem video, đọc báo và tài liệu (**`Premium`**)
 
 4. ![lycris tranning.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-44-29-lycris%20tranning.png) [Lyrics Traning](https://app.box.com/s/ujjll0ut9kg4byzh880usf19c6if6qhc) (**1.6.7**) : Học tiếng anh qua âm nhạc tốt nhất (**`Premium`**)
 
@@ -90,7 +90,7 @@
 
 3. ![logo marker.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-53-logo%20marker.png) [Logo Maker](https://app.box.com/s/kpos7dp54qgjy4mfyq3jgpya1ndcldt0) (**33.5**) : Kho Template thiết kế Logo  (**`Premium`**)
 
-4. ![meme gernerator.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-48-meme%20gernerator.png) [Meme Generator](https://app.box.com/s/nsvy75ryn73bguopwk4ibfrtlyppyfl1) (**4.5951**) : Tạo meme cho bản thân từ kho meme đồ sộ (**`Premium`**)
+4. ![meme gernerator.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-48-meme%20gernerator.png) [Meme Generator](https://app.box.com/s/nsvy75ryn73bguopwk4ibfrtlyppyfl1) (**4.569**) : Tạo meme cho bản thân từ kho meme đồ sộ (**`Premium`**)
 
 5. ![canva.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-41-canva.png) [Canva](https://app.box.com/s/wbq307fydmacm62h3tcspiuqcc5ypb7z) (**2.87.0**) : Kho Cộng động thiết kế lớn nhất thế giới (**`Premium`**)
 
@@ -104,7 +104,7 @@
 
 10. ![visiting card.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png) [Visiting Card Maker](https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url) (**23.0**) : Kho Template tạo card visit (**`Premium`**)
 
-11. ![picsart.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-47-32-picsart.png) [PisArt](https://app.box.com/s/6krums79lszgazbr4gucubjyl1zl08te) (**16.2.0**) : Chỉnh ảnh tốt nhất hiện nay (**`Premium`**)
+11. ![picsart.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-47-32-picsart.png) [PisArt](https://app.box.com/s/6krums79lszgazbr4gucubjyl1zl08te) (**16.2.5**) : Chỉnh ảnh tốt nhất hiện nay (**`Premium`**)
 
 ## Nếu các bạn cảm thấy còn thiếu đừng lo, hãy tới những nguồn sau đây để tìm:
 
