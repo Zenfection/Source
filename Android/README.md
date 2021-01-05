@@ -57,15 +57,17 @@
     </details>
 </div>
 
-## Learning Code
+<div>
+    <details>
+    <summary id="menu">Learning Code</summary>
+    <ol>
+        <li><a href="https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png" alt="error_image"> Mimo</a><strong> (3.14)</strong> : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất</li>
+        <li><a href="https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png" alt="error_image"> Programing Hub</a><strong> (5.1.34)</strong> : Học IT với nhiều mảng nhất trên Android</li>
+        <li><a href="https://app.box.com/s/ky93ltv5t5rffyu9bclu1pbphsifxz1e"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png" alt="error_image"> Enki</a><strong> (1.14.5)</strong> : Học IT mã nguồn mở tốt nhất</li>
+        <li><a href="https://app.box.com/s/4h62rtkzprpg0jolf7mdx4w3atdxjli5"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-26-algorithrm.png" alt="error_image"> Algorithrm</a><strong> (1.2.8)</strong> : Mô hình để học cấu trúc dữ liệu và giải thuật</li>
+    </details>
+</div>
 
-1. ![mimo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-16-mimo.png) [Mimo](https://app.box.com/s/zq0ov95rhg8mbzkugrafswpve63pzodl) (**3.14**) : Học code với nhiều bài thi và giáo trình **Web/Python** tốt nhất (**`Premium`**)
-
-2. ![programing hub.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png) [Programing Hub](https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23) (**5.1.34**) : Học IT với nhiều mảng nhất trên Android (**`Premium`**)
-
-3. ![enki.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png) [Enki](https://app.box.com/s/ky93ltv5t5rffyu9bclu1pbphsifxz1e) (**1.14.5**) : Học IT mã nguồn mở tốt nhất (**`Premium`**)
-
-4. ![algorithrm.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-26-algorithrm.png) [Algorithrm](https://app.box.com/s/4h62rtkzprpg0jolf7mdx4w3atdxjli5) (**1.2.8**) : Mô hình để học cấu trúc dữ liệu và giải thuật (**`Mod`**)
 
 ## Learning English
 
