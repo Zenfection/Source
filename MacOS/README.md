@@ -138,7 +138,7 @@
             </li>  
         </ol>
     </details>
-<div>
+</div>
 
 ## Advanced User
 
