@@ -89,30 +89,16 @@
         <li><a href="https://app.box.com/s/n87xmhjyf7dws7vk6q9ny24vmmi4exl6"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-56-poster%20marker.png" alt="error_image"> Poster Maker</a><strong> (3.7)</strong> : Kho Template thiết kế Poster</li>
         <li><a href="https://app.box.com/s/kpos7dp54qgjy4mfyq3jgpya1ndcldt0"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-53-logo%20marker.png" alt="error_image"> Logo Maker</a><strong> (33.5)</strong> : Kho Template thiết kế Logo</li>
         <li><a href="https://app.box.com/s/nsvy75ryn73bguopwk4ibfrtlyppyfl1"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-48-meme%20gernerator.png" alt="error_image"> Meme Generator</a><strong> (4.569)</strong> : Tạo meme cho bản thân từ kho meme đồ sộ</li>
-        <li><a href=""><img src="" alt="error_image"> Canva</a><strong> ()</strong> : </li>
-        <li><a href=""><img src="" alt="error_image"> Label Maker</a><strong> ()</strong> : </li>
-        <li><a href=""><img src="" alt="error_image"> Logo Designer</a><strong> ()</strong> : </li>
-        <li><a href=""><img src="" alt="error_image"> Resume Builder</a><strong> ()</strong> : </li>
-        <li><a href=""><img src="" alt="error_image"> Certificate Maker</a><strong> ()</strong> : </li>
-        <li><a href=""><img src="" alt="error_image"> </a><strong> ()</strong> : </li>
-        <li><a href=""><img src="" alt="error_image"> </a><strong> ()</strong> : </li>
+        <li><a href="https://app.box.com/s/wbq307fydmacm62h3tcspiuqcc5ypb7z"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-41-canva.png" alt="error_image"> Canva</a><strong> (2.87.0)</strong> : Kho Cộng động thiết kế lớn nhất thế giới</li>
+        <li><a href="https://app.box.com/s/dhs9t7zm9df90a1tfryic539293sa4oj"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-05-label%20marker.png" alt="error_image"> Label Maker</a><strong> (5.5)</strong> : Kho Template thiết kế nhãn</li>
+        <li><a href="https://app.box.com/s/aff664r0w0zrxsblu5buraa4xssy2a92"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-10-logo%20designer.png" alt="error_image"> Logo Designer</a><strong> (1.22)</strong> : Thiết kế Logo dễ dàng trực quan</li>
+        <li><a href="https://app.box.com/s/wg3r5bzx1rux9uxo9p7q7posyb3ibc5h"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-28-resume%20builder.png" alt="error_image"> Resume Builder</a><strong> (1.2)</strong> : Template thiết kế CV, hồ sơ việc làm</li>
+        <li><a href="https://app.box.com/s/oq9nyh6uo8qtpgyg5wdv0elk7n9djxlv"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-23-certificate%20marker.png" alt="error_image"> Certificate Maker</a><strong> (4.9.4)</strong> : Kho Template thiết kế Chứng Chỉ</li>
+        <li><a href="https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png" alt="error_image"> Visiting Card Maker</a><strong> (23.0)</strong> : Kho Template tạo card visit</li>
+        <li><a href="https://app.box.com/s/6krums79lszgazbr4gucubjyl1zl08te"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-47-32-picsart.png" alt="error_image"> PisArt</a><strong> (16.2.5)</strong> : Chỉnh ảnh tốt nhất hiện nay</li>
     </ol>
     </details>
 </div>
-
-5. ![canva.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-31-41-canva.png) [Canva](https://app.box.com/s/wbq307fydmacm62h3tcspiuqcc5ypb7z) (**2.87.0**) : Kho Cộng động thiết kế lớn nhất thế giới (**`Premium`**)
-
-6. ![label marker.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-05-label%20marker.png) [Label Maker](https://app.box.com/s/dhs9t7zm9df90a1tfryic539293sa4oj) (**5.5**) : Kho Template thiết kế nhãn (**`Premium`**)
-
-7. ![logo designer.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-10-logo%20designer.png) [Logo Designer](https://app.box.com/s/aff664r0w0zrxsblu5buraa4xssy2a92) (**1.22**) : Thiết kế Logo dễ dàng trực quan (**`Premium`**)
-
-8. ![resume builder.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-28-resume%20builder.png) [Resume Builder](https://app.box.com/s/wg3r5bzx1rux9uxo9p7q7posyb3ibc5h) (**1.2**) : Template thiết kế CV, hồ sơ việc làm (**`Premium`**)
-
-9. ![certificate marker.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-23-certificate%20marker.png) [Certificate Maker](https://app.box.com/s/oq9nyh6uo8qtpgyg5wdv0elk7n9djxlv) (**4.9.4**) : Kho Template thiết kế Chứng Chỉ (**`Premium`**)
-
-10. ![visiting card.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png) [Visiting Card Maker](https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url) (**23.0**) : Kho Template tạo card visit (**`Premium`**)
-
-11. ![picsart.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-47-32-picsart.png) [PisArt](https://app.box.com/s/6krums79lszgazbr4gucubjyl1zl08te) (**16.2.5**) : Chỉnh ảnh tốt nhất hiện nay (**`Premium`**)
 
 ## Nếu các bạn cảm thấy còn thiếu đừng lo, hãy tới những nguồn sau đây để tìm:
 
