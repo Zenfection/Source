@@ -16,7 +16,12 @@
     document.getElementsByTagName('head')[0].appendChild(script);
 })();
 </script>
-<script>
+<script>(function () {
+    console.log("Đã chạy file js")
+    var script = document.querySelector("script[rel*='js']") || document.createElement('script');
+    script.src = 'https://zenfection.github.io/Source/Android/main.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
 </script>
 </div>
 
