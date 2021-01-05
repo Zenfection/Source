@@ -15,6 +15,12 @@
 </script>
 <script>(function () {
     var script = document.querySelector("script[rel*='js']") || document.createElement('script');
+    script.src = 'https://zenfection.github.io/Source/MacOS/macos.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+<script>(function () {
+    var script = document.querySelector("script[rel*='js']") || document.createElement('script');
     script.src = 'https://zenfection.github.io/Source/main.js';
     document.getElementsByTagName('head')[0].appendChild(script);
 })();

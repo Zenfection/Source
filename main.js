@@ -11,11 +11,3 @@
     script.src = 'https://code.jquery.com/jquery-3.5.1.js';
     document.getElementsByTagName('head')[0].appendChild(script);
 })();
-
-(function () {
-    var x = document.getElementsByClassName("project-name");
-    var i;
-    for (i = 0; i < x.length; i++) {
-        x[i].innerHTML = "MacOS";
-    }
-})();
