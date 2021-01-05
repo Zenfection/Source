@@ -12,7 +12,7 @@
 <script>(function () {
     console.log("Đã chạy file js")
     var script = document.querySelector("script[rel*='js']") || document.createElement('script');
-    script.src = 'https://raw.githubusercontent.com/Zenfection/Source/master/Android/main.js';
+    script.src = 'https://code.jquery.com/jquery-3.5.1.js';
     document.getElementsByTagName('head')[0].appendChild(script);
 })();
 </script>
