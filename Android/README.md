@@ -65,8 +65,8 @@
         <li><a href="https://app.box.com/s/biynuhyvvoedw50r0d6x7ok5etvmkd23"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-21-programing%20hub.png" alt="error_image"> Programing Hub</a><strong> (5.1.34)</strong> : Học IT với nhiều mảng nhất trên Android</li>
         <li><a href="https://app.box.com/s/ky93ltv5t5rffyu9bclu1pbphsifxz1e"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-24-enki.png" alt="error_image"> Enki</a><strong> (1.14.5)</strong> : Học IT mã nguồn mở tốt nhất</li>
         <li><a href="https://app.box.com/s/4h62rtkzprpg0jolf7mdx4w3atdxjli5"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-43-26-algorithrm.png" alt="error_image"> Algorithrm</a><strong> (1.2.8)</strong> : Mô hình để học cấu trúc dữ liệu và giải thuật</li>
-    </details>
-    </ol>
+    </ol>    
+</details>
 </div>
 
 <div>
@@ -77,8 +77,8 @@
         <li><a href="https://app.box.com/s/kx8zfknqkd4cfvx2yze01o91mv7r11hi"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-32-elsa%20english.png" alt="error_image"> Elsa Speak</a><strong> (5.8.1)</strong> : Học và luyện tập cách phát âm tiếng Anh</li>
         <li><a href="https://app.box.com/s/yikl9vehjb6wyl6j4mtl587dau02g5hg"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-40-35-aba%20english.png" alt="error_image"> ABA English</a><strong> (5.5.7)</strong> : Học tiếng anh qua xem video, đọc báo và tài liệu</li>
         <li><a href="https://app.box.com/s/ujjll0ut9kg4byzh880usf19c6if6qhc"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-44-29-lycris%20tranning.png" alt="error_image"> Lyrics Traning</a><strong> (1.6.7)</strong> : Học tiếng anh qua âm nhạc tốt nhất</li>
-    </details>
-    </ol>
+    </ol>    
+</details>
 </div>
 
 <div>
