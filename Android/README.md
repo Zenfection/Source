@@ -2,8 +2,6 @@
 
 # ![android_q_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-55-37-android_q_logo.png)Android
 
-## Basic User
-
 <details>
     <summary>Basic User</summary>
     <ol>
@@ -20,6 +18,8 @@
         <li><a href="https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png" alt="error_image"> SpeedTest</a><strong> (4.5.26)</strong> : Test tốc độ mạng tốt nhất</li>  
     </ol>   
     </details>
+
+---
 
 ## Advanced User
 
