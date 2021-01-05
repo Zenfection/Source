@@ -3,7 +3,13 @@
 # ![android_q_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-55-37-android_q_logo.png)Android
 
 <div>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Zenfection/Source/master/Android/style.css">
+
+<style>
+   #menu{
+       font-size: 25px;
+       font-weight: bold;
+}
+</style>    
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script src="https://raw.githubusercontent.com/Zenfection/Source/master/Android/main.js"></script>
 </div>
