@@ -11,5 +11,5 @@
     var link = document.querySelector("link[rel*='css']") || document.createElement('link');
     link.rel = 'stylesheet';
     link.href = 'https://zenfection.github.io/Source/Android/style.css';
-    document.getElementsByTagName('head')[0].appendChild(link);
+    document.getElementsByTagName('head')[1].appendChild(link);
 })();
