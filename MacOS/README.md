@@ -5,6 +5,29 @@
 # <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-33-36-Big_Sur.png" title="" alt="Big_Sur.png" width="50">Mac OS
 
 <div>
+<script>(function () {
+    console.log("Đã chèn css");
+    var link = document.querySelector("link[rel*='css']") || document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://zenfection.github.io/style.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+})();
+</script>
+<script>(function () {
+    var script = document.querySelector("script[rel*='js']") || document.createElement('script');
+    script.src = 'https://code.jquery.com/jquery-3.5.1.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+<script>(function () {
+    var script = document.querySelector("script[rel*='js']") || document.createElement('script');
+    script.src = 'https://zenfection.github.io/main.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+</div>
+
+<div>
     <details>
         <summary id="menu">Basic User</summary>
         <ol>
