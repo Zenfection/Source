@@ -3,12 +3,14 @@
 # ![android_q_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-55-37-android_q_logo.png)Android
 
 <div>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Zenfection/Source/master/Android/style.css">
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://raw.githubusercontent.com/Zenfection/Source/master/Android/main.js"></script>
 </div>
 
 <div>
 <details>
-    <summary style="font-size : 25px;font-weight: bold;">Basic User</summary>
+    <summary>Basic User</summary>
     <ol>
         <li><a href="https://vancedapp.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" alt="error_image" width="50"> Youtube Vanced</a><strong> (auto)</strong> : Coi Youtube như Premium không quảng cáo phát nền</li>
         <li><a href="https://thedise.me/instander/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-17-48-instander.png" alt="error_image"> Instander</a><strong> (auto)</strong> : Tương tự Instragam nhưng nhiều tính năng hơn...</li>
