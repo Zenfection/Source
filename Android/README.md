@@ -3,7 +3,6 @@
 # ![android_q_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-55-37-android_q_logo.png)Android
 
 <div>
-
 <style>
    #menu{
        font-size: 25px;
