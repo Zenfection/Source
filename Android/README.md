@@ -32,43 +32,30 @@
     </details>
 </div>
 
----
-
-## Advanced User
-
-1. ![truecaller.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png) [TrueCaller](https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u) (**11.38.9**) : Gọi, nhắn tin, chặn spam tự động... (**`Premium`**)
-
-2. ![termux.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-41-termux.png) [Termux](https://play.google.com/store/apps/details?id=com.termux) (**auto**) : Tương tự Terminal trên Linux và MacOS (**`free`**)
-
-3. ![zenly.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-30-zenly.png) [Zenly](https://play.google.com/store/apps/details?id=app.zenly.locator) (**auto**) : Theo dõi người thân thông qua map (**`free`**)
-
-4. ![UFO VPN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-20-55-UFO%20VPN.png) [UFO VPN](https://app.box.com/s/ykkog4tosfvu4wh5mffiy4tlzfl77d4s) (**2.4.4**) : VPN khá là nhanh nhất trên Android (**`Premium`**)
-
-5. ![es file exployer.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-54-es%20file%20exployer.png) [ES File Exployer](https://app.box.com/s/htut3pgwuvp4lunuimqm8pmysrfz4br4) (**4.2.4.0.1**) : Quản lí file mạnh mẽ, nhiều tính năng khác (**`Premium`**)
-
-6. ![TFlat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-18-34-TFlat.png) [Từ điển TFlat](https://app.box.com/s/5i1u6j6ubp0hjiwv9vymgeurlfuyt849) (**7.7.3**) : Từ điển **Anh-Việt** tốt nhất (**`Premium`**)
-
-7. ![today weather.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-22-today%20weather.png) [Today Weather](https://app.box.com/s/sqbkoq27aoq0b59f6o5hsv824jivl2fx) (**1.5.0-201120**) : Dự báo thời tiết tốt nhất với nhiều server (**`Premium`**) 
-
-8. ![Grammarly.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-16-56-Grammarly.png) [Grammarly](https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard) (**auto**) : Kiểm tra ngữ pháp tiếng anh tự động hoàn hảo (**`free`**)
-
-9. ![github.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-12-19-github.png) [Github](https://play.google.com/store/apps/details?id=com.github.android) (**auto**) : Quản lí Github phiên bản Android (**`free`**)
-
-10. ![video panda compressor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-13-video%20panda%20compressor.png) [Video Panda Compressor](https://app.box.com/s/hec1ouic18wi0jssavfhblo9mispa9pr) (**1.2.1**) : Nén Video theo nhu cầu tốt nhất (**`Premium`**)
-
-11. ![photomath.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-10-26-photomath.png) [Photomath](https://app.box.com/s/mazjx13csagl9zmd0bizufdazyly9yz6) (**7.4.0**) : Giải toán tự động tột nhất (**`Premium`**)
-
-12. ![fing.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-39-fing.png) [Fing](https://app.box.com/s/t0wam7zuhb2rvqhuhlqbw564m1cbfi8w) (**10.0.1**) : Cộng cụ tuyệt vời về quản lý mạng wifi (**`Premium`**)
-
-13. ![happymod.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-35-happymod.png) [HappyMod](https://www.happymod.com/) (**auto**) : Kho ứng dụng Mod của **HappyMod** (**`free`**)
-
-14. ![istudiez.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-11-istudiez.png) [iStudiez Pro](https://play.google.com/store/apps/details?id=com.istudiezteam.istudiezpro) (**auto**) : Thời gian biểu cho mọi học tập (**`free`**)
-
-15. ![airmore.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-06-airmore.png) [Airmore](https://play.google.com/store/apps/details?id=com.airmore) (**auto**) : Kết nối Android và máy tính qua network nhanh (**`free`**)
-
-16. ![apk extractor.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-52-01-apk%20extractor.png) [Apk extractor](https://app.box.com/s/61ks4frbuh462aelew47q1n1xzl7qjkr) (**14.5.0**) : Build file apk từ app đang xài (**`Premium`**)
-
-17. ![QR.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-04-56-QR.png) [QR Generator](https://app.box.com/s/01gh3ungoeszu466a0bshbox6rrjsm7v) (**1.01.46.1212**) : Tạo các mã QR tiện dụng và mạnh mẽ (**`Premium`**)
+<div>
+    <details>
+    <summary id="menu">Advanced User</summary>
+        <ol>
+            <li><a href="https://app.box.com/s/3r7uvmzdx6i993sxbinrv1z1uf86zi3u"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-32-truecaller.png" alt="error_image"> TrueCaller</a><strong> (11.38.9)</strong> : Gọi, nhắn tin, chặn spam tự động...</li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.termux"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-41-termux.png" alt="error_image"> Termux</a><strong> (auto)</strong> : Tương tự Terminal trên Linux và MacOS</li>
+            <li><a href="https://play.google.com/store/apps/details?id=app.zenly.locator"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-22-30-zenly.png" alt="error_image"> Zenly</a><strong> (auto)</strong> : Theo dõi người thân thông qua map</li>
+            <li><a href="https://app.box.com/s/ykkog4tosfvu4wh5mffiy4tlzfl77d4s"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-20-55-UFO%20VPN.png" alt="error_image"> UFO VPN</a><strong> (2.4.4)</strong> : VPN khá là nhanh nhất trên Android</li>
+            <li><a href="https://app.box.com/s/htut3pgwuvp4lunuimqm8pmysrfz4br4"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-54-es%20file%20exployer.png" alt="error_image"> ES File Exployer</a><strong> (4.2.4.0.1)</strong> : Quản lí file mạnh mẽ, nhiều tính năng khác</li>
+            <li><a href="https://app.box.com/s/5i1u6j6ubp0hjiwv9vymgeurlfuyt849"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-18-34-TFlat.png" alt="error_image"> Từ điển TFlat</a><strong> (7.7.3)</strong> : Từ điển <b>Anh-Việt</b> tốt nhất</li>
+            <li><a href="https://app.box.com/s/sqbkoq27aoq0b59f6o5hsv824jivl2fx"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-19-22-today%20weather.png" alt="error_image"> Today Weather</a><strong> (1.5.0-201120)</strong> : Dự báo thời tiết tốt nhất với nhiều server</li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.grammarly.android.keyboard"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-16-56-Grammarly.png" alt="error_image"> Grammarly</a><strong> (auto)</strong> : Kiểm tra ngữ pháp tiếng anh tự động hoàn hảo</li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.github.android"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-12-19-github.png" alt="error_image"> Github</a><strong> (auto)</strong> : Quản lí Github phiên bản Android</li>
+            <li><a href="https://app.box.com/s/hec1ouic18wi0jssavfhblo9mispa9pr"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-46-13-video%20panda%20compressor.png" alt="error_image"> Video Panda Compressor</a><strong> (1.2.1)</strong> : Nén Video theo nhu cầu tốt nhất</li>
+            <li><a href="https://app.box.com/s/mazjx13csagl9zmd0bizufdazyly9yz6"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-10-26-photomath.png" alt="error_image"> Photomath</a><strong> (7.4.0)</strong> : Giải toán tự động tột nhất</li>
+            <li><a href="https://app.box.com/s/t0wam7zuhb2rvqhuhlqbw564m1cbfi8w"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-39-fing.png" alt="error_image"> Fing</a><strong> (10.0.1)</strong> : Công cụ tuyệt vời về quản lý mạng wifi </li>
+            <li><a href="https://www.happymod.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-09-35-happymod.png" alt="error_image"> HappyMod</a><strong> (auto)</strong> : Kho ứng dụng Mod của <b>HappyMod</b></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.istudiezteam.istudiezpro"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-11-istudiez.png" alt="error_image"> iStudiez Pro</a><strong> (auto)</strong> : Thời gian biểu cho mọi học tập</li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.airmore"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-07-06-airmore.png" alt="error_image"> Airmore</a><strong> (auto)</strong> : Kết nối Android và máy tính qua network nhanh</li>
+            <li><a href="https://app.box.com/s/61ks4frbuh462aelew47q1n1xzl7qjkr"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-52-01-apk%20extractor.png" alt="error_image"> Apk extractor</a><strong> (14.5.0)</strong> : Build file apk từ app đang xài</li>
+            <li><a href="https://app.box.com/s/01gh3ungoeszu466a0bshbox6rrjsm7v"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-04-56-QR.png" alt="error_image"> QR Generator</a><strong> (1.01.46.1212)</strong> : Tạo các mã QR tiện dụng và mạnh mẽ</li>
+        </ol>
+    </details>
+</div>
 
 ## Learning Code
 
