@@ -23,27 +23,7 @@
     </details>
 </div>
 
-1. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" title="" alt="youtubevaced.png" width="50">[YouTube Vanced](https://vancedapp.com/) (**update by Vanced Manager**) Coi Youtube như Premium không quảng cáo, phát nền... (**`Mod`**)
-
-2. ![instander.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-17-48-instander.png) [Instander](https://thedise.me/instander/) (**auto**) : Tượng tự Instagram nhưng nhiều tính năng mod hơn... (**`Mod`**)
-
-3. ![AdGuard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png) [Adguard Pro](https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe) (**3.6.1**) : Chặn quảng cáo mọi app trên Android (**`Premium`**)
-
-4. ![WPS Office.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png) [WPS Office](https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d) (**13.2**) : Bộ Office tốt nhất cho Android (**`Premium`**)
-
-5. ![winrar_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-25-15-winrar_logo.png) [Rar](https://app.box.com/s/a3rjcud4vrbgt5h4qgx3sqpqkmdp7vlr) (**6.0.0**) : Giải nén mọi thể loại file nhanh gọn lẹ (**`Premium`**)
-
-6. ![alarmy.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-26-00-alarmy.png) [Alarmy](https://app.box.com/s/7eg9m6cc43qaa1lktoqy8twkegwxccfy) (**3.43.07**) : Đồng hồ báo thức tốt nhất trong Android (**`Premium`**)
-
-7. ![coc_coc.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png) [Cốc Cốc Browser Pro](https://pro.coccoc.com/) (**auto**) : trình duyệt (**`free`**)
-
-8. ![nhacuatui.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png) [NhacCuaTui](https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg) (**7.0.1**) : Nghe nhạc FLAC Việt nam rất tốt (**`VIP`**)
-
-9. ![zingmp3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png) [ZingMp3](https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael) (**20.12.02**) : Phần mềm nghe nhạc quá nổi tiếng ở Việt Nam (**`VIP`**)
-
-10. ![Spotify_Dark.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-36-57-Spotify_Dark.png) [Spotify](https://app.box.com/s/o2acn7u6ubmnnd1d0gp8nyk4d1wne6cq) (**8.5.89.901**) : Nghe nhạc siêu hay và AI chọn nhạc tốt nhất (**`Premium`**)
-
-11. ![Speedtest.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png) [Speedtest](https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l) (**4.5.27**) : Test tốc độ mạng tốt nhất (**`Premium`**)
+1. 
 
 ## Advanced User
 
