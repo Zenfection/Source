@@ -112,12 +112,15 @@
     </details>
 </div>
 
-## Nếu các bạn cảm thấy còn thiếu đừng lo, hãy tới những nguồn sau đây để tìm:
+<div>
+    <details>
+        <summary id="menu">Nguồn kho App</summary>
+        <ol>
+            <li><a href="https://www.gocmod.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-25-04-no-sologan-darkmode.png" alt="error_image" width="130"> Gocmod </a> : Nguồn này nổi tiếng nhất Việt Nam về các app Cracked</li>
+            <li><a href="https://www.chiaseapk.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-26-06-logo_transparent1.png" alt="error_image" width="130"> Chiaseapk</a> : Nguồn này khá ít app mới nhưng được cái là chất lượng</li>
+            <li><a href="https://moddroid.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-26-31-LogoMakr_3W1Z7Q.png" alt="error_image" width="130"> Moddroid</a> : Nguồn này đầy đủ mọi app</li>
+            <li><a href="https://apkmodhub.in/" ><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-27-13-1-1-300x300.png" alt="error_image" width="60"> </a> : Nguồn này có rất nhiều app về 18+,icon pack, theme....</li>
+        </ol>
+    </details>
+</div>
 
-- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-25-04-no-sologan-darkmode.png" title="" alt="no-sologan-darkmode.png" width="130">](https://www.gocmod.com/) : Nguồn này nổi tiếng nhất Việt Nam về các app Cracked
-
-- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-26-06-logo_transparent1.png" title="" alt="logo_transparent1.png" width="130">](https://www.chiaseapk.com/) : Nguồn này khá ít app mới nhưng được cái là chất lượng
-
-- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-26-31-LogoMakr_3W1Z7Q.png" title="" alt="LogoMakr_3W1Z7Q.png" width="130">](https://moddroid.com/) : Nguồn này đầy đủ mọi app
-
-- [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-22-27-13-1-1-300x300.png" title="" alt="1-1-300x300.png" width="60">](https://apkmodhub.in/) : Nguồn này có rất nhiều app về 18+,icon pack, theme....
