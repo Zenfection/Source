@@ -7,7 +7,7 @@
     console.log("Đã chèn css");
     var link = document.querySelector("link[rel*='css']") || document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = 'https://zenfection.github.io/Source/Android/style.css';
+    link.href = 'https://zenfection.github.io/Source/style.css';
     document.getElementsByTagName('head')[0].appendChild(link);
 })();
 </script>
@@ -19,7 +19,7 @@
 </script>
 <script>(function () {
     var script = document.querySelector("script[rel*='js']") || document.createElement('script');
-    script.src = 'https://zenfection.github.io/Source/Android/main.js';
+    script.src = 'https://zenfection.github.io/Source/main.js';
     document.getElementsByTagName('head')[0].appendChild(script);
 })();
 </script>
