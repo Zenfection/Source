@@ -2,6 +2,29 @@
 
 Như các bạn đã biết chúng ta có thể code C/C++ bằng những [IDE](https://www.google.com/search?q=IDE) như: Quốc dân trường đại học [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/),  [Code::Blocks](http://www.codeblocks.org/) hay thậm chí là trùm cuối [Visual Studio](https://visualstudio.microsoft.com/) hay dân chơi đa hệ [Qt Creator](https://www.qt.io/download), cũng có thể là [CLion](https://www.jetbrains.com/clion/) của nhà **Jetbrain**  nhưng bạn liệu có thử code System language bằng **Code Editor** chưa, hãy thử nhé
 
+<div>
+<script>(function () {
+    console.log("Đã chèn css");
+    var link = document.querySelector("link[rel*='css']") || document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://zenfection.github.io/Source/style.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+})();
+</script>
+<script>(function () {
+    var script = document.querySelector("script[rel*='js']") || document.createElement('script');
+    script.src = 'https://code.jquery.com/jquery-3.5.1.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+<script>(function () {
+    var script = document.querySelector("script[rel*='js']") || document.createElement('script');
+    script.src = 'https://zenfection.github.io/Source/main.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+</div>
+
 ## 1. Cài đặt là tải Visual Studio Code
 
 <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/09-09-40-03-1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="1200px-Visual_Studio_Code_1.35_icon.svg.png" width="50"> Link Download : **[Visual Studio Code](https://code.visualstudio.com/)**
