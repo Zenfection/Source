@@ -4,6 +4,9 @@
 
 <div>
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+</div>
+
+<div>
 <details>
     <summary style="font-size : 25px;font-weight: bold;">Basic User</summary>
     <ol>
@@ -23,6 +26,8 @@
 </div>
 
 ---
+
+## 
 
 ## Advanced User
 
