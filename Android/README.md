@@ -3,6 +3,7 @@
 # ![android_q_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-55-37-android_q_logo.png)Android
 
 <div>
+<script src="<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>"></script>
 <details>
     <summary style="font-size : 25px;font-weight: bold;">Basic User</summary>
     <ol>
