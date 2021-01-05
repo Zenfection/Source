@@ -4,26 +4,22 @@
 
 ## Basic User
 
-<div>
 <details>
     <ol>
         <summary>Basic User</summary>
-        <li><a href="https://vancedapp.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" alt="error_image" width="50">Youtube Vanced </a><strong>(auto)</strong> : Coi Youtube như Premium không quảng cáo phát nền</li>
-        <li><a href="https://thedise.me/instander/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-17-48-instander.png" alt="error_image">Insider </a><strong>(auto)</strong> : Tươnt tự Instragam nhưng nhiều tính năng hơn...</li>
-        <li><a href="https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png" alt="error_image">Adguard </a><strong>(3.6.1)</strong> : Chặn quảng cáo mọi app trên Android</li>
-        <li><a href="https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png" alt="error_image">WPS Office </a><strong>(13.1)</strong> : Bộ Office tốt nhất cho Android</li>
-        <li><a href="https://app.box.com/s/a3rjcud4vrbgt5h4qgx3sqpqkmdp7vlr"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-25-15-winrar_logo.png" alt="error_image">Winrar </a><strong>(6.0.0)</strong> : Giải nén mọi thể loại file nhanh gọn lẹ</li>
-        <li><a href="https://app.box.com/s/7eg9m6cc43qaa1lktoqy8twkegwxccfy"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-26-00-alarmy.png" alt="error_image">Alarmy </a><strong>(3.43.07)</strong> : Đồng hồ báo thức tốt nhất trong Android</li>
-        <li><a href="https://pro.coccoc.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png" alt="error_image">Cốc Cốc Browser Pro </a><strong>(auto)</strong> : Trình duyệt khá tốt trên Android</li>
-        <li><a href="https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png" alt="error_image">NhacCuaTui </a><strong>(7.0.1)</strong> : Nghe nhạc FLAC Việt nam rất tốt</li>
-        <li><a href="https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png" alt="error_image">ZingMp3 </a><strong>(20.12.01)</strong> : Phần mềm nghe nhạc quá nổi tiếng ở Việt Nam</li>
-        <li><a href="https://app.box.com/s/o2acn7u6ubmnnd1d0gp8nyk4d1wne6cq"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-36-57-Spotify_Dark.png" alt="error_image">Spotify </a><strong>(8.5.89.901)</strong> : Nghe nhạc siêu hay và AI chọn nhạc tốt nhất</li>
-        <li><a href="https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png" alt="error_image"></a><strong>(4.5.26)</strong> : Test tốc độ mạng tốt nhất</li>  
+        <li><a href="https://vancedapp.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-12-28-youtubevaced.png" alt="error_image" width="50"> Youtube Vanced</a><strong> (auto)</strong> : Coi Youtube như Premium không quảng cáo phát nền</li>
+        <li><a href="https://thedise.me/instander/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-17-48-instander.png" alt="error_image"> Instander</a><strong> (auto)</strong> : Tương tự Instragam nhưng nhiều tính năng hơn...</li>
+        <li><a href="https://app.box.com/s/oyjtyyj0ievmb7ehtx2rfy7p4yqb3ppe"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-20-34-AdGuard.png" alt="error_image"> Adguard</a><strong> (3.6.1)</strong> : Chặn quảng cáo mọi app trên Android</li>
+        <li><a href="https://app.box.com/s/31qs5ufvz61qipkcvu0a3pdmddxhwi8d"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-27-WPS%20Office.png" alt="error_image"> WPS Office</a><strong> (13.1)</strong> : Bộ Office tốt nhất cho Android</li>
+        <li><a href="https://app.box.com/s/a3rjcud4vrbgt5h4qgx3sqpqkmdp7vlr"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-25-15-winrar_logo.png" alt="error_image"> Winrar</a><strong> (6.0.0)</strong> : Giải nén mọi thể loại file nhanh gọn lẹ</li>
+        <li><a href="https://app.box.com/s/7eg9m6cc43qaa1lktoqy8twkegwxccfy"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-26-00-alarmy.png" alt="error_image"> Alarmy</a><strong> (3.43.07)</strong> : Đồng hồ báo thức tốt nhất trong Android</li>
+        <li><a href="https://pro.coccoc.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-30-55-coc_coc.png" alt="error_image"> Cốc Cốc Browser Pro</a><strong> (auto)</strong> : Trình duyệt khá tốt trên Android</li>
+        <li><a href="https://app.box.com/s/dp9dzt4vnppi89usvyksapmbcylsb3yg"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-33-01-nhacuatui.png" alt="error_image"> NhacCuaTui</a><strong> (7.0.1)</strong> : Nghe nhạc FLAC Việt nam rất tốt</li>
+        <li><a href="https://app.box.com/s/7lfwmgquexyt9ae2di2ocj3lukad5ael"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-32-23-zingmp3.png" alt="error_image"> ZingMp3</a><strong> (20.12.01)</strong> : Phần mềm nghe nhạc quá nổi tiếng ở Việt Nam</li>
+        <li><a href="https://app.box.com/s/o2acn7u6ubmnnd1d0gp8nyk4d1wne6cq"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-36-57-Spotify_Dark.png" alt="error_image"> Spotify</a><strong> (8.5.89.901)</strong> : Nghe nhạc siêu hay và AI chọn nhạc tốt nhất</li>
+        <li><a href="https://app.box.com/s/n36yygfq3tjhpbdtgirevwc87wdmv67l"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-15-31-Speedtest.png" alt="error_image"> SpeedTest</a><strong> (4.5.26)</strong> : Test tốc độ mạng tốt nhất</li>  
     </ol>   
     </details>
-</div>
-
-1. 
 
 ## Advanced User
 
