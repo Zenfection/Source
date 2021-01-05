@@ -3,7 +3,14 @@
 # ![android_q_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/27-08-55-37-android_q_logo.png)Android
 
 <div>
-   
+<script>(function () {
+    console.log("Đã chèn css");
+    var link = document.querySelector("link[rel*='css']") || document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://zenfection.github.io/Source/Android/style.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+})();
+</script>
 <script>(function () {
     var script = document.querySelector("script[rel*='js']") || document.createElement('script');
     script.src = 'https://code.jquery.com/jquery-3.5.1.js';
