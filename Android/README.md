@@ -10,7 +10,13 @@
 }
 </style>    
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="crossorigin="anonymous"></script>
-<script src="https://raw.githubusercontent.com/Zenfection/Source/master/Android/main.js"></script>
+<script>(function () {
+    console.log("Đã chạy file js")
+    var script = document.querySelector("script[rel*='js']") || document.createElement('script');
+    script.src = 'https://raw.githubusercontent.com/Zenfection/Source/master/Android/main.js';
+    document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
 </div>
 
 <div>
