@@ -108,6 +108,7 @@
         <li><a href="https://app.box.com/s/oq9nyh6uo8qtpgyg5wdv0elk7n9djxlv"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-23-certificate%20marker.png" alt="error_image"> Certificate Maker</a><strong> (4.9.4)</strong> : Kho Template thiết kế Chứng Chỉ</li>
         <li><a href="https://app.box.com/s/s9yqacnul386txtkj9j7bsbz3n360url"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-16-38-34-visiting%20card.png" alt="error_image"> Visiting Card Maker</a><strong> (23.0)</strong> : Kho Template tạo card visit</li>
         <li><a href="https://app.box.com/s/6krums79lszgazbr4gucubjyl1zl08te"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-21-47-32-picsart.png" alt="error_image"> PisArt Gold</a><strong> (16.3.0)</strong> : Chỉnh ảnh tốt nhất hiện nay</li>
+        <li><a href="https://app.box.com/s/msku7xtsrl1xk36ijroi84izv1w4j6wk"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-11-42-09-bandmaker.png" alt="error_image"> Brand Maker</a><strong> (12.0)</strong> : Tạo nhãn hiệu từ kho Template đồ sộ</li>
     </ol>
     </details>
 </div>
