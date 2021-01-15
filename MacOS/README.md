@@ -278,7 +278,7 @@
 </details>
 
 <details>
-    <summary id="menu">Designer</summary>
+    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-14-01-34-Design%20Algorithm.png" alt="error_image"> Designer</summary>
     <ol>
         <li>
             <a href="https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="error_image"> Art Text</a><strong> (4.0.5)</strong>: Thiết kế font chữ
@@ -332,7 +332,7 @@
 </details>
 
 <details>
-    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-13-56-42-Know%20How.png" alt="error_image">Bonus</summary>
+    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-13-56-42-Know%20How.png" alt="error_image"> Bonus</summary>
     <ol>
         <li>
             <a href="https://www.android.com/filetransfer/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-20-Android_File_Transfer.png" alt="error_image"> Android File Transfer</a><strong> (auto)</strong>: Truy cập file trong thiết bị <b>Android</b>
@@ -350,7 +350,7 @@
 </details>
 
 <details>
-    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-13-38-d4z6d1o-532216ee-68ca-452e-be34-81c0b377c6c6.png" alt="error_image">Hackintosher</summary>
+    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-13-38-d4z6d1o-532216ee-68ca-452e-be34-81c0b377c6c6.png" alt="error_image"> Hackintosher</summary>
     <ol>
         <li>
             <a href="https://github.com/headkaze/Hackintool/releases"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-53-22-Hackintool.png" alt="error_image"> Hackintool</a><strong> (auto)</strong>: Ứng dụng vạn năng của Hackintosh 
