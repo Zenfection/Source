@@ -39,7 +39,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing"> Alfred</a>
-                <strong> (1205)</strong>: Thay thế <b>Spotlight</b>, một công cụ tìm kiếm tốt hơn
+                <strong> (1209)</strong>: Thay thế <b>Spotlight</b>, một công cụ tìm kiếm tốt hơn
             </li>   
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-42-App_Cleaner_%26_Uninstaller.png" alt="error_image">
@@ -48,12 +48,12 @@
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/20-11-50-17-Bartender.png" alt="error_image">
-                <a href="https://drive.google.com/drive/folders/1qvy1Loo6_Gh2CyD1Zms9N0rMPf8QpeOa?usp=sharing">Bartender 4</a>: Quản lí <strong>menubar</strong> tốt nhất
+                <a href="https://drive.google.com/drive/folders/1qvy1Loo6_Gh2CyD1Zms9N0rMPf8QpeOa?usp=sharing">Bartender 4</a><strong> (4.0.34)</strong> : Quản lí <strong>menubar</strong> tốt nhất
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-25-Keka.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1hbfQNxNpUUZaXTvR95gBI9aqXpaHSHxM?usp=sharing"> Keka</a>
-                <strong> (1.2.6)</strong>: Giải nén các thể loại file zip, taz, taz.gz...
+                <strong> (1.2.7)</strong>: Giải nén các thể loại file zip, taz, taz.gz...
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-39-CleanMyMac_X.png" alt="error_image">
@@ -63,7 +63,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing"> Downie</a>
-                <strong> (4.1.13)</strong>: Tải  mọi video trên trình duyệt, tương tự <strong>IDM trên Window</strong>
+                <strong> (4.1.14)</strong>: Tải  mọi video trên trình duyệt, tương tự <strong>IDM trên Window</strong>
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png" alt="error_image">
@@ -73,7 +73,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-46-48-Grid.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/11uQ7btUqfUTjVg_UN4pL46DbXle_LtuM?usp=sharing"> Grid</a>
-                <strong> (6.1.5)</strong>: Sử dụng Instagram trên Mac
+                <strong> (6.1.6)</strong>: Sử dụng Instagram trên Mac
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-53-44-hyperdock.png" alt="error_image">
@@ -103,12 +103,12 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-34-Movist.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1bQGtPKZ99XNPqg4iVg5l_I3q9hkyiYsT?usp=sharing"> Movist Pro</a>
-                <strong> (2.6.3)</strong>: Video player tốt nhất và đẹp nhất
+                <strong> (2.6.4)</strong>: Video player tốt nhất và đẹp nhất
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-46-Permute_Dark.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1msmoOK76oUH6LWQKCNFCnmbOv_FmNiHt?usp=sharing"> Permute</a>
-                <strong> (3.5.13)</strong>: Chuyển đổi mọi định dạng nhanh chóng, đi chung với <b>Downie</b>
+                <strong> (3.5.14)</strong>: Chuyển đổi mọi định dạng nhanh chóng, đi chung với <b>Downie</b>
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-07-Speedtest.png" alt="error_image">
@@ -157,7 +157,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-17-10-pdf%20reader.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1HEHLSEWWN6Z_nZFJkrdevYIODB-diSXu?usp=sharing"> PDF Reader Pro</a>
-                <strong> (2.7.2)</strong>: Xem và xử lý file PDF đa năng và mạnh nhất
+                <strong> (2.7.6)</strong>: Xem và xử lý file PDF đa năng và mạnh nhất
             </li>  
         </ol>
     </details>
@@ -326,7 +326,7 @@
             <a href="https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png" alt="error_image"> Small Image</a><strong> (2.5)</strong>: Tuỳ chỉnh kích thước các hình ảnh
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png" alt="error_image"> Blocs</a><strong> (4.0.3)</strong>: Thiết kế web theo từng block và trực quan
+            <a href="https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png" alt="error_image"> Blocs</a><strong> (4.0.4)</strong>: Thiết kế web theo từng block và trực quan
         </li>
    </ol> 
 </details>
@@ -382,14 +382,23 @@
     </ol>
 </details>
 
----
-
-## Drop những ứng dụng và lý do:
-
-1. ![spacedroppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png) [SpaceDrop](https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing) (**1.8.0**) : Kéo thả clipboard (Thay thế bằng Yoink tốt và tiện hơn)
-2. ![cleverpdfpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-58-55-cleverpdf.png) [CleverPDF](https://drive.google.com/drive/folders/18Um44Sw6wnIHVy5RTA9Qr3QnfAWMvNYN?usp=sharing) (**3.0.4**): Công cụ chuyển đổi PDF thành Word,Image,Docx (Thay thế bằng PDF Reader Pro)
-3. ![Adobe Acrobat DCpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-00-Adobe%20Acrobat%20DC.png) [Adobe Acrobat Pro - Google Drive](https://drive.google.com/drive/folders/1K9MGzQsucyd9U0_mpbHY6VCMpADbH02W?usp=sharing) (**20.013.20064**): Làm việc về file **PDF** (Thay thế bằng PDF Reader Pro)
-4. ![WPS Officepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png) [WPS Office](https://apps.apple.com/vn/app/wps-office-pdf-docs-table/id1468073139?l=vi&mt=12) : Thay thế bộ **Office của Microsoft** (Thay thế bằng bộ office của Apple)
+<details>
+    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-14-14-33-Wisdom.png" alt="error_image"> Drop và lý do:</summary>
+    <ol>
+        <li>
+            <a href="https://drive.google.com/drive/folders/12ng9zT1vRxKLe7QVAqUiUYsPrRFsREAj?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-24-54-spacedrop.png" alt="error_image"> SpaceDrop</a> : Kéo thả clipboard (Thay thế bằng Yoink tốt và tiện hơn)
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/18Um44Sw6wnIHVy5RTA9Qr3QnfAWMvNYN?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-58-55-cleverpdf.png" alt="error_image"> CleverPDF</a> : Công cụ chuyển đổi PDF thành Word, Image, Docx (Thay thế bằng PDF Reader Pro)
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1K9MGzQsucyd9U0_mpbHY6VCMpADbH02W?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-00-Adobe%20Acrobat%20DC.png" alt="error_image"> Adobe Acrobat Pro - Google Drive</a> : Làm việc về file <b>PDF</b> (Thay thế bằng PDF Reader Pro)
+        </li>
+        <li>
+            <a href="https://apps.apple.com/vn/app/wps-office-pdf-docs-table/id1468073139?l=vi&mt=12"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png" alt="error_image"> WPS Office</a> : Thay thế bộ <b>Office của Microsoft</b> (Thay thế bằng bộ Office của Apple)
+        </li>
+    </ol>
+</details>
 
 ---
 
