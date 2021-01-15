@@ -350,7 +350,7 @@
 </details>
 
 <details>
-    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-13-38-d4z6d1o-532216ee-68ca-452e-be34-81c0b377c6c6.png" alt="error_image"> Hackintosher</summary>
+    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-13-38-d4z6d1o-532216ee-68ca-452e-be34-81c0b377c6c6.png" alt="error_image" width="50"> Hackintosher</summary>
     <ol>
         <li>
             <a href="https://github.com/headkaze/Hackintool/releases"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-53-22-Hackintool.png" alt="error_image"> Hackintool</a><strong> (auto)</strong>: Ứng dụng vạn năng của Hackintosh 
