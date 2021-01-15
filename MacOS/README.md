@@ -277,39 +277,60 @@
     </ol>
 </details>
 
-## Designer
+<details>
+    <summary id="menu">Designer</summary>
+    <ol>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="error_image"> Art Text</a><strong> (4.0.5)</strong>: Thiết kế font chữ
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png" alt="error_image"> Swift Publisher</a><strong> (5.5.7)</strong>: Mẫu template về poster tốt nhất
+        </li>
+        <li>   
+            <a href="https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png" alt="error_image"> Sketch</a><strong> (70.3)</strong>: Thiết kế UI/UX trực quan
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1OjCDAFbtHlYVwmmhdighkW_XDZT7PNlp?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-19-logoist.png" alt="error_image"> Logoist</a><strong> (4.1)</strong>: Thiết kế <b>icon</b> dễ dàng trực quan
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1JdB5oP0VtnTETmb56ok5cPnPjCncRhWK?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-35-Icons_8.png" alt="error_image"> Icons8</a><strong> (5.7.4)</strong>: Kho icon đầy đủ và mạnh mẽ
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png" alt="error_image"> IconJar</a><strong> (2.7.0)</strong>: Quản lí mọi icon
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png" alt="error_image"> Drop</a><strong> (1.6.3)</strong>: Lấy màu mã hex, dành cho dân thiết kế
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1mEZX3VLHzLwYV3Co06ubUQ1gUAwIg0k6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-20-51-Aurora.png" alt="error_image"> Aurora HDR</a><strong> (1.0.1)</strong>: Tạo ảnh HDR chỉ trong 1 nốt nhạc
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1e2EXHfvNXRALyxvw48OETVhhEpDqwCp8?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-13-09-Bundle%20for%20iWork%20-GN%20Templates.png" alt="error_image"> Bundle for iWork -GN Templates</a><strong> (6.1)</strong>: Bộ Template chung cho <b>Office</b> trên Mac
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1C0SfKvWkKP2YAsZYyUPgl62SxaisDhDj?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-15-15-Templates%20for%20Keynote%20-%20DesiGN.png" alt="error_image"> Templates for Keynote DesiGN</a><strong> (6.2)</strong>: Bộ Template cho trình chiếu <b>Keynote</b>
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1R_SGyynifh4KFdhhycv3DNXHpkmQLSH8?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png" alt="error_image"> DesiGN for Numbers</a><strong> (5.0.5)</strong>: Template cho trang tính <b>Number</b>
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png" alt="error_image"> Templates for Pages DesiGN</a><strong> (7.0)</strong>: Template cho <b>Pages</b> trên Mac
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1vg6c1-tMEHj_OtDYN9s--glZEZxIuRoS?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-30-13-Resume.png" alt="error_image"> Resume Templates Design</a><strong> (3.0)</strong>: Template cho <b>CV Resume</b> trên Mac
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1Cg6dgFGVnlDe3TixBmWE8_hphcQ0ZVSW?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png" alt="error_image"> Rocket</a><strong> (1.7.4)</strong>: Kho Emoji, icon, Symbol...
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png" alt="error_image"> Small Image</a><strong> (2.5)</strong>: Tuỳ chỉnh kích thước các hình ảnh
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png" alt="error_image"> Blocs</a><strong> (4.0.3)</strong>: Thiết kế web theo từng block và trực quan
+        </li>
+   </ol> 
+</details>
 
-1. <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="arttextpng" width="50"> [Art Text](https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing) (**4.0.5**): Thiết kế font chữ
-
-2. ![swift publisherpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png) [Swift Publisher](https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing) (**5.5.7**) : Mẫu template về poster tốt nhất
-
-3. ![sketchpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png) [Sketch](https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing) (**70.3**) : Thiết kế UI/UX trực quan
-
-4. ![logoistpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-19-logoist.png) [Logoist](https://drive.google.com/drive/folders/1OjCDAFbtHlYVwmmhdighkW_XDZT7PNlp?usp=sharing) (**4.1**) : Thiết kế **icon** dễ dàng trực quan
-
-5. ![Icons8png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-35-Icons_8.png) [Icons8](https://drive.google.com/drive/folders/1JdB5oP0VtnTETmb56ok5cPnPjCncRhWK?usp=sharing) (**5.7.4**) : Kho icon đầy đủ và mạnh mẽ
-
-6. ![iconjarpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png) [IconJar](https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing) (**2.7.0**) : Quản lí mọi icon
-
-7. ![Droppng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png)[Drop](https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing) (**1.6.3**): Lấy màu mã hex, dành cho dân thiết kế
-
-8. ![Aurora.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-20-51-Aurora.png) [Aurora HDR](https://drive.google.com/drive/folders/1mEZX3VLHzLwYV3Co06ubUQ1gUAwIg0k6?usp=sharing) (**1.0.1**): Tạo ảnh HDR chỉ trong 1 nốt nhạc
-
-9. ![Bundle for iWork -GN Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-13-09-Bundle%20for%20iWork%20-GN%20Templates.png) [Bundle for iWork -GN Templates](https://drive.google.com/drive/folders/1e2EXHfvNXRALyxvw48OETVhhEpDqwCp8?usp=sharing) (**6.1**) : Bộ Template chung cho **Office** trên Mac
-
-10. ![Templates for Keynote - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-15-15-Templates%20for%20Keynote%20-%20DesiGN.png) [Templates for Keynote DesiGN](https://drive.google.com/drive/folders/1C0SfKvWkKP2YAsZYyUPgl62SxaisDhDj?usp=sharing) (**6.2k**) : Bộ Template cho trình chiếu **Keynote**
-
-11. ![DesiGN for Numbers - Templates.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png) [DesiGN for Numbers](https://drive.google.com/drive/folders/1R_SGyynifh4KFdhhycv3DNXHpkmQLSH8?usp=sharing) (**5.0.5**) : Template cho trang tính **Number**
-
-12. ![Templates for Pages - DesiGN.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png)  [Templates for Pages DesiGN](https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing) (**7.0**) : Template cho **Pages** trên Mac
-
-13. ![Resume.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-30-13-Resume.png) [Resume Templates Design](https://drive.google.com/drive/folders/1vg6c1-tMEHj_OtDYN9s--glZEZxIuRoS?usp=sharing) (**3.0**) : Template cho **CV Resume** trên Mac
-
-14. ![Rocketpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-59-Rocket.png) [Rocket](https://drive.google.com/drive/folders/1Cg6dgFGVnlDe3TixBmWE8_hphcQ0ZVSW?usp=sharing) (**1.7.4**) : Kho Emoji, icon, Symbox...
-
-15. ![smallimagepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png) [Small Image](https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing) (**2.5**) : Tuỳ chỉnh kích thước các hình ảnh
-
-16. ![blocs.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png) [Blocs](https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing) (**4.0.3**) : Thiết kế web theo từng block và trực quan
 
 ## Bonus
 
