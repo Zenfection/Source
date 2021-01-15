@@ -331,28 +331,56 @@
    </ol> 
 </details>
 
+<details>
+    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-13-56-42-Know%20How.png" alt="error_image">Bonus</summary>
+    <ol>
+        <li>
+            <a href="https://www.android.com/filetransfer/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-20-Android_File_Transfer.png" alt="error_image"> Android File Transfer</a><strong> (auto)</strong>: Truy cập file trong thiết bị <b>Android</b>
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1FUnIrrc_F7sJei3JorKor9JcrVyZrqGh?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-17-26-Installer.png" alt="error_image"> HoRNDIS</a><strong> (9.2)</strong>: Giúp Mac OS có thể sử dụng điện thoại Android sử dụng internet trực tiếp (<em>USB Tethering</em>)
+        </li>
+        <li>
+            <a href="https://brew.sh/index_vi"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-15-03-homebrew-256x256.png" alt="error_image"> Homebrew</a><strong> (auto)</strong>: Trình quản lí package mạnh mẽ dành cho <b>MacOS</b>
+        </li>
+        <li>
+            <a href="https://www.cakebrew.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-16-39-CakeBrew.png" alt="error_image"> Cakebrew</a><strong> (auto)</strong>: Quản lí trực quan <em>quản lí gói package</em> <b>homebrew</b>
+        </li>    
+    </ol>
+</details>
 
-## Bonus
-
-1. ![AndroidFileTransferpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-20-Android_File_Transfer.png) [Android File Transfer](https://www.android.com/filetransfer/) (**auto**) : Truy cập file trong thiết bị **Android**
-
-2. ![Installer.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-17-26-Installer.png) [HoRNDIS](https://drive.google.com/drive/folders/1FUnIrrc_F7sJei3JorKor9JcrVyZrqGh?usp=sharing) (**9.2**) : Giúp Mac OS có thể sử dụng điện thoại android sử dụng internet trực tiếp
-
-3. ![homebrew-256x256.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-15-03-homebrew-256x256.png)[Homebrew](https://brew.sh/index_vi) (**auto**) : Trình quản lí package mạnh mẽ dành cho **MacOS**
-
-4. ![CakeBrewpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-16-39-CakeBrew.png)[Cakebrew](https://www.cakebrew.com/) (**auto**): Quản lí trực quan *quản lí gói package* **homebrew**
-
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-13-38-d4z6d1o-532216ee-68ca-452e-be34-81c0b377c6c6.png" title="" alt="d4z6d1o-532216ee-68ca-452e-be34-81c0b377c6c6.png" width="50"> Hackintosher
-
-1. ![Hackintool.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-53-22-Hackintool.png)[Hackintool](https://github.com/headkaze/Hackintool/releases) (**auto**) : Ứng dụng vạn năng của Hackintosh
-2. ![Kext Utility.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-53-31-Kext%20Utility.png) [Kext Utility](https://taimienphi.vn/download-kext-utility-for-mac-34434) (**auto**) : Load kext cho Hackintosh   
-3. ![cloverbeast.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-04-27-cloverbeast.png) [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) (**auto**) : Bộ cài **Clover** cho Hackintosh
-4. ![Clover Configuration.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-54-44-Clover%20Configuration.png) [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/) (**auto**) : Tuỳ chỉnh trực quan file `config` của Clover
-5. ![opencore.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-02-52-opencore.png) [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases) (**auto**) : Bộ cài **Opencore** cho hackintosh
-6. ![Opencore Configuration.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-55-05-Opencore%20Configuration.png) [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) (**auto**) : Tuỳ chỉnh trực quan file `config` của Opencore
-7. ![OC_GenX.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-55-11-OC_GenX.png) [OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X/releases) (**auto**) : Tạo file config nhanh gọn lẹ **Opencore**
-8. ![PlistEditPro.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-18-PlistEditPro.png) [Plistedit Pro](https://drive.google.com/drive/folders/17xapJjMzhvwhW8nQwGilVbbjA4xsR69F?usp=sharing) (**1.9.2**) : Chỉnh sửa file **config** theo kiểu `Tree`
-9. ![MaciASL.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-22-MaciASL.png) [MaciASL](https://github.com/acidanthera/MaciASL/releases)  (**auto**): Chỉnh sửa và làm việc với file APCI 
+<details>
+    <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-14-13-38-d4z6d1o-532216ee-68ca-452e-be34-81c0b377c6c6.png" alt="error_image">Hackintosher</summary>
+    <ol>
+        <li>
+            <a href="https://github.com/headkaze/Hackintool/releases"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-53-22-Hackintool.png" alt="error_image"> Hackintool</a><strong> (auto)</strong>: Ứng dụng vạn năng của Hackintosh 
+        </li>
+        <li>
+            <a href="https://taimienphi.vn/download-kext-utility-for-mac-34434"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-53-31-Kext%20Utility.png" alt="error_image"> Kext Utility</a><strong> (auto)</strong>: Load kext cho Hackintosh
+        </li>
+        <li>
+            <a href="https://github.com/CloverHackyColor/CloverBootloader/releases"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-04-27-cloverbeast.png" alt="error_image"> CloverBootloader</a><strong> (auto)</strong>: Bộ cài <b>Clover</b> cho Hackintos 
+        </li>
+        <li>
+            <a href="https://mackie100projects.altervista.org/download-clover-configurator/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-54-44-Clover%20Configuration.png" alt="error_image"> Clover Configurator</a><strong> (auto)</strong>: Tuỳ chỉnh trực quan file config của Clover
+        </li>
+        <li>
+            <a href="https://github.com/acidanthera/OpenCorePkg/releases"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-02-52-opencore.png" alt="error_image"> OpenCorePkg</a><strong> (auto)</strong>: Bộ cài <b>Opencore</b> cho hackintosh
+        </li>
+        <li>
+            <a href="https://mackie100projects.altervista.org/opencore-configurator/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-55-05-Opencore%20Configuration.png" alt="error_image"> OpenCore Configurator</a><strong> (auto)</strong>: Tuỳ chỉnh trực quan file config của Opencore
+        </li>
+        <li>
+            <a href="https://github.com/Pavo-IM/OC-Gen-X/releases"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-55-11-OC_GenX.png" alt="error_image"> OC-Gen-X</a><strong> (auto)</strong>: Tạo file config nhanh gọn lẹ <b>Opencore</b>
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/17xapJjMzhvwhW8nQwGilVbbjA4xsR69F?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-18-PlistEditPro.png" alt="error_image"> Plistedit Pro</a><strong> (1.9.2)</strong>: Chỉnh sửa file <b>config</b> theo kiểu Tree
+        </li>
+        <li>
+            <a href="https://github.com/acidanthera/MaciASL/releases"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-17-22-MaciASL.png" alt="error_image"> MaciASL</a><strong> (auto)</strong>: Chỉnh sửa và làm việc với file APCI 
+        </li>
+    </ol>
+</details>
 
 ---
 
