@@ -229,22 +229,53 @@
     </ol>
 </details>
 
-## Developer
-
-1. ![Sublime Text 3png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png) [Sublime Text](https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing) (**4094**) : Code Editor nhanh gọn nhất
-2. ![NavicatDarkpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-40-Navicat-Dark.png) [Navicat Premium](https://drive.google.com/drive/folders/1Ufy94oPK5EOs23bQLWyyQU8Z8T-s7H0s?usp=sharing) (**15.0.24**) : Quản lí cơ sở dữ liệu Databse trực quan và tốt nhất
-3. ![MicrosoftVisualStudioCodepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-27-Microsoft_Visual_Studio_Code.png) [Visual Studio Code](https://code.visualstudio.com/) (**auto**) : Code Editor tốt nhất hiện nay
-4. ![MAMP Propng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-35-MAMP%20Pro.png) [MAMP PRO](https://drive.google.com/drive/folders/1JUlTIzebQUQPNnzAKcIBONW13h0mMyG6?usp=sharing) (**5.7**) : Quản lí server thay thế mạnh mẽ và tốt hơn cả **Xampp**
-5. ![GitHubpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png) [Github Desktop](https://desktop.github.com/) (**auto**) : Quản lí git trực quan và dễ nhìn (`free`)
-6. ![EverWebpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-09-EverWeb.png) [Everweb](https://drive.google.com/drive/folders/1gxJLPllnrw4Wpkg3eXTWb1AXNryyzQc6?usp=sharing) (**3.4.2**): Thiết kế web trực quan, mạnh mẽ
-7. <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-25-34-84%20head.png" title="" alt="84 headpng" width="50"> [Dash](https://drive.google.com/drive/folders/1wfTM3V0LHOdU4CqaU-Qe3gmNDq4qxrLp?usp=sharing) (**5.5.1**): Thư viện guide của tất cả ngôn ngữ
-8. ![CodeRunnerpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-27-41-CodeRunner.png) [CodeRunner](https://drive.google.com/drive/folders/12Vt635p0zhAh23K7wOS1gcLRGAdijbno?usp=sharing) (**4.0.3**): Chạy code test nhanh gọn lẹ mọi ngôn ngữ
-9. ![Applicationpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-49-42-Application.png) [Araxis Merge Pro](https://drive.google.com/drive/folders/19X5VpDYF_8fAEXjoaz2gYdP30UMUjj54?usp=sharing) (**2020.5479**): So sánh nội dung 2 file
-10. ![PostmanAltpng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-57-Postman_Alt.png) [Postman](https://www.postman.com/) (**auto**) : Test API tốt nhất hiện nay (`free`)
-11. ![Xcodepng](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-17-02-Xcode.png) [Xcode](https://apps.apple.com/vn/app/xcode/id497799835?l=vi&mt=12) (**auto**) : IDE code độc quyền trên MacOS
-12. ![imageascci.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-38-imageascci.png) [Image Ascii](https://drive.google.com/drive/folders/1weORyfPPsbyflhNY5F7L3UP9XN6HtbhP?usp=sharing) (**2.3**) : Convert ảnh qua các bảng mã Ascii, Hex....
-13. ![scrutiny.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-15-58-scrutiny.png) [Scrutiny](https://drive.google.com/drive/folders/1qmarOJZ27zbgrb-Dx3dE6qai6UfVng-0?usp=sharing) (**9.14.3**) : Kiểm tra và công cụ tối ưu 1 trang web tốt nhất
-14. ![Screens_4.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-16-58-Screens_4.png) [Screens](https://drive.google.com/drive/folders/1CNa-qRVD7-KV3Tzp7OLPrM3B4EEVlnps?usp=sharing) (**4.8.3**) : Công cụ điều khiển màn hình máy tính từ xa độc quyền MacOS
+<details>
+    <summary id="menu">Developer</summary>
+    <ol>
+        <li>
+            <a href="https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png" alt="error_image"> Sublime Text</a><strong> (4094)</strong>: Code Editor nhanh gọn nhất
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1Ufy94oPK5EOs23bQLWyyQU8Z8T-s7H0s?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-40-Navicat-Dark.png" alt="error_image"> Navicat Premium</a><strong> (15.0.24)</strong>: Quản lí cơ sở dữ liệu Database trực quan và tốt nhất
+        </li>
+        <li>
+            <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-27-Microsoft_Visual_Studio_Code.png" alt="error_image"> Visual Studio Code</a><strong> (auto)</strong>: Code Editor tốt nhất hiện nay
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1JUlTIzebQUQPNnzAKcIBONW13h0mMyG6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-35-MAMP%20Pro.png" alt="error_image"> MAMP PRO</a><strong> (5.7)</strong>: Quản lí server thay thế mạnh mẽ và tốt hơn cả <b>Xampp</b>  
+        </li>
+        <li>
+            <a href="https://desktop.github.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-03-GitHub.png" alt="error_image"> Github Desktop</a><strong> (auto)</strong>: Quản lí git trực quan và dễ nhìn (free)
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1gxJLPllnrw4Wpkg3eXTWb1AXNryyzQc6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-09-EverWeb.png" alt="error_image"> Everweb</a><strong> (3.4.2)</strong>: Thiết kế web trực quan, mạnh mẽ
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1wfTM3V0LHOdU4CqaU-Qe3gmNDq4qxrLp?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-25-34-84%20head.png" alt="error_image" width="50"> Dash</a><strong> (5.5.1)</strong>: Thư viện guide của tất cả ngôn ngữ 
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/12Vt635p0zhAh23K7wOS1gcLRGAdijbno?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-27-41-CodeRunner.png" alt="error_image"> CodeRunner</a><strong> (4.0.3)</strong>: Chạy code test nhanh gọn lẹ mọi ngôn ngữ
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/19X5VpDYF_8fAEXjoaz2gYdP30UMUjj54?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-49-42-Application.png" alt="error_image"> Araxis Merge Pro</a><strong> (2020.5479)</strong>: So sánh nội dung 2 file
+        </li>
+        <li>
+            <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-57-Postman_Alt.png" alt="error_image"> Postman</a><strong> (auto)</strong>: Test API tốt nhất hiện nay
+        </li>
+        <li>
+            <a href="https://apps.apple.com/vn/app/xcode/id497799835?l=vi&mt=12"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-17-02-Xcode.png" alt="error_image"> Xcode</a><strong> (auto)</strong>: IDE code độc quyền trên MacOS 
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1weORyfPPsbyflhNY5F7L3UP9XN6HtbhP?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-38-imageascci.png" alt="error_image"> Image Ascii</a><strong> (2.3)</strong>: Convert ảnh qua các bảng mã Ascii, Hex...
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1qmarOJZ27zbgrb-Dx3dE6qai6UfVng-0?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-15-58-scrutiny.png" alt="error_image"> Scrutiny</a><strong> (9.14.3)</strong>: Kiểm tra và công cụ tối ưu 1 trang web tốt nhất
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1CNa-qRVD7-KV3Tzp7OLPrM3B4EEVlnps?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-16-58-Screens_4.png" alt="error_image"> Screens</a><strong> (4.8.3)</strong>: Công cụ điều khiển màn hình máy tính từ xa độc quyền MacOS
+        </li>
+    </ol>
+</details>
 
 ## Designer
 
