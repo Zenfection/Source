@@ -185,16 +185,10 @@
             <a href="https://iterm2.com/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-04-iTerm.png" alt="error_image"> Iterm2</a><strong> (auto)</strong>: Chức năng như Terminal, dễ tuỳ biến 
         </li>
         <li>
-            <a href="https://freemacsoft.net/liteicon/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-31-LiteIcon.png" alt="error_image"> Liteicon</a><strong> (4.1.0)</strong>: Thay đổi tuỳ chỉnh icon trong Mac
-        </li>
-        <li>
-            <a href="https://drive.google.com/drive/folders/1VMvBet9LPBcUxW7x24BzNZDzzvuiVBg6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png" alt="error_image"> Little Snitch</a><strong> (4.5.2)</strong>: Tra cứu và chặn các cổng kết nối internet
-        </li>
-        <li>
             <a href="https://drive.google.com/drive/folders/157TkWOePlDFpycebCsDo7YTjYIhu1lI6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-13-Mactracker.png" alt="error_image"> Mactracker</a><strong> (2.9.2)</strong>: Tra cứu mọi thiết bị của Apple  
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png" alt="error_image"> Camtasia</a><strong> (2020.0.12)</strong>: Công cụ quay màn hình và xuất bản video
+            <a href="https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png" alt="error_image"> Camtasia</a><strong> (2020.0.13)</strong>: Công cụ quay màn hình và xuất bản video
         </li>
         <li> 
             <a href="https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png" alt="error_image"> BetterTouchTool</a><strong> (3.402)</strong>: Công cụ tốt nhất tuỳ biến keyboard, mouse, trackpad
@@ -396,6 +390,12 @@
         </li>
         <li>
             <a href="https://apps.apple.com/vn/app/wps-office-pdf-docs-table/id1468073139?l=vi&mt=12"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-18-WPS%20Office.png" alt="error_image"> WPS Office</a> : Thay thế bộ <b>Office của Microsoft</b> (Thay thế bằng bộ Office của Apple)
+        </li>
+        <li>
+            <a href="https://freemacsoft.net/liteicon/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-31-LiteIcon.png" alt="error_image"> Liteicon</a><strong> (4.1.0)</strong>: Thay đổi tuỳ chỉnh icon trong Mac (Bigsur không hỗ trợ)
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1VMvBet9LPBcUxW7x24BzNZDzzvuiVBg6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png" alt="error_image"> Little Snitch</a><strong> (4.5.2)</strong>: Tra cứu và chặn các cổng kết nối internet (Bigsur không hỗ trợ)
         </li>
     </ol>
 </details>
