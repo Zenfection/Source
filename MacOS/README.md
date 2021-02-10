@@ -127,7 +127,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-12-45-Yoink.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1gs8cl-vv_wzSrCJ5ezmwFjBIEz0QtR16?usp=sharing"> Yoink</a>
-                <strong> (3.5.11)</strong>: Kéo thả file mạnh mẽ và tiện dụng
+                <strong> (3.5.13)</strong>: Kéo thả file mạnh mẽ và tiện dụng
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png" alt="error_image">
@@ -194,16 +194,13 @@
             <a href="https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png" alt="error_image"> BetterTouchTool</a><strong> (3.553)</strong>: Công cụ tốt nhất tuỳ biến keyboard, mouse, trackpad
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1hpzO0LgvmqTpwXc-E45YaRXtlP2MFo7r?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-06-28-movavi.png" alt="error_image"> Movavi Video Convert 21 Premium</a><strong> (21.1.0)</strong>: Chuyển đổi các video theo nhiều định dạng
-        </li>
-        <li>
             <a href="https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png" alt="error_image"> Gifox</a><strong> (2.2.2)</strong>: Hỗ trợ quay màn hình xuất ra <strong>GIF</strong>
         </li>
         <li>
             <a href="https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png" alt="error_image"> Intel® Power Gadge</a><strong> (auto)</strong>: Quản lí điện năng CPU Intel (free)
         </li>
         <li>      
-            <a href="https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png" alt="error_image"> Ithoughts</a><strong> (5.24)</strong>: Tạo sơ đồ tư duy dễ dàng và trực quan
+            <a href="https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png" alt="error_image"> Ithoughts</a><strong> (5.25)</strong>: Tạo sơ đồ tư duy dễ dàng và trực quan
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png" alt="error_image"> BetterZip</a><strong> (5.03)</strong>: Công cụ giải nén mạnh mẽ và nhiều công cụ hữu ích  
@@ -220,6 +217,9 @@
         <li>  
             <a href="https://apps.apple.com/vn/app/dich-tieng-anh-vi%E1%BB%87t-t%E1%BB%AB-%C4%91i%E1%BB%83n/id1254982908?l=vi&mt=12"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-26-17-Lingvanex%20translator.png" alt="error_image"> Lingvanex Translator</a><strong> (auto)</strong> : Dịch thuật văn bản mọi ngôn ngữ
         </li>
+        <li>  
+            <a href=""><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/10-09-06-54-HD%20Convert%20Movavi.png" alt="error_image"> HD Convert Video Movavi</a><strong> (21.0)</strong> : Chuyển đội mọi định dạng Video
+        </li>
     </ol>
 </details>
 
@@ -227,7 +227,7 @@
     <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-14-04-26-Software%20Developer.png" alt="error_image"> Developer</summary>
     <ol>
         <li>
-            <a href="https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png" alt="error_image"> Sublime Text</a><strong> (4094)</strong>: Code Editor nhanh gọn nhất
+            <a href="https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png" alt="error_image"> Sublime Text</a><strong> (4097)</strong>: Code Editor nhanh gọn nhất
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1Ufy94oPK5EOs23bQLWyyQU8Z8T-s7H0s?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-40-Navicat-Dark.png" alt="error_image"> Navicat Premium</a><strong> (15.0.25)</strong>: Quản lí cơ sở dữ liệu Database trực quan và tốt nhất
@@ -281,7 +281,7 @@
             <a href="https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png" alt="error_image"> Swift Publisher</a><strong> (5.5.7)</strong>: Mẫu template về poster tốt nhất
         </li>
         <li>   
-            <a href="https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png" alt="error_image"> Sketch</a><strong> (70.3)</strong>: Thiết kế UI/UX trực quan
+            <a href="https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png" alt="error_image"> Sketch</a><strong> (70.4)</strong>: Thiết kế UI/UX trực quan
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1OjCDAFbtHlYVwmmhdighkW_XDZT7PNlp?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-19-logoist.png" alt="error_image"> Logoist</a><strong> (4.1)</strong>: Thiết kế <b>icon</b> dễ dàng trực quan
@@ -302,13 +302,13 @@
             <a href="https://drive.google.com/drive/folders/1e2EXHfvNXRALyxvw48OETVhhEpDqwCp8?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-13-09-Bundle%20for%20iWork%20-GN%20Templates.png" alt="error_image"> Bundle for iWork -GN Templates</a><strong> (6.1)</strong>: Bộ Template chung cho <b>Office</b> trên Mac
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1C0SfKvWkKP2YAsZYyUPgl62SxaisDhDj?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-15-15-Templates%20for%20Keynote%20-%20DesiGN.png" alt="error_image"> Templates for Keynote DesiGN</a><strong> (6.2)</strong>: Bộ Template cho trình chiếu <b>Keynote</b>
+            <a href="https://drive.google.com/drive/folders/1C0SfKvWkKP2YAsZYyUPgl62SxaisDhDj?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-15-15-Templates%20for%20Keynote%20-%20DesiGN.png" alt="error_image"> Templates for Keynote DesiGN</a><strong> (7.0)</strong>: Bộ Template cho trình chiếu <b>Keynote</b>
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1R_SGyynifh4KFdhhycv3DNXHpkmQLSH8?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-31-DesiGN%20for%20Numbers%20-%20Templates.png" alt="error_image"> DesiGN for Numbers</a><strong> (5.0.5)</strong>: Template cho trang tính <b>Number</b>
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png" alt="error_image"> Templates for Pages DesiGN</a><strong> (7.0)</strong>: Template cho <b>Pages</b> trên Mac
+            <a href="https://drive.google.com/drive/folders/1nXrA4487tmD3SRUg0NU9qmJsuaP2h2gX?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-16-40-Templates%20for%20Pages%20-%20DesiGN.png" alt="error_image"> Templates for Pages DesiGN</a><strong> (7.1)</strong>: Template cho <b>Pages</b> trên Mac
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1vg6c1-tMEHj_OtDYN9s--glZEZxIuRoS?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-21-30-13-Resume.png" alt="error_image"> Resume Templates Design</a><strong> (3.0)</strong>: Template cho <b>CV Resume</b> trên Mac
@@ -396,6 +396,9 @@
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1VMvBet9LPBcUxW7x24BzNZDzzvuiVBg6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-51-Little%20Snitch.png" alt="error_image"> Little Snitch</a><strong> (4.5.2)</strong>: Tra cứu và chặn các cổng kết nối internet (Bigsur không hỗ trợ)
+        </li>
+        <li>
+            <a href="https://drive.google.com/drive/folders/1hpzO0LgvmqTpwXc-E45YaRXtlP2MFo7r?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-06-28-movavi.png" alt="error_image"> Movavi Video Convert 21 Premium</a><strong> (21.1.0)</strong>: Chuyển đổi các video theo nhiều định dạng (*Thay thế bằng HD Convert Video Movavi*)
         </li>
     </ol>
 </details>
