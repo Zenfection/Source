@@ -39,7 +39,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-10-Alfred.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1sUZxhGb2tCF09FKE7BoZYyiLpoMvQIic?usp=sharing"> Alfred</a>
-                <strong> (1219)</strong>: Thay thế <b>Spotlight</b>, một công cụ tìm kiếm tốt hơn
+                <strong> (1221)</strong>: Thay thế <b>Spotlight</b>, một công cụ tìm kiếm tốt hơn
             </li>   
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-36-42-App_Cleaner_%26_Uninstaller.png" alt="error_image">
@@ -48,12 +48,12 @@
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/20-11-50-17-Bartender.png" alt="error_image">
-                <a href="https://drive.google.com/drive/folders/1qvy1Loo6_Gh2CyD1Zms9N0rMPf8QpeOa?usp=sharing">Bartender 4</a><strong> (4.0.35)</strong> : Quản lí <strong>menubar</strong> tốt nhất
+                <a href="https://drive.google.com/drive/folders/1qvy1Loo6_Gh2CyD1Zms9N0rMPf8QpeOa?usp=sharing">Bartender 4</a><strong> (4.0.39)</strong> : Quản lí <strong>menubar</strong> tốt nhất
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-57-25-Keka.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1hbfQNxNpUUZaXTvR95gBI9aqXpaHSHxM?usp=sharing"> Keka</a>
-                <strong> (1.2.10)</strong>: Giải nén các thể loại file zip, taz, taz.gz...
+                <strong> (1.2.11)</strong>: Giải nén các thể loại file zip, taz, taz.gz...
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-39-CleanMyMac_X.png" alt="error_image">
@@ -63,7 +63,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-38-50-Downie.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1bEC8hbgY-RoP1sYCCiNMck0BAECPqO9d?usp=sharing"> Downie</a>
-                <strong> (4.1.17)</strong>: Tải  mọi video trên trình duyệt, tương tự <strong>IDM trên Window</strong>
+                <strong> (4.1.19)</strong>: Tải  mọi video trên trình duyệt, tương tự <strong>IDM trên Window</strong>
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-40-06-evkey.png" alt="error_image">
@@ -73,7 +73,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-46-48-Grid.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/11uQ7btUqfUTjVg_UN4pL46DbXle_LtuM?usp=sharing"> Grid</a>
-                <strong> (6.1.6)</strong>: Sử dụng Instagram trên Mac
+                <strong> (6.1.7)</strong>: Sử dụng Instagram trên Mac
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-53-44-hyperdock.png" alt="error_image">
@@ -122,7 +122,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-01-soundsource.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/1MjwERMVsFGIn4LVhvNX99JMigcgEi5gh?usp=sharing"> SoundSource</a>
-                <strong> (5.2.0)</strong>: Quản lí và boost âm thanh hay hơn
+                <strong> (5.3.1)</strong>: Quản lí và boost âm thanh hay hơn
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/12/06-13-12-45-Yoink.png" alt="error_image">
@@ -132,7 +132,7 @@
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-02-Sensei.png" alt="error_image">
                 <a href="https://drive.google.com/drive/folders/140vl2PDH5kk9HIZaj6j-G4zplp56JH8u?usp=sharing"> Sensei</a>
-                <strong> (1.3.4)</strong>: Tối ưu hoá và theo dõi tình trạng máy tính
+                <strong> (1.4.1)</strong>: Tối ưu hoá và theo dõi tình trạng máy tính
             </li>  
             <li>
                 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-15-TeamViewer_Alt.png" alt="error_image">
@@ -188,19 +188,19 @@
             <a href="https://drive.google.com/drive/folders/157TkWOePlDFpycebCsDo7YTjYIhu1lI6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-58-13-Mactracker.png" alt="error_image"> Mactracker</a><strong> (2.9.2)</strong>: Tra cứu mọi thiết bị của Apple  
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png" alt="error_image"> Camtasia</a><strong> (2020.0.14)</strong>: Công cụ quay màn hình và xuất bản video
+            <a href="https://drive.google.com/drive/folders/1RVtAQI9YIXAuHyH7oKIsulKVUYav2WHq?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-29-Camtasia.png" alt="error_image"> Camtasia</a><strong> (2020.0.15)</strong>: Công cụ quay màn hình và xuất bản video
         </li>
         <li> 
             <a href="https://drive.google.com/drive/folders/18czEN9Mv0Xg74qyJv7JoM_cUYj3UtiK0?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-15-BetterTouchTool.png" alt="error_image"> BetterTouchTool</a><strong> (3.553)</strong>: Công cụ tốt nhất tuỳ biến keyboard, mouse, trackpad
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png" alt="error_image"> Gifox</a><strong> (2.2.2)</strong>: Hỗ trợ quay màn hình xuất ra <strong>GIF</strong>
+            <a href="https://drive.google.com/drive/folders/1rJFbwDizOXYU5gTwPV2OwaoWB2K-WaS6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-41-Gifox.png" alt="error_image"> Gifox</a><strong> (2.2.5)</strong>: Hỗ trợ quay màn hình xuất ra <strong>GIF</strong>
         </li>
         <li>
             <a href="https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-55-Intel%20Power%20Gadget.png" alt="error_image"> Intel® Power Gadge</a><strong> (auto)</strong>: Quản lí điện năng CPU Intel (free)
         </li>
         <li>      
-            <a href="https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png" alt="error_image"> Ithoughts</a><strong> (5.25)</strong>: Tạo sơ đồ tư duy dễ dàng và trực quan
+            <a href="https://drive.google.com/drive/folders/1HYO4cYcuBSc7YA1htE6hTz1HDw2S6LkA?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-32-50-ithoughtX.png" alt="error_image"> Ithoughts</a><strong> (5.26)</strong>: Tạo sơ đồ tư duy dễ dàng và trực quan
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1XQuYA4CfPuo8RIk-TXP1gXwCbEadA8ru?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-37-22-BetterZip.png" alt="error_image"> BetterZip</a><strong> (5.03)</strong>: Công cụ giải nén mạnh mẽ và nhiều công cụ hữu ích  
@@ -227,7 +227,7 @@
     <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-14-04-26-Software%20Developer.png" alt="error_image"> Developer</summary>
     <ol>
         <li>
-            <a href="https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png" alt="error_image"> Sublime Text</a><strong> (4097)</strong>: Code Editor nhanh gọn nhất
+            <a href="https://drive.google.com/drive/folders/13ffhBB0tho5-slLFMdypJ2UG-qlwV1f3?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-01-12-Sublime%20Text%203.png" alt="error_image"> Sublime Text</a><strong> (4098)</strong>: Code Editor nhanh gọn nhất
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1Ufy94oPK5EOs23bQLWyyQU8Z8T-s7H0s?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-21-00-40-Navicat-Dark.png" alt="error_image"> Navicat Premium</a><strong> (15.0.25)</strong>: Quản lí cơ sở dữ liệu Database trực quan và tốt nhất
@@ -245,7 +245,7 @@
             <a href="https://drive.google.com/drive/folders/1gxJLPllnrw4Wpkg3eXTWb1AXNryyzQc6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-39-09-EverWeb.png" alt="error_image"> Everweb</a><strong> (3.4.2)</strong>: Thiết kế web trực quan, mạnh mẽ
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1wfTM3V0LHOdU4CqaU-Qe3gmNDq4qxrLp?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-25-34-84%20head.png" alt="error_image" width="50"> Dash</a><strong> (5.5.2)</strong>: Thư viện guide của tất cả ngôn ngữ 
+            <a href="https://drive.google.com/drive/folders/1wfTM3V0LHOdU4CqaU-Qe3gmNDq4qxrLp?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-25-34-84%20head.png" alt="error_image" width="50"> Dash</a><strong> (6.0.2)</strong>: Thư viện guide của tất cả ngôn ngữ 
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/12Vt635p0zhAh23K7wOS1gcLRGAdijbno?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-27-41-CodeRunner.png" alt="error_image"> CodeRunner</a><strong> (4.0.3)</strong>: Chạy code test nhanh gọn lẹ mọi ngôn ngữ
@@ -263,7 +263,7 @@
             <a href="https://drive.google.com/drive/folders/1weORyfPPsbyflhNY5F7L3UP9XN6HtbhP?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-43-38-imageascci.png" alt="error_image"> Image Ascii</a><strong> (2.3)</strong>: Convert ảnh qua các bảng mã Ascii, Hex...
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1qmarOJZ27zbgrb-Dx3dE6qai6UfVng-0?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-15-58-scrutiny.png" alt="error_image"> Scrutiny</a><strong> (10.2.0)</strong>: Kiểm tra và công cụ tối ưu 1 trang web tốt nhất
+            <a href="https://drive.google.com/drive/folders/1qmarOJZ27zbgrb-Dx3dE6qai6UfVng-0?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-15-58-scrutiny.png" alt="error_image"> Scrutiny</a><strong> (10.3.0)</strong>: Kiểm tra và công cụ tối ưu 1 trang web tốt nhất
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1CNa-qRVD7-KV3Tzp7OLPrM3B4EEVlnps?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/29-15-16-58-Screens_4.png" alt="error_image"> Screens</a><strong> (4.8.3)</strong>: Công cụ điều khiển màn hình máy tính từ xa độc quyền MacOS
@@ -275,13 +275,13 @@
     <summary id="menu"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/15-14-01-34-Design%20Algorithm.png" alt="error_image"> Designer</summary>
     <ol>
         <li>
-            <a href="https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="error_image"> Art Text</a><strong> (4.0.5)</strong>: Thiết kế font chữ
+            <a href="https://drive.google.com/drive/folders/1njbD3SComBB1D8bZpK-qOd-PU52dwCjU?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-52-06-art_text.png" alt="error_image"> Art Text</a><strong> (4.0.6)</strong>: Thiết kế font chữ
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png" alt="error_image"> Swift Publisher</a><strong> (5.5.7)</strong>: Mẫu template về poster tốt nhất
+            <a href="https://drive.google.com/drive/folders/1gaAe32hV8taRvmcxwZm36VBx16dGqVuT?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-20-54-swift%20publisher.png" alt="error_image"> Swift Publisher</a><strong> (5.5.8)</strong>: Mẫu template về poster tốt nhất
         </li>
         <li>   
-            <a href="https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png" alt="error_image"> Sketch</a><strong> (70.4)</strong>: Thiết kế UI/UX trực quan
+            <a href="https://drive.google.com/drive/folders/1bOCl16kLWWVtNT-usb_wfNkKGO25h-hL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-16-sketch.png" alt="error_image"> Sketch</a><strong> (70.6)</strong>: Thiết kế UI/UX trực quan
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1OjCDAFbtHlYVwmmhdighkW_XDZT7PNlp?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-12-53-19-logoist.png" alt="error_image"> Logoist</a><strong> (4.1)</strong>: Thiết kế <b>icon</b> dễ dàng trực quan
@@ -290,10 +290,10 @@
             <a href="https://drive.google.com/drive/folders/1JdB5oP0VtnTETmb56ok5cPnPjCncRhWK?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-55-35-Icons_8.png" alt="error_image"> Icons8</a><strong> (5.7.4)</strong>: Kho icon đầy đủ và mạnh mẽ
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png" alt="error_image"> IconJar</a><strong> (2.7.1)</strong>: Quản lí mọi icon
+            <a href="https://drive.google.com/drive/folders/1hce3GZZ8RySDmmztR5wAoE59nj0Nqo3W?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-19-40-10-iconjar.png" alt="error_image"> IconJar</a><strong> (2.7.3)</strong>: Quản lí mọi icon
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png" alt="error_image"> Drop</a><strong> (1.6.3)</strong>: Lấy màu mã hex, dành cho dân thiết kế
+            <a href="https://drive.google.com/drive/folders/19q5nmJIADqfOO4NJEEzQmDyWgWfnM3Kj?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/25-20-32-56-Drop.png" alt="error_image"> Drop</a><strong> (1.6.4)</strong>: Lấy màu mã hex, dành cho dân thiết kế
         </li>
         <li>
             <a href="https://drive.google.com/drive/folders/1mEZX3VLHzLwYV3Co06ubUQ1gUAwIg0k6?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-20-20-51-Aurora.png" alt="error_image"> Aurora HDR</a><strong> (1.0.1)</strong>: Tạo ảnh HDR chỉ trong 1 nốt nhạc
@@ -320,7 +320,7 @@
             <a href="https://drive.google.com/drive/folders/1A1iYMfSws-yKfEkbREZHHX61wow_L3nU?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/26-13-25-07-smallimage.png" alt="error_image"> Small Image</a><strong> (2.5)</strong>: Tuỳ chỉnh kích thước các hình ảnh
         </li>
         <li>
-            <a href="https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png" alt="error_image"> Blocs</a><strong> (4.0.4)</strong>: Thiết kế web theo từng block và trực quan
+            <a href="https://drive.google.com/drive/folders/1RFGCKMdEHEQ_a6CVGO0-UxBw8lIiXstL?usp=sharing"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2020/11/28-15-02-27-blocs.png" alt="error_image"> Blocs</a><strong> (4.1.0)</strong>: Thiết kế web theo từng block và trực quan
         </li>
    </ol> 
 </details>
