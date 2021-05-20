@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<polygon class="st5" points="127,103 45,32 5,32 5,142 5,252 45,252 127,181 147,181 147,142 147,103 			"/>
+		</g>
+		<g>
+			<rect x="147" y="100" class="st7" width="50" height="84"/>
+		</g>
+		<g>
+			<rect x="457" y="100" class="st7" width="50" height="84"/>
+		</g>
+		<g>
+			<path class="st7" d="M377,455H277c-11.046,0-20-8.954-20-20V275h140v160C397,446.046,388.046,455,377,455z"/>
+		</g>
+		<g>
+			<rect x="287" y="265" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 642 -12)" class="st4" width="80" height="100"/>
+		</g>
+		<g>
+			<rect x="217" y="255" class="st9" width="220" height="20"/>
+		</g>
+		<path class="st8" d="M457,100c0,0-16.654-14.868-43.797-28.388L399.83,26.478C396.085,13.832,384.256,5,371.066,5h-88.133
+			c-13.189,0-25.019,8.832-28.764,21.478l-13.373,45.134C213.654,85.132,197,100,197,100v84c0,0,19.216,17.15,50,31.362V255h160
+			v-39.638C437.784,201.15,457,184,457,184V100z M273.346,32.159c1.249-4.215,5.191-7.159,9.588-7.159h88.133
+			c4.396,0,8.339,2.944,9.588,7.159l8.656,29.212C371.004,54.775,349.863,50,327,50s-44.004,4.775-62.31,11.372L273.346,32.159z"/>
+		<g>
+			<polygon class="st5" points="441,468 421,468 421,441.448 407.857,295 397,295 397,275 426.143,275 441,441 			"/>
+		</g>
+		<g>
+			<rect x="418" y="468" class="st4" width="26" height="39"/>
+		</g>
+		<g>
+			<polygon class="st5" points="233,468 213,468 213,440.552 227.857,275 257,275 257,295 246.143,295 233,441.448 			"/>
+		</g>
+		<g>
+			<rect x="210" y="468" transform="matrix(-1 -4.460044e-11 4.460044e-11 -1 446 975)" class="st4" width="26" height="39"/>
+		</g>
+	</g>
+</g>
+</svg>

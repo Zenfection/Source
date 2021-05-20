@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<rect x="5" y="116" class="st5" width="502" height="280"/>
+		</g>
+		<g>
+			<rect x="377" y="46" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 533 -241)" class="st7" width="20" height="200"/>
+		</g>
+		<g>
+			<rect x="377" y="101" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 588 -186)" class="st7" width="20" height="200"/>
+		</g>
+		<g>
+			<rect x="377" y="156" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 643 -131)" class="st7" width="20" height="200"/>
+		</g>
+		<g>
+			<rect x="377" y="211" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 698 -76)" class="st7" width="20" height="200"/>
+		</g>
+		<g>
+			<rect x="377" y="266" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 753 -21)" class="st7" width="20" height="200"/>
+		</g>
+		<g>
+			<path class="st7" d="M25,356V156c0-11.046,8.954-20,20-20h200c11.046,0,20,8.954,20,20v200c0,11.046-8.954,20-20,20H45
+				C33.954,376,25,367.046,25,356z"/>
+		</g>
+		<g>
+			<circle class="st4" cx="145" cy="256" r="30"/>
+		</g>
+		<g>
+			<circle class="st6" cx="145" cy="256" r="20"/>
+		</g>
+		<g>
+			<polygon class="st4" points="159,205 131,205 121,107 169,107 			"/>
+		</g>
+		<g>
+			<circle class="st4" cx="199" cy="136" r="20"/>
+		</g>
+		<g>
+			<circle class="st5" cx="199" cy="136" r="10"/>
+		</g>
+		<g>
+			<circle class="st4" cx="91" cy="136" r="20"/>
+		</g>
+		<g>
+			<circle class="st5" cx="91" cy="136" r="10"/>
+		</g>
+	</g>
+</g>
+</svg>

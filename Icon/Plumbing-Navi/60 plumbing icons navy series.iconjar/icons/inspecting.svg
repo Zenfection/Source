@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<g>
+				<rect x="110.496" y="35" class="st4" width="180" height="442"/>
+			</g>
+			<g>
+				
+					<rect x="100.496" y="477" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 400.9917 984)" class="st6" width="200" height="30"/>
+			</g>
+			<g>
+				
+					<rect x="100.496" y="5" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 400.9917 40)" class="st6" width="200" height="30"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st5" d="M304.246,322.242l139.492,139.492c10.355,10.355,10.355,27.145,0,37.5l0,0
+					c-10.355,10.355-27.145,10.355-37.5,0L267.246,360.242L304.246,322.242z"/>
+			</g>
+			<g>
+				<path class="st7" d="M304.246,322.242l-37,38l26.031,26.031c14.475-10.338,27.162-23.025,37.5-37.5L304.246,322.242z"/>
+			</g>
+			<g>
+				<circle class="st5" cx="200.496" cy="255.992" r="140"/>
+			</g>
+			<g>
+				<circle class="st0" cx="200.496" cy="255.992" r="110"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

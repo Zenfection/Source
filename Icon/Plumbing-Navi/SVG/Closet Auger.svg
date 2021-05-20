@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<g>
+				<path class="st7" d="M179.214,499c-31.43,0-57-25.57-57-57v-50.592c0-15.058,3.125-29.658,9.29-43.396l17.472-38.938
+					c5.466-12.182,8.238-25.129,8.238-38.482V230h12v40.592c0,15.058-3.125,29.658-9.29,43.396l-17.472,38.938
+					c-5.466,12.182-8.238,25.129-8.238,38.482V442c0,24.813,20.187,45,45,45V499z"/>
+			</g>
+			<g>
+				<rect x="92.214" y="5" class="st4" width="60" height="20"/>
+			</g>
+			<g>
+				<rect x="92.214" y="105" class="st4" width="60" height="20"/>
+			</g>
+			<g>
+				<rect x="102.214" y="25" class="st6" width="40" height="80"/>
+			</g>
+			<g>
+				<polygon class="st4" points="167.214,165 167.214,185 172.214,185 172.214,245 152.214,245 152.214,265 212.214,265 
+					212.214,245 212.214,185 217.214,185 217.214,165 				"/>
+			</g>
+			<g>
+				<rect x="179.214" y="265" class="st5" width="26" height="200"/>
+			</g>
+			<g>
+				<rect x="179.214" y="465" class="st4" width="26" height="42"/>
+			</g>
+			<g>
+				<polygon class="st5" points="198.214,165 186.214,165 186.214,151 116.214,151 116.214,125 128.214,125 128.214,139 
+					198.214,139 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st7" d="M343,499c-31.43,0-57-25.57-57-57v-50.592c0-15.058,3.125-29.658,9.29-43.396l17.472-38.938
+					c5.466-12.182,8.238-25.129,8.238-38.482V230h12v40.592c0,15.058-3.125,29.658-9.29,43.396l-17.472,38.938
+					c-5.466,12.182-8.238,25.129-8.238,38.482V442c0,24.813,20.187,45,45,45V499z"/>
+			</g>
+			<g>
+				<rect x="256" y="5" class="st8" width="60" height="20"/>
+			</g>
+			<g>
+				<rect x="256" y="105" class="st8" width="60" height="20"/>
+			</g>
+			<g>
+				<rect x="266" y="25" class="st9" width="40" height="80"/>
+			</g>
+			<g>
+				<polygon class="st8" points="331,165 331,185 336,185 336,245 316,245 316,265 376,265 376,245 376,185 381,185 381,165 				"/>
+			</g>
+			<g>
+				<rect x="343" y="265" class="st5" width="26" height="200"/>
+			</g>
+			<g>
+				<rect x="343" y="465" class="st8" width="26" height="42"/>
+			</g>
+			<g>
+				<polygon class="st5" points="362,165 350,165 350,151 280,151 280,125 292,125 292,139 362,139 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

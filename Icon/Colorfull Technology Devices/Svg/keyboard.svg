@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F9DE6B;}
+	.st1{fill:#BFD6DD;}
+	.st2{fill:#2F5C72;}
+</style>
+<g>
+	<rect x="248.5" y="76" class="st0" width="15" height="30"/>
+	<polygon class="st1" points="53.5,233.5 38.5,233.5 38.5,436 428.5,436 428.5,443.5 443.5,443.5 443.5,436 458.5,436 458.5,443.5 
+		473.5,443.5 473.5,241 83.5,241 83.5,233.5 68.5,233.5 68.5,241 53.5,241 	"/>
+	<g>
+		<rect x="428.5" y="271" class="st0" width="15" height="45"/>
+		<rect x="368.5" y="271" class="st0" width="15" height="15"/>
+		<rect x="368.5" y="331" class="st0" width="15" height="15"/>
+		<rect x="428.5" y="361" class="st0" width="15" height="45"/>
+		<rect x="368.5" y="391" class="st0" width="15" height="15"/>
+		<rect x="248.5" y="271" class="st0" width="15" height="15"/>
+		<polygon class="st0" points="308.5,271 323.5,271 323.5,346 248.5,346 248.5,331 308.5,331 		"/>
+		<rect x="308.5" y="391" class="st0" width="15" height="15"/>
+		<rect x="248.5" y="391" class="st0" width="15" height="15"/>
+		<rect x="188.5" y="271" class="st0" width="15" height="15"/>
+		<rect x="188.5" y="331" class="st0" width="15" height="15"/>
+		<rect x="128.5" y="271" class="st0" width="15" height="15"/>
+		<rect x="128.5" y="331" class="st0" width="15" height="15"/>
+		<rect x="68.5" y="391" class="st0" width="135" height="15"/>
+		<rect x="68.5" y="271" class="st0" width="15" height="15"/>
+		<rect x="68.5" y="331" class="st0" width="15" height="15"/>
+	</g>
+	<g>
+		<path class="st2" d="M413.5,331h45v-75h-45V331z M428.5,271h15v45h-15V271z"/>
+		<path class="st2" d="M398.5,256h-45v45h45V256z M383.5,286h-15v-15h15V286z"/>
+		<path class="st2" d="M353.5,361h45v-45h-45V361z M368.5,331h15v15h-15V331z"/>
+		<path class="st2" d="M413.5,421h45v-75h-45V421z M428.5,361h15v45h-15V361z"/>
+		<path class="st2" d="M353.5,421h45v-45h-45V421z M368.5,391h15v15h-15V391z"/>
+		<path class="st2" d="M233.5,256v45h45v-45H233.5z M263.5,286h-15v-15h15V286z"/>
+		<path class="st2" d="M233.5,361h105V256h-45v60h-60V361z M248.5,331h60v-60h15v75h-75V331z"/>
+		<path class="st2" d="M338.5,421v-45h-45v45H338.5z M308.5,391h15v15h-15V391z"/>
+		<path class="st2" d="M233.5,421h45v-45h-45V421z M248.5,391h15v15h-15V391z"/>
+		<path class="st2" d="M218.5,256h-45v45h45V256z M203.5,286h-15v-15h15V286z"/>
+		<path class="st2" d="M173.5,361h45v-45h-45V361z M188.5,331h15v15h-15V331z"/>
+		<path class="st2" d="M158.5,256h-45v45h45V256z M143.5,286h-15v-15h15V286z"/>
+		<path class="st2" d="M113.5,361h45v-45h-45V361z M128.5,331h15v15h-15V331z"/>
+		<path class="st2" d="M218.5,376h-165v45h165V376z M203.5,406h-135v-15h135V406z"/>
+		<path class="st2" d="M98.5,256h-45v45h45V256z M83.5,286h-15v-15h15V286z"/>
+		<path class="st2" d="M98.5,316h-45v45h45V316z M83.5,346h-15v-15h15V346z"/>
+		<rect x="53.5" y="226" class="st2" width="15" height="15"/>
+		<path class="st2" d="M263.5,226v-30h-50.8v-15h101.7v-45h-50.8v-15h15V61h-45v60h15v30h50.8v15H197.7v45h50.8v15h-165v15h390v210
+			h15V226H263.5z M248.5,76h15v30h-15V76z"/>
+		<polygon class="st2" points="38.5,226 23.5,226 23.5,451 428.5,451 428.5,436 38.5,436 		"/>
+		<rect x="443.5" y="436" class="st2" width="15" height="15"/>
+	</g>
+</g>
+</svg>

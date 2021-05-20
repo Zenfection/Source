@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<rect x="101" y="25" class="st5" width="310" height="463"/>
+		</g>
+		<g>
+			<rect x="156" y="320" class="st7" width="200" height="168"/>
+		</g>
+		<g>
+			<polygon class="st7" points="366,5 256,5 146,5 126,25 256,25 386,25 			"/>
+		</g>
+		<g>
+			<rect x="360" y="488" class="st7" width="40" height="19"/>
+		</g>
+		<g>
+			<rect x="112" y="488" transform="matrix(-1 -4.497481e-11 4.497481e-11 -1 264 995)" class="st7" width="40" height="19"/>
+		</g>
+		<g>
+			<circle class="st8" cx="256" cy="413" r="50"/>
+		</g>
+		<g>
+			<circle class="st4" cx="256" cy="413" r="40"/>
+		</g>
+		<g>
+			<circle class="st4" cx="256" cy="342" r="10"/>
+		</g>
+		<g>
+			<circle class="st4" cx="220.5" cy="351.512" r="10"/>
+		</g>
+		<g>
+			<circle class="st4" cx="194.512" cy="377.5" r="10"/>
+		</g>
+		<g>
+			<circle class="st4" cx="291.5" cy="351.512" r="10"/>
+		</g>
+		<g>
+			<circle class="st4" cx="317.488" cy="377.5" r="10"/>
+		</g>
+		<g>
+			<g>
+				<path class="st10" d="M256,116l10.32,25.801c4.582,11.456,19.385,14.494,28.109,5.77L296,146l12.312,30.779
+					c11.434,28.586-0.601,62.513-28.957,74.506C272.176,254.321,264.284,256,256,256s-16.176-1.679-23.355-4.715
+					c-28.356-11.994-40.391-45.92-28.957-74.506L216,146l1.57,1.57c8.724,8.724,23.527,5.686,28.109-5.77L256,116z"/>
+			</g>
+			<g>
+				<path class="st11" d="M256,166l7.569,18.922c2.503,6.259,10.59,7.918,15.357,3.152l2.789-2.789l7.635,19.088
+					c8.926,22.316-4.759,48.42-28.616,51.339c-1.551,0.19-3.131,0.288-4.733,0.288c-1.602,0-3.182-0.098-4.733-0.288
+					c-23.857-2.919-37.543-29.023-28.616-51.339l7.635-19.088l2.789,2.789c4.766,4.766,12.853,3.106,15.357-3.152L256,166z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

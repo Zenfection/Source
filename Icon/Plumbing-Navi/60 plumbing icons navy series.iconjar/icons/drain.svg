@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<rect x="25" y="91" class="st4" width="462" height="86"/>
+		</g>
+		<g>
+			<g>
+				<path class="st5" d="M156,255.714v60c0,22.091,17.909,40,40,40h10V507h100V355.714h10c22.091,0,40-17.909,40-40v-60H156z"/>
+			</g>
+			<g>
+				<rect x="156" y="255.714" class="st7" width="200" height="20"/>
+			</g>
+			<g>
+				<path class="st0" d="M176,255.714v60c0,11.046,8.954,20,20,20h0c16.569,0,30,13.431,30,30V507h60V365.714
+					c0-16.569,13.431-30,30-30h0c11.046,0,20-8.954,20-20v-60H176z"/>
+			</g>
+			<g>
+				<rect x="176" y="255.714" class="st1" width="160" height="20"/>
+			</g>
+			<g>
+				<rect x="196" y="420.714" class="st7" width="120" height="20"/>
+			</g>
+			<g>
+				<path class="st5" d="M487,91v125c0,11.028-8.972,20-20,20H45c-11.028,0-20-8.972-20-20V91H5v124.714c0,22.091,17.909,40,40,40
+					h422c22.091,0,40-17.909,40-40V91H487z"/>
+			</g>
+			<g>
+				<path class="st0" d="M466.658,166.424c-11.551,6.003-25.301,6.003-36.852,0L409.75,156l-20.049,10.421
+					c-11.552,6.005-25.303,6.005-36.856,0L332.796,156l-20.048,10.421c-11.553,6.005-25.304,6.005-36.857,0L255.844,156
+					l-20.042,10.419c-11.553,6.006-25.305,6.006-36.859,0.001L178.898,156l-20.048,10.421c-11.552,6.005-25.304,6.005-36.856,0
+					L101.947,156l-20.044,10.42c-11.553,6.006-25.306,6.006-36.859,0L25,156v60c0,11.028,8.972,20,20,20h422
+					c11.028,0,20-8.972,20-20v-60L466.658,166.424z"/>
+			</g>
+			<g>
+				<rect x="136" y="226" class="st5" width="240" height="29.714"/>
+			</g>
+			<g>
+				<rect x="376" y="236" class="st7" width="20" height="19.714"/>
+			</g>
+			<g>
+				<rect x="116" y="236" class="st7" width="20" height="19.714"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

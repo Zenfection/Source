@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<circle class="st0" cx="186.5" cy="162.5" r="24.5"/>
+		</g>
+		<g>
+			<rect x="153" y="156" class="st8" width="40" height="60"/>
+		</g>
+		<g>
+			<rect x="222" y="156" class="st10" width="40" height="60"/>
+		</g>
+		<g>
+			
+				<rect x="183.355" y="160.645" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -65.2447 203.7746)" class="st12" width="60" height="40"/>
+		</g>
+		<g>
+			<rect x="367" y="249" class="st7" width="140" height="258"/>
+		</g>
+		<g>
+			<path class="st0" d="M363.184,290.893l-20.757,11.954c-9.267,5.337-20.675,5.337-29.943,0l-20.757-11.954l-20.757,11.954
+				c-9.267,5.337-20.675,5.337-29.943,0l-20.757-11.954l-20.757,11.954c-9.267,5.337-20.675,5.337-29.943,0l-20.757-11.954
+				l-20.756,11.954c-9.267,5.337-20.675,5.337-29.943,0L77.36,290.893l-21.12,12.259c-9.312,5.405-20.807,5.405-30.12,0L5,290.893
+				V507h362V293.09L363.184,290.893z"/>
+		</g>
+		<path class="st4" d="M372,188c-25.916,0-47,21.084-47,47v240h14V332h28v-14h-28v-34h28v-14h-28v-35c0-18.196,14.804-33,33-33h12
+			v-14H372z"/>
+		<g>
+			<rect x="286" y="98" class="st5" width="221" height="20"/>
+		</g>
+		<g>
+			<rect x="138" y="181" class="st4" width="136" height="10"/>
+		</g>
+		<path class="st4" d="M126,98v30h7v68c0,13.785,11.215,25,25,25h96c13.785,0,25-11.215,25-25v-68h7V98H126z M235,128v20h-24v-20
+			H235z M211,158h24v53h-24V158z M201,211h-24v-53h24V211z M201,128v20h-24v-20H201z M167,128v20h-24v-20H167z M143,196v-38h24v53
+			h-9C149.729,211,143,204.271,143,196z M254,211h-9v-53h24v38C269,204.271,262.271,211,254,211z M269,148h-24v-20h24V148z"/>
+	</g>
+</g>
+</svg>

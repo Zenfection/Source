@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#353744;}
+	.st1{fill:#F68820;}
+	.st2{fill:#808080;}
+	.st3{fill:#5C76B2;}
+	.st4{fill:#6FA4D8;}
+	.st5{fill:#DBDEE3;}
+	.st6{fill:#B3B4B6;}
+	.st7{fill:#FBBE18;}
+	.st8{fill:#EEC78E;}
+	.st9{fill:#DB9E68;}
+	.st10{fill:#55525B;}
+	.st11{fill:#FFFFFF;}
+	.st12{fill:#1C1D28;}
+	.st13{fill:#FBD301;}
+	.st14{fill:#BE7850;}
+	.st15{fill:#4C52A3;}
+	.st16{fill:#BF6B1E;}
+	.st17{fill:#5F7ABC;}
+	.st18{fill:#D4761E;}
+	.st19{fill:#5D76B2;}
+	.st20{fill:#668DC5;}
+</style>
+<g>
+	<g>
+		<path class="st7" d="M32,15c-3.859,0-7-3.141-7-7s3.141-7,7-7s7,3.141,7,7S35.859,15,32,15z M32,5c-1.654,0-3,1.346-3,3
+			s1.346,3,3,3s3-1.346,3-3S33.654,5,32,5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M32,15c-3.859,0-7-3.141-7-7h4c0,1.654,1.346,3,3,3s3-1.346,3-3h4C39,11.859,35.859,15,32,15z"/>
+	</g>
+	<g>
+		<path class="st1" d="M36,15h-8C14.745,15,4,25.745,4,39s10.745,24,24,24h8c13.255,0,24-10.745,24-24l0,0
+			C60,25.745,49.255,15,36,15z"/>
+	</g>
+	<g>
+		<circle class="st7" cx="28" cy="39" r="24"/>
+	</g>
+	<g>
+		<circle class="st10" cx="28" cy="39" r="18"/>
+	</g>
+	<g>
+		<path class="st1" d="M34,15h-4v-4c0-1.105,0.895-2,2-2l0,0c1.105,0,2,0.895,2,2V15z"/>
+	</g>
+	<g>
+		<ellipse class="st5" cx="28" cy="39" rx="19.442" ry="8.5"/>
+	</g>
+	<g>
+		<circle class="st4" cx="28" cy="39" r="8.5"/>
+	</g>
+	<g>
+		<circle class="st10" cx="28" cy="39" r="3.5"/>
+	</g>
+	<g>
+		<circle class="st5" cx="25" cy="36" r="3"/>
+	</g>
+	<g>
+		<path class="st5" d="M27.538,23.608l-1.75,4.2c-0.137,0.329,0.105,0.692,0.462,0.692h3.5c0.357,0,0.599-0.363,0.462-0.692
+			l-1.75-4.2C28.291,23.197,27.709,23.197,27.538,23.608z"/>
+	</g>
+	<g>
+		<path class="st5" d="M27.538,54.392l-1.75-4.2c-0.137-0.329,0.105-0.692,0.462-0.692h3.5c0.357,0,0.599,0.363,0.462,0.692
+			l-1.75,4.2C28.291,54.803,27.709,54.803,27.538,54.392z"/>
+	</g>
+	<g>
+		<path class="st7" d="M32,9c-1.105,0-2,0.895-2,2v4h2V9z"/>
+	</g>
+</g>
+</svg>

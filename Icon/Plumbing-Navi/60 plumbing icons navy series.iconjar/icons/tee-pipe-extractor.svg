@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<g>
+				<path class="st5" d="M430,472c-40,0-77-19-77-19V256h77h77v197C507,453,470,472,430,472z"/>
+			</g>
+			<g>
+				<polygon class="st5" points="430,222 501,222 501,50 493,32 430,32 367,32 359,50 359,222 				"/>
+			</g>
+			<g>
+				<path class="st7" d="M430,222h-65v22l-12,12c0,0,37,11,77,11s77-11,77-11l-12-12v-22H430z"/>
+			</g>
+			<g>
+				<path class="st7" d="M422,471.738V363c0,0-29-34-69-20v110C353,453,386.572,469.483,422,471.738z"/>
+			</g>
+			<g>
+				<path class="st7" d="M438,471.738V363c0,0,29-34,69-20v110C507,453,473.428,469.483,438,471.738z"/>
+			</g>
+			<g>
+				<polygon class="st7" points="359,50 501,50 493,32 367,32 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st5" d="M245.25,472c-40,0-66-19-66-19V256h66h66v197C311.25,453,285.25,472,245.25,472z"/>
+			</g>
+			<g>
+				<polygon class="st5" points="245.25,222 305.25,222 305.25,80 297.25,62 245.25,62 193.25,62 185.25,80 185.25,222 				"/>
+			</g>
+			<g>
+				<path class="st7" d="M245.25,222h-54v22l-12,12c0,0,26,11,66,11s66-11,66-11l-12-12v-22H245.25z"/>
+			</g>
+			<g>
+				<path class="st7" d="M237.25,471.738V363c0,0-18-34-58-20v110C179.25,453,201.822,469.483,237.25,471.738z"/>
+			</g>
+			<g>
+				<path class="st7" d="M253.25,471.738V363c0,0,18-34,58-20v110C311.25,453,288.678,469.483,253.25,471.738z"/>
+			</g>
+			<g>
+				<polygon class="st7" points="185.25,80 305.25,80 297.25,62 193.25,62 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st5" d="M61,472c-40,0-56-19-56-19V256h56h55v197C116,453,101,472,61,472z"/>
+			</g>
+			<g>
+				<polygon class="st5" points="61,222 110,222 110,101 102,83 61,83 19,83 11,101 11,222 				"/>
+			</g>
+			<g>
+				<path class="st7" d="M61,222H17v22L5,256c0,0,16,11,56,11s55-11,55-11l-12-12v-22H61z"/>
+			</g>
+			<g>
+				<path class="st7" d="M53,471.738V363c0,0-8-34-48-20v110C5,453,17.572,469.483,53,471.738z"/>
+			</g>
+			<g>
+				<path class="st7" d="M69,471.738V363c0,0,7-34,47-20v110C116,453,104.428,469.483,69,471.738z"/>
+			</g>
+			<g>
+				<polygon class="st7" points="11,101 110,101 102,83 19,83 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

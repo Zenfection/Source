@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<rect x="266" y="125" class="st7" width="40" height="182"/>
+		</g>
+		<g>
+			<path class="st5" d="M206,5v302h40V185c0-33.137,26.863-60,60-60h0V5H206z"/>
+		</g>
+		<polygon class="st0" points="206,307 206,330 166,330 166,370 206,370 206,507 246,507 246,307 		"/>
+		<g>
+			<rect x="106" y="34" class="st4" width="100" height="40"/>
+		</g>
+		<g>
+			<rect x="86" y="39" class="st5" width="20" height="30"/>
+		</g>
+		<g>
+			<rect x="196" y="96" class="st7" width="10" height="30"/>
+		</g>
+		<g>
+			<rect x="196" y="146" class="st7" width="10" height="30"/>
+		</g>
+		<g>
+			<rect x="196" y="196" class="st7" width="10" height="30"/>
+		</g>
+		<polygon class="st0" points="306,330 306,307 266,307 266,507 306,507 306,370 346,370 346,330 		"/>
+		<g>
+			<circle class="st7" cx="256" cy="41" r="15"/>
+		</g>
+		<g>
+			<circle class="st7" cx="256" cy="85" r="15"/>
+		</g>
+	</g>
+</g>
+</svg>

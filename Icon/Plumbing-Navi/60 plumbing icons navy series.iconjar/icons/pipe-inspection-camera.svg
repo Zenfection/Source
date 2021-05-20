@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<rect x="56" y="378" class="st4" width="400" height="129"/>
+		</g>
+		<g>
+			<rect x="76" y="169" class="st6" width="360" height="209"/>
+		</g>
+		<g>
+			<polygon class="st6" points="327,484 184,484 184,434 208,434 208,460 303,460 303,434 327,434 			"/>
+		</g>
+		<g>
+			<rect x="176" y="418" class="st5" width="40" height="16"/>
+		</g>
+		<g>
+			<rect x="296" y="418" transform="matrix(-1 -4.474744e-11 4.474744e-11 -1 632 852)" class="st5" width="40" height="16"/>
+		</g>
+		<g>
+			<rect x="126" y="198" class="st5" width="260" height="150"/>
+		</g>
+		<g>
+			<rect x="211" y="173" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 529 17)" class="st0" width="90" height="200"/>
+		</g>
+		<g>
+			<path class="st10" d="M256,105c35.29,0,64,28.71,64,64h30c0-51.915-42.085-94-94-94s-94,42.085-94,94h30
+				C192,133.71,220.71,105,256,105z"/>
+		</g>
+		<g>
+			<path class="st11" d="M256,75c51.832,0,94,42.168,94,94h30c0-68.483-55.517-124-124-124c-68.483,0-124,55.517-124,124h30
+				C162,117.168,204.168,75,256,75z"/>
+		</g>
+		<path class="st10" d="M256,15h-90v30h90c33.122,0,64.261,12.898,87.681,36.319C367.102,104.739,380,135.878,380,169h30
+			C410,83.948,341.052,15,256,15z"/>
+		<g>
+			<rect x="96" y="10" class="st6" width="70" height="40"/>
+		</g>
+		<g>
+			<rect x="86" y="5" class="st4" width="10" height="50"/>
+		</g>
+		<g>
+			<rect x="76" y="15" class="st0" width="10" height="30"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<g>
+				<path class="st10" d="M5,196v120h502V196H5z M96,296c-22.09,0-40-17.91-40-40s17.91-40,40-40c22.09,0,40,17.91,40,40
+					S118.09,296,96,296z M416,296c-22.09,0-40-17.91-40-40s17.91-40,40-40s40,17.91,40,40S438.09,296,416,296z"/>
+			</g>
+		</g>
+		<g>
+			<path class="st4" d="M96,206c-27.61,0-50,22.39-50,50s22.39,50,50,50s50-22.39,50-50S123.61,206,96,206z M96,296
+				c-22.09,0-40-17.91-40-40s17.91-40,40-40c22.09,0,40,17.91,40,40S118.09,296,96,296z"/>
+		</g>
+		<g>
+			<path class="st12" d="M86,294.74c3.196,0.823,6.547,1.26,10,1.26s6.804-0.438,10-1.26V217.26c-3.196-0.823-6.547-1.26-10-1.26
+				s-6.804,0.438-10,1.26V294.74z"/>
+		</g>
+		<g>
+			<path class="st4" d="M416,206c-27.61,0-50,22.39-50,50s22.39,50,50,50s50-22.39,50-50S443.61,206,416,206z M416,296
+				c-22.09,0-40-17.91-40-40s17.91-40,40-40s40,17.91,40,40S438.09,296,416,296z"/>
+		</g>
+		<g>
+			<path class="st12" d="M395.678,290.464c-2.842-1.678-5.521-3.738-7.962-6.18s-4.502-5.12-6.18-7.962l54.786-54.786
+				c2.842,1.678,5.521,3.738,7.962,6.18s4.502,5.12,6.18,7.962L395.678,290.464z"/>
+		</g>
+		<g>
+			<rect x="206" y="236" class="st4" width="100" height="40"/>
+		</g>
+		<g>
+			<rect x="206" y="246" class="st12" width="100" height="20"/>
+		</g>
+		<g>
+			<rect x="442" y="251" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 758 -246)" class="st4" width="120" height="10"/>
+		</g>
+		<g>
+			<rect x="-50" y="251" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 266 246)" class="st4" width="120" height="10"/>
+		</g>
+	</g>
+</g>
+</svg>

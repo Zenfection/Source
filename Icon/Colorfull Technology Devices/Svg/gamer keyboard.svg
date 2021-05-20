@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BFD6DD;}
+	.st1{fill:#F9DE6B;}
+	.st2{fill:#2F5C72;}
+</style>
+<g>
+	<polygon class="st0" points="53.5,226 38.5,226 38.5,428.5 428.5,428.5 428.5,436 443.5,436 443.5,428.5 458.5,428.5 458.5,436 
+		473.5,436 473.5,233.5 83.5,233.5 83.5,226 68.5,226 68.5,233.5 53.5,233.5 	"/>
+	<g>
+		<rect x="428.5" y="263.5" class="st1" width="15" height="45"/>
+		<rect x="368.5" y="263.5" class="st1" width="15" height="15"/>
+		<rect x="368.5" y="323.5" class="st1" width="15" height="15"/>
+		<rect x="428.5" y="353.5" class="st1" width="15" height="45"/>
+		<rect x="368.5" y="383.5" class="st1" width="15" height="15"/>
+		<rect x="248.5" y="263.5" class="st1" width="15" height="15"/>
+		<polygon class="st1" points="308.5,263.5 323.5,263.5 323.5,338.5 248.5,338.5 248.5,323.5 308.5,323.5 		"/>
+		<rect x="308.5" y="383.5" class="st1" width="15" height="15"/>
+		<rect x="248.5" y="383.5" class="st1" width="15" height="15"/>
+		<rect x="188.5" y="263.5" class="st1" width="15" height="15"/>
+		<rect x="188.5" y="323.5" class="st1" width="15" height="15"/>
+		<rect x="128.5" y="263.5" class="st1" width="15" height="15"/>
+		<rect x="128.5" y="323.5" class="st1" width="15" height="15"/>
+		<rect x="68.5" y="383.5" class="st1" width="135" height="15"/>
+		<rect x="68.5" y="263.5" class="st1" width="15" height="15"/>
+		<rect x="68.5" y="323.5" class="st1" width="15" height="15"/>
+	</g>
+	<path class="st2" d="M413.5,248.5v75h45v-75H413.5z M443.5,308.5h-15v-45h15V308.5z"/>
+	<path class="st2" d="M353.5,248.5v45h45v-45H353.5z M383.5,278.5h-15v-15h15V278.5z"/>
+	<path class="st2" d="M353.5,308.5v45h45v-45H353.5z M383.5,338.5h-15v-15h15V338.5z"/>
+	<path class="st2" d="M413.5,338.5v75h45v-75H413.5z M443.5,398.5h-15v-45h15V398.5z"/>
+	<path class="st2" d="M353.5,368.5v45h45v-45H353.5z M383.5,398.5h-15v-15h15V398.5z"/>
+	<path class="st2" d="M233.5,248.5v45h45v-45H233.5z M263.5,278.5h-15v-15h15V278.5z"/>
+	<path class="st2" d="M293.5,248.5v60h-60v45h105v-105H293.5z M323.5,338.5h-75v-15h60v-60h15V338.5z"/>
+	<path class="st2" d="M293.5,368.5v45h45v-45H293.5z M323.5,398.5h-15v-15h15V398.5z"/>
+	<path class="st2" d="M233.5,368.5v45h45v-45H233.5z M263.5,398.5h-15v-15h15V398.5z"/>
+	<path class="st2" d="M173.5,248.5v45h45v-45H173.5z M203.5,278.5h-15v-15h15V278.5z"/>
+	<path class="st2" d="M173.5,308.5v45h45v-45H173.5z M203.5,338.5h-15v-15h15V338.5z"/>
+	<path class="st2" d="M113.5,248.5v45h45v-45H113.5z M143.5,278.5h-15v-15h15V278.5z"/>
+	<path class="st2" d="M113.5,308.5v45h45v-45H113.5z M143.5,338.5h-15v-15h15V338.5z"/>
+	<path class="st2" d="M53.5,368.5v45h165v-45H53.5z M203.5,398.5h-135v-15h135V398.5z"/>
+	<path class="st2" d="M53.5,248.5v45h45v-45H53.5z M83.5,278.5h-15v-15h15V278.5z"/>
+	<path class="st2" d="M53.5,308.5v45h45v-45H53.5z M83.5,338.5h-15v-15h15V338.5z"/>
+	<rect x="248.5" y="38.5" class="st1" width="15" height="30"/>
+	<rect x="443.5" y="428.5" class="st2" width="15" height="15"/>
+	<rect x="53.5" y="218.5" class="st2" width="15" height="15"/>
+	<path class="st2" d="M488.5,229.1l16-16l0-39.6l-110.8,0l-15,15H263.5v-30h-50.8v-15h101.7v-45h-50.8v-15h15v-60h-45v60h15v30h50.8
+		v15H197.7v45h50.8v15H133.3l-15-15l-110.8,0l0,39.6l16,16v203.8l-16,16l0,39.6l156.5,0l15-15h154l15,15l156.5,0l0-39.6l-16-16
+		V229.1z M248.5,38.5h15v30h-15V38.5z M399.9,188.5l89.6,0l0,18.4l-11.6,11.6h-108L399.9,188.5z M363.7,203.5l-15,15H163.3l-15-15
+		H363.7z M157.8,473.5l-135.3,0l0-18.4l11.6-11.6h153.7L157.8,473.5z M194,458.5l15-15h94l15,15H194z M489.5,455.1l0,18.4l-135.3,0
+		l-30-30h104.3v-15h-390V222.9l-16-16l0-18.4l89.6,0l30,30H83.5v15h390v205.6L489.5,455.1z"/>
+</g>
+</svg>

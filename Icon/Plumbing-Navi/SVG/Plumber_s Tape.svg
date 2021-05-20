@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#80D6FB;}
+	.st1{fill:#46BEE8;}
+	.st2{fill:#FFD3B3;}
+	.st3{fill:#FCB98B;}
+	.st4{fill:#6E83B7;}
+	.st5{fill:#EDEFF1;}
+	.st6{fill:#466089;}
+	.st7{fill:#D3D3D3;}
+	.st8{fill:#FFB0AA;}
+	.st9{fill:#FF7B7B;}
+	.st10{fill:#FFE352;}
+	.st11{fill:#FFB236;}
+	.st12{fill:#98CA69;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+	<g>
+		<g>
+			<path class="st1" d="M5,331c0,44.183,76.112,80,170,80s170-35.817,170-80v-11H5V331z"/>
+		</g>
+		<g>
+			<ellipse class="st0" cx="175" cy="320" rx="170" ry="80"/>
+		</g>
+		<g>
+			<g>
+				<polygon class="st5" points="507,296 497,276.83 507,257.66 497,238.492 507,219.325 497,200.165 507,181 175,181 175,296 				
+					"/>
+			</g>
+			<g>
+				<path class="st7" d="M175,181v115c0,0,157.475,0,160,0V181C332.475,181,175,181,175,181z"/>
+			</g>
+		</g>
+		<g>
+			<path class="st5" d="M35,181v115c0,44.183,62.68,80,140,80s140-35.817,140-80V181H35z"/>
+		</g>
+		<g>
+			<path class="st1" d="M5,192c0,44.183,76.112,80,170,80s170-35.817,170-80v-11H5V192z"/>
+		</g>
+		<g>
+			<ellipse class="st0" cx="175" cy="181" rx="170" ry="80"/>
+		</g>
+		<g>
+			<ellipse class="st1" cx="175" cy="181" rx="110" ry="43"/>
+		</g>
+	</g>
+</g>
+</svg>
