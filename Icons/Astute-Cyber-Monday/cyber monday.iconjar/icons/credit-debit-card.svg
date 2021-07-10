@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#463C4B;}
+	.st1{fill:#555A6E;}
+	.st2{fill:#289BC3;}
+	.st3{fill:#00D2D2;}
+	.st4{fill:#D7E6F0;}
+	.st5{fill:#FF6E91;}
+	.st6{fill:#6E7896;}
+	.st7{fill:#FAA037;}
+	.st8{fill:#E64178;}
+	.st9{fill:#FAB991;}
+	.st10{fill:#A5C3DC;}
+	.st11{fill:#F0915A;}
+	.st12{fill:#FFD241;}
+	.st13{fill:#32283C;}
+	.st14{fill:#E6E6EB;}
+	.st15{fill:#466932;}
+	.st16{fill:#78AF41;}
+	.st17{fill:#F57328;}
+	.st18{fill:#C8733C;}
+</style>
+<g>
+	<g>
+		<path class="st11" d="M156,92l-86.627,86.627C63.371,184.628,60,192.768,60,201.255V412h128v-32c26.51,0,48-21.49,48-48V92H156z"
+			/>
+	</g>
+	<g>
+		<g>
+			<path class="st2" d="M444,292H132c-17.673,0-32-14.327-32-32V84c0-17.673,14.327-32,32-32h312c17.673,0,32,14.327,32,32v176
+				C476,277.673,461.673,292,444,292z"/>
+		</g>
+		<g>
+			<path class="st3" d="M420,292H132c-17.673,0-32-14.327-32-32V84c0-17.673,14.327-32,32-32h288c17.673,0,32,14.327,32,32v176
+				C452,277.673,437.673,292,420,292z"/>
+		</g>
+	</g>
+	<g>
+		<path class="st9" d="M69.373,242.627l75.314-75.314c6.248-6.248,16.379-6.248,22.627,0l2.745,2.745
+			c18.745,18.745,18.745,49.137,0,67.882L140,268v64c0,26.51-21.49,48-48,48H60V265.255C60,256.768,63.371,248.629,69.373,242.627z"
+			/>
+	</g>
+	<g>
+		<path class="st11" d="M142.667,169.333L142.667,169.333c9.573,9.573,9.573,25.094,0,34.667l0,0c-2.209,2.209-5.791,2.209-8,0
+			l-13.333-13.333L142.667,169.333z"/>
+	</g>
+	<g>
+		<path class="st0" d="M212,460H36v-24c0-13.255,10.745-24,24-24h128c13.255,0,24,10.745,24,24V460z"/>
+	</g>
+	<g>
+		<path class="st13" d="M140,436h72v24h-88v-8C124,443.163,131.163,436,140,436z"/>
+	</g>
+	<g>
+		<rect x="100" y="100" class="st1" width="352" height="48"/>
+	</g>
+	<g>
+		<rect x="452" y="100" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 928 248)" class="st0" width="24" height="48"/>
+	</g>
+	<g>
+		<g>
+			<circle class="st8" cx="380" cy="222.667" r="32"/>
+		</g>
+		<g>
+			<circle class="st5" cx="332" cy="222.667" r="32"/>
+		</g>
+	</g>
+</g>
+</svg>

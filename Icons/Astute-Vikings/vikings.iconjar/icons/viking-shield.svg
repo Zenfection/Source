@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#A5C3DC" d="M272,480h-32C116.288,480,16,379.712,16,256v0C16,132.288,116.288,32,240,32h32
+			c123.712,0,224,100.288,224,224v0C496,379.712,395.712,480,272,480z"/>
+	</g>
+	<g>
+		<circle fill="#D7E6F0" cx="240" cy="256" r="224"/>
+	</g>
+	<g>
+		<circle fill="#D26E28" cx="240" cy="256" r="192"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#A55023" d="M248,447.835V64.165c-2.653-0.109-5.32-0.165-8-0.165s-5.347,0.056-8,0.165v383.671
+				c2.653,0.109,5.32,0.165,8,0.165S245.347,447.944,248,447.835z"/>
+		</g>
+		<g>
+			<path fill="#A55023" d="M120,405.888c5.125,4.108,10.465,7.959,16,11.532V94.58c-5.535,3.574-10.875,7.424-16,11.533V405.888z"/>
+		</g>
+		<g>
+			<path fill="#A55023" d="M344,417.42c5.535-3.574,10.875-7.424,16-11.532V106.112c-5.125-4.108-10.465-7.959-16-11.533V417.42z"/>
+		</g>
+	</g>
+	<g>
+		<circle fill="#D7E6F0" cx="240" cy="256" r="80"/>
+	</g>
+	<g>
+		<circle fill="#A5C3DC" cx="240" cy="256" r="48"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M192,256h16c17.673,0,32-14.327,32-32v-16h0C213.49,208,192,229.49,192,256L192,256z"/>
+	</g>
+	<g>
+		<g>
+			<circle fill="#A5C3DC" cx="240" cy="48" r="8"/>
+		</g>
+		<g>
+			<circle fill="#A5C3DC" cx="240" cy="464" r="8"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#A5C3DC" cx="92.922" cy="108.922" r="8"/>
+		</g>
+		<g>
+			<circle fill="#A5C3DC" cx="387.078" cy="403.078" r="8"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#A5C3DC" cx="32" cy="256" r="8"/>
+		</g>
+		<g>
+			<circle fill="#A5C3DC" cx="448" cy="256" r="8"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle fill="#A5C3DC" cx="92.922" cy="403.078" r="8"/>
+		</g>
+		<g>
+			<circle fill="#A5C3DC" cx="387.078" cy="108.922" r="8"/>
+		</g>
+	</g>
+</g>
+</svg>
